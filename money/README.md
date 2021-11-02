@@ -5,23 +5,15 @@ description: >-
   system.
 ---
 
-# Money
+# Commerce and Finance
 
 ## What is Money?
 
 ### Store of Value
 
-#### Monetary Energy
-
-#### Thermodynamics
-
 ### Medium of Exchange
 
-#### Price Stability
-
 ### Unit of Account
-
-#### Foreign Exchange Risk
 
 ## History of Money
 
@@ -58,6 +50,3 @@ Legal Tender Cases: [https://www.britannica.com/event/Legal-Tender-Cases](https:
 ### Debasement
 
 ### Capital Controls
-
-
-

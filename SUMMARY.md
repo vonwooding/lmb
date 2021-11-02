@@ -63,7 +63,7 @@
     * [Relevance](law/evidence/relevance.md)
     * [Character](law/evidence/character.md)
     * [Hearsay](law/evidence/hearsay.md)
-* [Money](money/README.md)
+* [Commerce and Finance](money/README.md)
   * [Banking](money/central-banking.md)
   * [Austrian Economics](money/austrian-economics.md)
   * [The History of Money](money/the-history-of-money.md)
