@@ -15,6 +15,7 @@
     * [Statutory Interpretation Caselaw](law/administrative-law/statutory-interpretation-caselaw.md)
     * [Statutory Interpretation and Construction](law/administrative-law/untitled.md)
     * [In-Class Assignment](law/administrative-law/in-class-assignment.md)
+    * [Standards of Review](law/administrative-law/standards-of-review.md)
   * [Criminal Procedure](law/criminal-procedure.md)
   * [Business Associations](law/business-associations/README.md)
     * [Finance](law/business-associations/balance-sheet.md)
