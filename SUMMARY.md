@@ -82,5 +82,5 @@
     * [10/27/21](bitcoin/bitcoin-mining/10-27-21.md)
   * [Resources](bitcoin/resources.md)
   * [Wyoming Bitcoin Law](bitcoin/wyoming-bitcoin-law.md)
-* [Security](security/README.md)
-  * [Fraud Examination](security/fraud-examination.md)
+* [Security and Privacy](security-and-privacy/README.md)
+  * [Fraud Examination](security-and-privacy/fraud-examination.md)
