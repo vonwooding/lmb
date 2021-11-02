@@ -78,6 +78,7 @@
     * [09/29/21](bitcoin/bitcoin-mining/09-29-21.md)
     * [10/06/2](bitcoin/bitcoin-mining/10-06-2.md)
     * [10/13/21](bitcoin/bitcoin-mining/10-13-21.md)
+    * [10/20/21](bitcoin/bitcoin-mining/10-20-21.md)
   * [Resources](bitcoin/resources.md)
   * [Wyoming Bitcoin Law](bitcoin/wyoming-bitcoin-law.md)
 * [Security](security/README.md)
