@@ -4,21 +4,29 @@
 
 A limited liability company is an entity distinct from its members.
 
-## Stone v. Jetmar Properties, LLC.
+## Formation
 
-### Formation
+### Stone v. Jetmar Properties
 
-Ownership, management and control
+## Management
 
-Financial rights
+### Gottsacker v. Monnier
 
-Liabililty Considerations
+### Taghipour v. Jerez
 
-Individual Withdrawal
+## Limited Liability
 
+### NetJets Aviation, Inc. v. LHC Communications
 
+## Fiduciary Duties
 
-## NetJets Aviation, Inc. v. LHC Communications
+### Miller v. HCP & Company&#x20;
+
+## Dissolution
+
+### Haley v. Talcott
+
+### In re Carlisle Etcetera LLC
 
 
 
