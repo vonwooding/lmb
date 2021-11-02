@@ -1,0 +1,1244 @@
+<!DOCTYPE html>
+
+<html  dir="ltr" lang="en-us" xml:lang="en-us">
+<head>
+    <title>CS406 Study Guide</title>
+    <link rel="shortcut icon" href="https://learn.saylor.org/theme/image.php/saylor/theme/1634567443/favicon" />
+    <meta name="apple-itunes-app" content="app-id=1481507148, app-argument=https://learn.saylor.org/mod/book/print.php?id=36876&amp;chapterid=0"/><link rel="manifest" href="https://learn.saylor.org/admin/tool/mobile/mobile.webmanifest.php" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, CS406 Study Guide" />
+<link rel="stylesheet" type="text/css" href="https://learn.saylor.org/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://learn.saylor.org/theme/styles.php/saylor/1634567443_1634565989/all" />
+<link rel="stylesheet" type="text/css" href="https://learn.saylor.org/mod/book/tool/print/print.css" />
+<script>
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/learn.saylor.org","sesskey":"Upy65sjlWa","sessiontimeout":"28800","sessiontimeoutwarning":"1200","themerev":"1634567443","slasharguments":1,"theme":"saylor","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1634566938","admin":"admin","svgicons":true,"usertimezone":"America\/New_York","contextid":3568365,"langrev":1634566938,"templaterev":"1634566938","developerdebug":true};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":true,"base":"https:\/\/learn.saylor.org\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/learn.saylor.org\/theme\/yui_combo.php?","combine":true,"filter":"RAW","insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/learn.saylor.org\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/learn.saylor.org\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/learn.saylor.org\/theme\/yui_combo.php?m\/1634566938\/","combine":true,"comboBase":"https:\/\/learn.saylor.org\/theme\/yui_combo.php?","ext":false,"root":"m\/1634566938\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":"DEBUG","modules":{"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-course-formatchooser":{"requires":["base","node","node-event-simulate"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-passwordunmask":{"requires":[]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_checklist-linkselect":{"requires":["node","event-valuechange"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-block_workflow-userinfo":{"requires":["base","event","node","io"]},"moodle-block_workflow-comments":{"requires":["base","overlay","moodle-core-formautosubmit","moodle-core-notification"]},"moodle-block_workflow-todolist":{"requires":["base","node","event"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-format_grid-gridkeys":{"requires":["event-nav-keys"]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_grader-gradereporttable":{"requires":["base","node","event","handlebars","overlay","event-hover"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emojipicker-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_generico-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_h5p-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_html-beautify":{},"moodle-atto_html-codemirror":{"requires":["moodle-atto_html-codemirror-skin"]},"moodle-atto_html-button":{"requires":["promise","moodle-editor_atto-plugin","moodle-atto_html-beautify","moodle-atto_html-codemirror","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/learn.saylor.org\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/learn.saylor.org\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1634566938\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/learn.saylor.org\/lib\/javascript.php\/1634566938\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/learn.saylor.org\/lib\/javascript.php\/1634566938\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]},"mathjax":{"name":"mathjax","fullpath":"https:\/\/cdn.jsdelivr.net\/npm\/mathjax@2.7.9\/MathJax.js?delayStartupUntil=configured"}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+
+<style>
+.container-fluid {
+overflow: hidden;
+}
+</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body  id="page-mod-book-print" class="format-flexsections  path-mod path-mod-book chrome dir-ltr lang-en_us yui-skin-sam yui3-skin-sam learn-saylor-org pagelayout-embedded course-453 context-3568365 cmid-36876 category-9 ">
+<div class="toast-wrapper mx-auto py-0 fixed-top" role="status" aria-live="polite"></div>
+
+<div>
+    <a class="sr-only sr-only-focusable" href="#maincontent">Skip to main content</a>
+</div><script src="https://learn.saylor.org/lib/javascript.php/1634566938/lib/babel-polyfill/polyfill.min.js"></script>
+<script src="https://learn.saylor.org/lib/javascript.php/1634566938/lib/polyfills/polyfill.js"></script>
+<script src="https://learn.saylor.org/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple.js"></script><script src="https://learn.saylor.org/lib/javascript.php/1634566938/lib/javascript-static.js"></script>
+<script>
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+<div id="page">
+    <div id="page-content" class="d-block">
+        <div role="main"><span id="maincontent"></span><div class="book p-4">
+    <div class="text-right"><a onclick="window.print();return false;" class="hidden-print" href="#"><img class="icon icon" alt="Print book" title="Print book" src="https://learn.saylor.org/theme/image.php/saylor/booktool_print/1634567443/book" />Print book</a></div>
+    <div class="text-center pb-3 book_title"><h1>CS406 Study Guide</h1></div>
+    <div class="book_info w-100 pt-6 d-inline-block">
+        <div class="w-50 float-left">
+            <table>
+                <tr>
+                    <td>
+                        Site:
+                    </td>
+                    <td class="pl-3">
+                        <a href="https://learn.saylor.org">Saylor Academy</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Course:
+                    </td>
+                    <td class="pl-3">
+                        CS406: Information Security
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Book:
+                    </td>
+                    <td class="pl-3">
+                        CS406 Study Guide
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="w-50 float-left">
+            <table class="float-right">
+                <tr>
+                    <td>
+                        Printed by:
+                    </td>
+                    <td class="pl-3">
+                        Von Wooding
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Date:
+                    </td>
+                    <td class="pl-3">
+                        Tuesday, November 2, 2021, 11:39 AM
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="w-100">
+        <div class="py-5"><div class="book_toc_none"><a name="toc"></a><h2 class="text-center pb-5">Table of contents</h2><ul><li><a title="Navigating this Study Guide" class="font-weight-bold text-decoration-none" href="#ch20351">Navigating this Study Guide</a></li><li><a title="Unit 1: Introduction to Information Security" class="font-weight-bold text-decoration-none" href="#ch20352">Unit 1: Introduction to Information Security</a></li><li><a title="Unit 2: Threats and Attack Modes" class="font-weight-bold text-decoration-none" href="#ch20353">Unit 2: Threats and Attack Modes</a></li><li><a title="Unit 3: Cryptographic Models" class="font-weight-bold text-decoration-none" href="#ch20354">Unit 3: Cryptographic Models</a></li><li><a title="Unit 4: Access Control" class="font-weight-bold text-decoration-none" href="#ch20355">Unit 4: Access Control</a></li><li><a title="Unit 5: Identification and Authentication" class="font-weight-bold text-decoration-none" href="#ch20356">Unit 5: Identification and Authentication</a></li><li><a title="Unit 6: Network Security" class="font-weight-bold text-decoration-none" href="#ch20357">Unit 6: Network Security</a></li><li><a title="Unit 7: Operating System (OS) Security" class="font-weight-bold text-decoration-none" href="#ch20358">Unit 7: Operating System (OS) Security</a></li><li><a title="Unit 8: Intrusion Detection and Prevention Systems" class="font-weight-bold text-decoration-none" href="#ch20359">Unit 8: Intrusion Detection and Prevention Systems</a></li><li><a title="Unit 9: Privacy Laws, Penalties, and Privacy Issues" class="font-weight-bold text-decoration-none" href="#ch20360">Unit 9: Privacy Laws, Penalties, and Privacy Issues</a></li></ul></div></div>
+    </div>
+    <div class="w-100">
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20351"><h2 class="text-center pb-5">Navigating this Study Guide</h2><p></p>
+<h4><strong>Study Guide Structure</strong></h4>
+<p>In this study guide, the sections in each unit (1a., 1b., etc.) are the learning outcomes of that unit.&nbsp;</p>
+<p>Beneath each learning outcome are:</p>
+<ul>
+    <li>questions for you to answer independently;</li>
+    <li>a brief summary of the learning outcome topic; and</li>
+    <li>and resources related to the learning outcome.&nbsp;</li>
+</ul>
+<p>At the end of each unit, there is also a list of suggested vocabulary words.</p>
+<p>&nbsp;</p>
+<h4><strong>How to Use this Study Guide</strong></h4>
+<ol>
+    <li>Review the entire course by <strong>reading </strong>the learning outcome summaries and suggested resources.</li>
+    <li>Test your understanding of the course information by <strong>answering </strong>questions related to each unit learning outcome and <strong>defining </strong>and <strong>memorizing </strong>the vocabulary words at the end of each unit.</li>
+</ol>
+<p>By clicking on the gear button on the top right of the screen, you can print the study guide. Then you can make notes, highlight, and underline as you work.</p>
+<p>Through reviewing and completing the study guide, you should gain a deeper understanding of each learning outcome in the course and be better prepared for the final exam!</p></div>
+            </div>
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20352"><h2 class="text-center pb-5">Unit 1: Introduction to Information Security</h2><p></p>
+<h3>1a. Discuss how the need for information security has changed as information technology has evolved</h3>
+<ul>
+    <li>How did the Department of Defense (DoD) influence the evolution of information security?</li>
+    <li>What prompted the three elements of information security?</li>
+    <li>Why is the focus of information security today mostly concerned with the protection of personal information?</li>
+</ul>
+<p>The Department of Defense (DoD) developed the first computer network by linking computers over telephone lines in the Advanced Research Projects Agency Network (ARPANET). This network is attributed as being the predecessor of the Internet. As the internet
+    evolved into a global network the systems on the network began storing information that needed protection, invoking the development of information security methods.</p>
+<p>Before the invention of the network, the protection of systems was more focused on preventing access to systems. The DoD developed the first network, and due to the nature of defense was primarily concerned with the confidentiality of data. When commercial
+    systems came online the concern shifted to integrity. When the Morris Worm was successful in bringing down the internet using the first denial of service (DoS) attack, more concern became apparent for system availability.</p>
+<p>The focus today is primarily on protecting personal information. As e-commerce has grown exponentially, more personal data has been collected and stored online raising more concern for personal privacy and the protection of data stored by information
+    systems. Hacking has become more widespread, heightening the demand for information systems security.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29632" target="_blank" rel="noopener">Information Security History</a> and <a href="https://learn.saylor.org/mod/book/view.php?id=29635" target="_blank" rel="noopener">Timeline of the History of Information Security</a>.</p>
+<p>&nbsp;</p>
+<h3>1b. Explain how confidentiality, integrity, and availability (CIA triad) applies to information security</h3>
+<ul>
+    <li>What are the three main categories of harm that can occur with information systems?</li>
+    <li>What are the three elements that are the basis of information security and what is the difference between the elements?</li>
+    <li>What are the limitations of security in respect to the CIA triad?</li>
+</ul>
+<p>The three main categories of harm to information systems are the theft or loss of data, the alteration of data, and the denial of access to data or systems that contain the data. The three elements of information security are confidentiality, integrity,
+    and availability. These three terms collectively are known as the CIA triad. Confidentiality addresses the protection of data from unauthorized access. Integrity addresses the inadvertent modification of data, and availability addresses protecting
+    the system to ensure the data is readily accessible.</p>
+<p>The limitations of security are that there must be a balance between information security and functionality. Locking a system down to conform to the tenets of the CIA triad so tightly that it cannot function appropriately is unacceptable. Also, when attempting
+    to secure a system by conforming to one element of the CIA triad, another element may suffer. For instance, the most secure way to protect a system's confidentiality is to unplug it from the internet and lock it away so it cannot be accessed. Of course,
+    this is not feasible as then the system does not provide for availability.</p>
+<p>To review, watch <a href="https://learn.saylor.org/mod/page/view.php?id=29647" target="_blank" rel="noopener">The CIA Triad</a>.</p>
+<p>&nbsp;</p>
+<h3>1c. Compare threats, vulnerabilities, and risks</h3>
+<ul>
+    <li>What is the difference between threats, vulnerabilities, and risks?</li>
+    <li>What are two ways to reduce risk?</li>
+    <li>What can be used to protect against threats and vulnerabilities?</li>
+</ul>
+<p>A threat is the possibility of a system exploit, and a vulnerability is a weakness in a system. A risk is the result of a threat exploiting a vulnerability. A threat agent can be a person or hacker that attacks a system through a vulnerability. Vulnerabilities
+    can be weaknesses in procedures such as a weak password policy or a back door in the software.</p>
+<p>Risk is the sum of threats and vulnerabilities, and the asset value is sometimes added. The asset value does not change, but controls can be used to decrease threats and vulnerabilities. To reduce risk either threats, vulnerabilities, or both threats
+    and vulnerabilities must be decreased.</p>
+<p>Controls are used to mitigate threats and vulnerabilities. This means that safeguards are put in place to protect the confidentiality, integrity, and availability of a system. Just as was discussed in the previous section, controls must not protect one
+    tenet of the CIA triad while another element suffers. Controls must be effective while still providing a balance between security and system functionality.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29648" target="_blank" rel="noopener">Threats and Vulnerabilities</a> and <a href="https://learn.saylor.org/mod/page/view.php?id=29650" target="_blank" rel="noopener">The Elements of Security: Vulnerability, Threat, Risk</a>.</p>
+<p>&nbsp;</p>
+<h3>1d. List steps in the risk management process</h3>
+<ul>
+    <li>Why is risk management important in information systems?</li>
+    <li>What are the four steps of the risk management process?</li>
+    <li>What are the basic activities that occur in each of the four steps?</li>
+</ul>
+<p>As we have seen in previous units, it is not possible to eliminate all risk in a system. The level of threats and vulnerabilities can change over time and can vary when there are changes in the system environment. Therefore, it is important to have a
+    continuous process to manage and monitor risk.</p>
+<p>The risk management process defined by NIST SP 800-39 identifies the four steps of the risk management process as risk framing, risk assessment, risk response, and risk monitoring. Risk framing is evaluating an organization's risk management approach
+    such as the acceptable level of risk tolerance, organizational policies, laws, and regulations. The most important part of this step is getting senior leadership's commitment to implement the risk management strategy.</p>
+<p>Risk assessment is where the risk is identified and classified, and the value of the assets is determined. In this step, risk is determined by identifying the threats and the vulnerabilities that can affect the organization. Risk assessment measures the
+    impact of a potential risk to an organization using either a qualitative or a quantitative method.</p>
+<p>How to address or mitigate the risk is called risk response. This is the step where a determination is made about the appropriate controls needed to mitigate risks. Risk can be accepted, avoided, mitigated, shared, or transferred. If a risk is less than
+    the acceptable risk tolerance level of the organization the risk can be accepted. If a risk level is too high, it can be avoided by removing the software or product that is responsible for the risk. Mitigating a risk means to fix or close a vulnerability.
+    Sharing risk means to lessen the level of the risk by sharing it with another organization, possibly by outsourcing. Transferring risk can occur by purchasing insurance.</p>
+<p>Risk monitoring is the perpetual evaluation of the controls and of the changes needed to manage the risk. In this step, an organization will determine the appropriate type of monitoring such as compliance monitoring to determine if the risk response or
+    risk controls are being implemented correctly, effectiveness monitoring to determine if the controls selected are effective, and a determination on monitoring changes due to changes in the system hardware, software, or the environment. The organization
+    will document changes and identify weaknesses in new technology and will continue to evaluate the effectiveness of the controls.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29692" target="_blank" rel="noopener">Risk Management</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29662" target="_blank" rel="noopener">NIST SP 800-39</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29705" target="_blank" rel="noopener">More on Risk Management</a>.</p>
+<p>&nbsp;</p>
+<h3>1e. Assess the stages of the incident response process</h3>
+<ul>
+    <li>Why is there a need for incident response?</li>
+    <li>What are the four steps of the incident response process?</li>
+    <li>What are the main activities that occur in each of the four steps of the incident response process?</li>
+</ul>
+<p>The need for incident response is due to the frequency of attacks on systems. When a breach occurs, an organization should have a plan that outlines the steps to take to respond to the attack quickly and systematically. Knowing how to respond and being
+    able to respond quickly helps to minimize the effect of the attack on the system and to secure system data. The information gained when responding to the attack should be used to protect from future events and to strengthen the methods used to secure
+    the system.</p>
+<p>The four steps of the incident response process are; preparation; detection and analysis; containment, eradication, and recovery; and post-incident activity. To prepare for incident response, all elements of the system should first be secured to protect
+    against an attack. An incident response team is established as well as the tools the team may need to respond to an incident such as forensic software, laptops, and cell phones for communication.</p>
+<p>In the detection and analysis phase, detection occurs first and then the attack is analyzed. Detection may occur through automated capabilities such as intrusion detection systems (IDSs), security information and event management (SIEM), antivirus or
+    file checking software, monitoring services, and system logs, or manually by users or technicians. Incident analysis is where the detected attack is analyzed, and a determination is made if an attack is occurring or if the indicator detected a false
+    positive. Another option is that the indicator is positive but an attack did not actually occur, such as in a system failure. The team should record all facts of the incident, should prioritize incidents, and should notify those that need to respond
+    to the incident.</p>
+<p>In the containment, eradication, and recovery phase the team determines the containment strategy and stops the attack from occurring. Evidence is gathered and documented, and the attacking host may be identified if there is time. Once contained, the systems
+    are recovered by restoring them to normal operating condition and eradicating the components of the attacker, such as removing malware.</p>
+<p>The post-incident activity consists of reviewing the incident to ensure it does not again occur. A meeting is held to review the lessons learned and to determine what could have been done better by the incident response team. The documents collected may
+    be important for the risk assessment process that was reviewed in the previous section.</p>
+<p>To review, read <a href="https://learn.saylor.org/mod/book/view.php?id=29706" target="_blank" rel="noopener">NIST SP 800-61</a> and watch <a href="https://learn.saylor.org/mod/page/view.php?id=29707" target="_blank" rel="noopener">Incident Response</a>.</p>
+<p>&nbsp;</p>
+<h3>1f. Categorize security controls by type (administrative, physical, or technical) and function (preventive, detective, deterrent, or compensating)</h3>
+<ul>
+    <li>What are some examples of the three types of security controls?</li>
+    <li>What type of controls can be preventive, detective, deterrent, and compensating?</li>
+    <li>What is an example of a physical control that is a deterrent?</li>
+</ul>
+<p>The three types of security controls are administrative, physical, and technical controls. Administrative controls are the development of written policies and procedures for an organization. Some examples of administrative controls are hiring and disciplinary
+    policies, or security awareness training. Physical controls protect the system resources and can be locked doors, access controls to a server room, or environmental controls. Technical controls protect the hardware and software resources and can be
+    encryption or authentication and access controls for the software and hardware.</p>
+<p>The most known functions of controls are preventive, detective, deterrent, and compensating. A preventive control is used to prevent an attack from occurring. An example of a preventive control is a lock on a server room door. The lock will prevent unauthorized
+    access to the server room that contains system resources. A detective control identifies an event or identifies that there is the risk that an event could occur. Intrusion detection system (IDS) software is an example of a detective control. A deterrent
+    is used to discourage an event from occurring. The threat of being disciplined keeps most people from stealing, so it is a deterrent for theft. The last function is compensating and can be explained using the example of insurance. If data that is
+    insured is lost and is insured, the insurance provider will pay to have the data restored or for legal proceedings.</p>
+<p>Control types and functions are combined and they work together. For instance, an administrative control type with a deterrent function is the consequence given when an employee violates a policy. A preventive and technical action could be a firewall.
+    A physical control that is a deterrent could be a high fence or lights at night.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29709" target="_blank" rel="noopener">Security Control Types</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29708" target="_blank" rel="noopener">Security Control</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29710" target="_blank" rel="noopener">Security Control Functions</a>.</p>
+<p>&nbsp;</p>
+<h3>1g. Propose a defense-in-depth security strategy</h3>
+<ul>
+    <li>What is the purpose of the multiple layers of security controls in the defense-in-depth principle?</li>
+    <li>What typically occurs with the number and placement of security devices with the defense-in-depth strategy?</li>
+    <li>What is a typical defense-in-depth security strategy?</li>
+</ul>
+<p>The principle of defense-in-depth provides for multiple layers of security, so that if one layer fails there is another layer beneath the failed layer to protect the system. The principle of defense-in-depth is often compared to the layers of an onion;
+    just as in the onion, when you peel back one layer there is another layer underneath. Each layer protects against a system breach and each layer provides additional protection.</p>
+<p>The layers of defense are placed at different levels and in different places in the network. If the layers are all in the same place there can still be a point of failure. This means that there may be redundancy with equipment and controls, such as more
+    than one firewall to protect the system.</p>
+<p>A typical defense-in-depth strategy could be routers that secure the perimeter, and the next layer might be firewalls that use stateful packet filtering, and the last layer is intrusion detection and intrusion protection systems.</p>
+<p><br>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29711" target="_blank" rel="noopener">Introduction to Defense-in-Depth</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29712" target="_blank" rel="noopener">Defense-in-Depth Example</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29857" target="_blank" rel="noopener">Defense-in-Depth</a>.</p>
+<p>&nbsp;</p>
+<h3>1h. Explain why humans are the weakest link in security and how human behavior can be modified through security awareness and training programs</h3>
+<ul>
+    <li>What is the main reason that humans are the weakest link in security?</li>
+    <li>What is the easiest way for a hacker to obtain login information?</li>
+    <li>What is the best way to modify human behavior to prevent an attack?</li>
+</ul>
+<p>Humans are the weakest link in security because of human behavioral issues. The most common issue with humans is that they are prone to making errors. For instance, human error can be attributed to system viruses due to antivirus software being disabled
+    by users, the leaking of a company's sensitive information by sharing data on devices that are lost or stolen, the use of unapproved devices and software by employee's, or the lack of technical knowledge to appropriately secure a system.</p>
+<p>If a hacker plans to attack a system, the simplest way is to obtain the login information from a user through social engineering. The reason that social engineering is so successful is that humans are prone to be trusting of other humans. Attackers using
+    social engineering techniques may obtain system credentials from authorized users that will allow them unauthorized access to a system.</p>
+<p>Security awareness and training programs are the best way to modify human behavior and to prevent an attack. An organization usually has policies and standards written to prevent a security breach, but employees must be made aware of the policies for
+    them to be effective. The type of training for employees should be geared toward position types, such as managerial, administrative, or technical.&nbsp;</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29713" target="_blank" rel="noopener">The Human Factor</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29715" target="_blank" rel="noopener">Humans are the Weakest Link</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29716" target="_blank" rel="noopener">Security Awareness, Training, and Education</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29717" target="_blank" rel="noopener">Security Threats and the Human Factor</a>.</p>
+<p>&nbsp;</p>
+<h3>1i. Describe the purpose of prominent security frameworks</h3>
+<ul>
+    <li>What are five of some of the main security regulations and security frameworks in information security?</li>
+    <li>Of the five security regulations, which one is the standard used across the information technology (IT) industry?</li>
+    <li>Which regulation would be of primary concern in an industry that processes payment cards?</li>
+    <li>Which regulation is of most concern for state and local governments?</li>
+</ul>
+<p>Five of the main security regulations and frameworks in information security are ISO/IEC 27001, Federal Information Processing Standards (FIPS), Control Objectives for Information and Related Technologies (COBIT) 5, Payment Card Industry Data Security
+    Standard (PCI DSS), and the Center for Internet Security (CIS) Top 20 Controls.</p>
+<p>ISO/IEC 27001 is an international standard that provides best practices for information security management systems. The standard addresses people, processes, and technology. The document provides 114 controls in 35 control categories. A control is a
+    way to counter or to safeguard against a security risk.&nbsp;</p>
+<p>The payment card industry strictly follows the guidance of the Payment Card Industry Data Security Standard (PCI DSS). This guidance is for all organizations that process credit or debit cards. The reason that those in the industry closely abide by this
+    standard is because of the penalties that can be dealt with when abusing the system. Those that follow the guidance of PCI DSS also adhere to the Top 20 Controls. As is stated in the name of the framework, there is a list of 20 controls, and these
+    controls map to PCI DSS. Twenty controls were chosen because they protect against approximately 91% of attacks.</p>
+<p>State and local governments pay more attention to the Federal Information Processing Standards (FIPS), although FIPS is required for all U.S. government agencies. FIPS compliance means that an organization complies with the Federal Information Security
+    Management Act of 2002, also known as FISMA. This regulation requires organizations to reduce risk in information technology to an acceptable level but doing so at a cost that is considered reasonable.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29718" target="_blank" rel="noopener">Security Frameworks</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29719" target="_blank" rel="noopener">Center for Internet Security (CIS) Controls</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29720" target="_blank" rel="noopener">Payment Card Industry Data Security Standard (PCI DSS)</a>.</p>
+<p>&nbsp;</p>
+<h3>Unit 1 Vocabulary</h3>
+<p>This vocabulary list includes the terms you will need to know to successfully complete the final exam.</p>
+<ul>
+    <li>administrative</li>
+    <li>analysis</li>
+    <li>asset</li>
+    <li>availability</li>
+    <li>awareness</li>
+    <li>behavior</li>
+    <li>confidentiality</li>
+    <li>containment</li>
+    <li>controls</li>
+    <li>detection</li>
+    <li>detective</li>
+    <li>deterrent</li>
+    <li>eradication</li>
+    <li>exploit</li>
+    <li>hacker</li>
+    <li>incident</li>
+    <li>integrity</li>
+    <li>intrusion</li>
+    <li>mitigate</li>
+    <li>physical</li>
+    <li>policy</li>
+    <li>recovery</li>
+    <li>regulation</li>
+    <li>risk</li>
+    <li>technical</li>
+    <li>tenet</li>
+    <li>threat</li>
+    <li>vulnerability</li>
+</ul></div>
+            </div>
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20353"><h2 class="text-center pb-5">Unit 2: Threats and Attack Modes</h2><p></p>
+<h3>2a. Distinguish between threats, attacks, and threat agents</h3>
+<ul>
+    <li>What is the difference between a threat and an attack?</li>
+    <li>What is a threat agent?</li>
+    <li>How are threats identified and prioritized?</li>
+</ul>
+<p>A threat is the potential for an attack, and an attack is an assault on a system. A threat can be an attacker that means to cause harm when possible, an employee or insider that intentionally or unintentionally attacks a system, or a threat could be the
+    environment such as the possibility of a hurricane or a tornado. An attack is an action to interrupt services or to bypass controls to access a system. There are many types of attacks that are discussed in additional sections in this unit.</p>
+<p>A threat agent, sometimes called a threat actor, is the individual or group that exploits vulnerabilities. A threat agent attacks a system and can be a type of malware, a hacker, an employee, or a nation-state. Each type of threat agent has a different
+    motivation for being an attacker.</p>
+<p>The threat landscape changes often and is what is known as a moving target. There are so many threats today that no one person can identify or know them all. The best way is to pay attention to data breach reports and news on cyber threats. Threats should
+    be identified and then prioritized according to the possible impact of the threat.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29591" target="_blank" rel="noopener">Threat Terminology</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29593" target="_blank" rel="noopener">Privacy Threats</a>, and
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29592" target="_blank" rel="noopener">An Overview of Threats</a>.</p>
+<p>&nbsp;</p>
+<h3>2b. Discuss access control attacks, such as brute-force attacks, man-in-the-middle attacks, and zero-day exploits</h3>
+<ul>
+    <li>What is the difference between passive and active attacks?</li>
+    <li>What is the significance of the brute-force birthday attack as related to the birthday paradox?</li>
+    <li>What is the purpose of a man-in-the-middle attack?</li>
+    <li>When is a zero-day exploit identified?</li>
+</ul>
+<p>Passive attacks gather data or information about a system, but the attack will not attack the system resources to alter the functionality of the system. These types of attacks are more difficult to detect but simpler to prevent. An active attack may change
+    the way a system operates and is more easily detected, but more difficult to prevent.</p>
+<p>In cryptography, the birthday attack is a brute-force attack. For example, when obtaining a password by brute-force, an attacker tries all possible password combinations to gain access. The birthday attack is the possibility that a hash can be duplicated
+    without changing the original message, and this duplication is called a collision. The birthday paradox is the possibility of people in one room having the same birthday which statistically is a 50% chance if there are 253 random people in a room.
+    The birthday attack is based on the statistical occurrence of the birthday paradox.</p>
+<p>A man-in-the-middle attack is when the communication between two parties is intercepted by an attacker. The parties usually do not know that the attacker is intercepting the communication. Man-in-the-middle attacks are used by hackers for several different
+    purposes; to steal information, to analyze traffic, or to corrupt data to become part of a denial-of-service attack (DoS).</p>
+<p>Zero-day exploits are vulnerabilities in software that are known to attackers but unknown to system maintainers. Zero days refers to the number of days that the maintainers know about the vulnerability. Vulnerabilities, once known, are listed in databases
+    that are usually available to the public. One commonly known database is the common vulnerabilities and exposures (CVE) database maintained by the MITRE Corporation.</p>
+<p>To review, watch <a href="https://learn.saylor.org/mod/page/view.php?id=29595" target="_blank" rel="noopener">Types of Attacks</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29598" target="_blank" rel="noopener">Birthday Attacks</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29599" target="_blank" rel="noopener">What is a Botnet?</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29606" target="_blank" rel="noopener">Zero-Day Exploits</a>. Also, read <a href="https://learn.saylor.org/mod/page/view.php?id=29597" target="_blank" rel="noopener">Classifying Threats</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29601" target="_blank" rel="noopener">More on Botnets</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29602" target="_blank" rel="noopener">Man-in-the-Middle Attacks</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29605" target="_blank" rel="noopener">Teardrop Attacks</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29603" target="_blank" rel="noopener">What is War Dialing?</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29604" target="_blank" rel="noopener">More on War Dialing</a>.</p>
+<p>&nbsp;</p>
+<h3>2c. Examine spoofing attacks, such as email, phone number, and internet protocol (IP) spoofing</h3>
+<ul>
+    <li>What is meant by spoofing and what is the primary goal of spoofing?</li>
+    <li>What are some common spoofing techniques?</li>
+    <li>How can a spoofed email be identified?</li>
+    <li>How should a receiver respond to a spoofed telephone call?</li>
+</ul>
+<p>Spoofing is pretending to be someone or something that you are not. There are many reasons or goals for spoofing, but the primary reason an attacker may use spoofing is for financial gain. Another reason may be to gain access to a system to obtain protected
+    information.</p>
+<p>Some common spoofing techniques are: Man-in-the-middle attacks where an attacker intercepts messages between two parties; IP address spoofing is falsifying an IP address to impersonate a sender, or to conceal the address of a sender; phishing is masquerading
+    as a trusted person to gain protected information; email address spoofing is to conceal the address of the originator.</p>
+<p>To identify a spoofed email review the address bar to confirm the email address is from the sender. Pay particular attention to the domain name to ensure it is correct. When in question, call the company and ask if the message is legitimate.</p>
+<p>Spoofed telephone calls are from false caller ID numbers. To protect from spoofed calls, do not answer when the caller ID shows as unknown, or is from an unrecognized number. If you answer and there is a recording asking you to select a number to stop
+    getting the calls do not respond. Not answering or responding is the best way to respond to spoofed calls.</p>
+<p>To review, read <a href="https://learn.saylor.org/mod/page/view.php?id=29607" target="_blank" rel="noopener">Spoofing Attacks</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29608" target="_blank" rel="noopener">A Comprehensive Analysis of Spoofing</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29609" target="_blank" rel="noopener">Email Spoofing</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29610" target="_blank" rel="noopener">Caller&nbsp;ID Spoofing</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29611" target="_blank" rel="noopener">ID Address Spoofing</a>.</p>
+<p>&nbsp;</p>
+<h3>2d. Identify social engineering attacks, such as dumpster diving, shoulder surfing, tailgating, phishing, spear-phishing, whaling, and pretexting</h3>
+<ul>
+    <li>What is social engineering and what are the two categories of social engineering attacks?</li>
+    <li>What kinds of security leaks can be found in the trash and what is this kind of attack?</li>
+    <li>What can attackers gain by shoulder surfing and how is it different from tailgating?</li>
+    <li>What is the purpose of whaling and who is the target?</li>
+</ul>
+<p>Social engineering is when attackers influence individuals to disclose protected information. The two categories of social engineering attacks are human-based and computer-based. A human-based attack is when the attacker contacts the target. A computer-based
+    attack is gathering information from technology such as cell phones or social media websites.</p>
+<p>Dumpster diving is when an attacker finds protected information or equipment in the trash. To prevent information from being stolen, documents should be shredded before discarding and devices should be erased.</p>
+<p>Shoulder surfing is watching over an individual's shoulder by standing behind them, by watching through a window, using a camera, or other methods that allow the monitor to be viewed as information is entered into a system. Login and information and protected
+    data may be compromised while shoulder surfing. To protect against this type of attack, users should remain aware of their surroundings when entering protected information into a system.</p>
+<p>Tailgating is when one person follows another through a secure entry point. The person that tailgates may or may not have authorized access to the area. To ensure this does not happen, the person that enters the secure location should ensure that the
+    door or entry device closes behind them and that no one follows them into the secure location.</p>
+<p>Whaling-phishing, usually referred to as whaling, is a type of spear-phishing attack. Spear-phishing is a type of targeted phishing attack, and whaling is targeting a person with a high profile in a company. The only difference between phishing, spear-phishing,
+    and whaling is the target.</p>
+<p>There are other types of social engineering that have not been mentioned. One that is commonly used is pretexting or designing scenarios that will make victims trust the attacker, and then providing the attacker with protected information. A typical way
+    this occurs is when an attacker telephones a user and impersonates company help desk personnel. The user feels comfortable and trusts the attacker, and provides the attacker with protected or personal information, such as passwords and usernames.</p>
+<p>To review, read <a href="https://learn.saylor.org/mod/book/view.php?id=29612" target="_blank" rel="noopener">An Overview of Social Engineering</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29613" target="_blank" rel="noopener">Dumpster Diving</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29614" target="_blank" rel="noopener">One Man's Trash is Another Man's Treasure</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29615" target="_blank" rel="noopener">Shoulder Surfing</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29616" target="_blank" rel="noopener">Tailgating</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29619" target="_blank" rel="noopener">Phishing, Spear-phishing, and Whaling</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29620" target="_blank" rel="noopener">Pretexting</a>, and watch <a href="https://learn.saylor.org/mod/page/view.php?id=29617" target="_blank" rel="noopener">How to Protect Against Tailgating</a>.</p>
+<p>&nbsp;</p>
+<h3>2e. Discuss application attacks, such as buffer overflows, time of check to time of use, back doors, and escalation of privilege</h3>
+<ul>
+    <li>Why are attacks often launched against applications?</li>
+    <li>What effect can a buffer overflow have on an application?</li>
+    <li>How can a time of check to time of use (TOCTTOU) and an escalation of privilege attack be prevented?</li>
+</ul>
+<p>Attacking an application can give an attacker the same result as when attacking a network, only the attack on an application is easier to successfully achieve. Applications are often unprotected by common defense methods and they are not as secure as
+    networks. An attacker can gain control of a system through an attack on an application when performed correctly.</p>
+<p>A buffer is temporary memory and is a place where information is temporarily stored while in use. If an attacker sends too much information to the buffer, the overflow information will be stored outside the buffer. If an attacker's data moves outside
+    the buffer, the attacker can gain control of the system.</p>
+<p>A TOCTTOU attack is a race condition that is caused by a software bug. When an authorized change is in progress and the system is locked down, the change may still occur because access to the software was already authorized. One technique that can be
+    used to prevent the TOCTTOU attack is exception handling.</p>
+<p>Escalation of privilege is when an attacker gains access at a low level and has the capability to raise their access to a higher level. This may occur by an attacker accessing a system and then taking over an account of a user at a higher level. Different
+    methods can be used to prevent escalation of privilege, but the primary method is through least privilege. Least privilege is when users are limited only to the access needed to perform their jobs. When the method of least privilege is used and an
+    attacker takes over another account the privileges gained will be limited.</p>
+<p>To review, watch <a href="https://learn.saylor.org/mod/page/view.php?id=29621" target="_blank" rel="noopener">Application Attacks</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29622" target="_blank" rel="noopener">Types of Application Attacks</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29623" target="_blank" rel="noopener">The Basics of Buffer Overflows</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29624" target="_blank" rel="noopener">More on Buffer Overflows</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29627" target="_blank" rel="noopener">Escalation of Privilege</a>. Also, read <a href="https://learn.saylor.org/mod/book/view.php?id=29625" target="_blank" rel="noopener">Time of Check to Time of Use</a>&nbsp;and&nbsp;
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29626" target="_blank" rel="noopener">Application and Escalation of Privilege</a>.</p>
+<p>&nbsp;</p>
+<h3>2f. Describe web application attacks, such as those involving cross-site scripting (XSS) and SQL injection</h3>
+<ul>
+    <li>What is the best defense against application attacks?</li>
+    <li>How can a cross-site scripting (XSS) attack be prevented?</li>
+    <li>What kind of injection attacks affects databases?</li>
+</ul>
+<p>Since networks are hardened and are a more challenging target for attackers, applications have now become the focus of attackers. The best protection against application attacks is an improved design approach by application developers. When developers
+    incorporate appropriate data validation techniques into the application and the techniques are properly tested for effectiveness by someone outside the organization, attackers find it more difficult to successfully attack the application.</p>
+<p>Cross-site scripting (XSS) is used as a method to attack applications. Malicious code is inserted in a form on a web page. The code is then relayed to the server where the web page resides and is sent to a client system to be executed. One of the most
+    important methods to prevent XSS is through data validation. Validation is testing the data to verify that the appropriate format is submitted before it is accepted into the system.</p>
+<p>Cross-site scripting attacks database servers, and structured query language (SQL) injection attacks can attack a database. In SQL injection attacks, an attacker inputs SQL commands into the system from a form or an input field, and the commands are passed
+    on to the database. The malicious SQL commands may modify or retrieve information in the system's database.</p>
+<p>To review, read <a href="https://learn.saylor.org/mod/page/view.php?id=29630" target="_blank" rel="noopener">Cross-Site Scripting</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29631" target="_blank" rel="noopener">Examples of Cross-Site Scripting</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29633" target="_blank" rel="noopener">How Does XSS Work?</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29805" target="_blank" rel="noopener">SQL Injection</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29634" target="_blank" rel="noopener">Examples of SQL Injection Attacks</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29636" target="_blank" rel="noopener">How Application Flaws Enable SQL Injection</a>, and watch <a href="https://learn.saylor.org/mod/page/view.php?id=29629" target="_blank" rel="noopener">Types of Application Attacks</a>.</p>
+<p>&nbsp;</p>
+<h3>2g. Distinguish between types of malware attacks, such as viruses, logic bombs, Trojan horses, and worms</h3>
+<ul>
+    <li>What are three types of malware and how do they differ?</li>
+    <li>What is the purpose of spyware and adware?</li>
+    <li>How can a logic bomb be used in a DDoS attack?</li>
+</ul>
+<p>&nbsp;Three common types of malware are viruses, trojans, and worms. A virus needs a host, and to be effective it must replicate and activate its malicious code. A trojan disguises itself as something needed or wanted by a user. A trojan is used to get
+    a user to download a virus. A worm differs from a virus in that it can replicate itself across a network without the assistance of a host.</p>
+<p>Spyware collects system information and sends it to an attacker, and adware entices users to make purchases. Spyware is accomplished through malicious code that may make changes to system settings. Adware may load advertisements, possibly as pop-ups,
+    and may cause poor system performance.</p>
+<p>Another type of malware is logic bombs. Code is inserted into a system that can be set to cause harm once certain conditions have been met. A logic bomb may be inserted into many other systems and all set to launch at the same time creating zombies to
+    launch a distributed denial-of-service attack (DDoS).</p>
+<p>To review, watch <a href="https://learn.saylor.org/mod/page/view.php?id=29637" target="_blank" rel="noopener">Common Types of Malware</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29638" target="_blank" rel="noopener">Malware Functions</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29640" target="_blank" rel="noopener">The Security Risks of Viruses, Worms, and Trojan Horses</a>, and read <a href="https://learn.saylor.org/mod/page/view.php?id=29639" target="_blank" rel="noopener">Computer Viruses, Worms, Trojan Horses, Spyware, and Adware</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29641" target="_blank" rel="noopener">Types of Trojan Horses</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29642" target="_blank" rel="noopener">Logic Bombs</a>.</p>
+<p>&nbsp;</p>
+<h3>2h. Examine denial of service (DoS) and distributed denial of service (DDoS) attacks</h3>
+<ul>
+    <li>What is the goal for an attacker that commits a denial of service (DoS) attack?</li>
+    <li>What leg of the CIA triad is affected by a DoS attack?</li>
+    <li>What systems are used to initiate a distributed denial of service (DDoS) attack?</li>
+</ul>
+<p>A denial of service (DoS) attack is when many requests are sent to a system, so many requests that the system cannot manage the traffic. An attacker attempting a denial-of-service attack differs from other attacks in that the attacker is not trying to
+    gain access to a system, nor is the attacker trying to steal information. When an attacker launches a DoS attack, the attacker is attempting to disrupt the operation of the system.</p>
+<p>The CIA triad represents confidentiality, integrity, and availability. If a DoS attack is successful, the system will shut down and will not be available to users. If the system shuts down, the tenet of the CIA triad that is affected is availability.</p>
+<p>The difference between a DoS attack and a distributed denial of service (DDoS) attack is the number of systems that are used in the attack. A DoS attacks one system using one other system, but DDoS attacks a system using multiple compromised machines
+    to attack one other system. The machines attack the system by sending more traffic than the system can handle, resulting in a system shut down.</p>
+<p>To review, read <a href="https://learn.saylor.org/mod/page/view.php?id=29645" target="_blank" rel="noopener">How DoS Attacks Work</a> and watch <a href="https://learn.saylor.org/mod/page/view.php?id=29643" target="_blank" rel="noopener">Denial of Service (DoS)</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29644" target="_blank" rel="noopener">Distributed Denial of Service (DDoS)</a>&nbsp;and <a href="https://learn.saylor.org/mod/page/view.php?id=29646" target="_blank" rel="noopener">Types of DoS and DDoS Attacks</a>.</p>
+<p>&nbsp;</p>
+<h3>Unit 2 Vocabulary</h3>
+<p>This vocabulary list includes the terms you will need to know to successfully complete the final exam.</p>
+<ul>
+    <li>adware</li>
+    <li>application</li>
+    <li>attack</li>
+    <li>birthday</li>
+    <li>brute-force</li>
+    <li>buffer overflow</li>
+    <li>code</li>
+    <li>distributed</li>
+    <li>dumpster</li>
+    <li>exploit</li>
+    <li>injection</li>
+    <li>internet protocol</li>
+    <li>logic bomb</li>
+    <li>malicious</li>
+    <li>phishing</li>
+    <li>pretexting</li>
+    <li>shoulder surfing</li>
+    <li>spear phishing</li>
+    <li>spoofing</li>
+    <li>spyware</li>
+    <li>tailgating</li>
+    <li>threat</li>
+    <li>threat actor</li>
+    <li>threat agent</li>
+    <li>traffic</li>
+    <li>trojan</li>
+    <li>validation</li>
+    <li>vulnerability</li>
+    <li>web application</li>
+    <li>whaling</li>
+    <li>worm</li>
+    <li>zero-day</li>
+</ul></div>
+            </div>
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20354"><h2 class="text-center pb-5">Unit 3: Cryptographic Models</h2><p></p>
+<h3>3a. Describe the history of cryptography and the role of cryptography in information security systems</h3>
+<ul>
+    <li>How did WWI and WWII influence the history of cryptography?</li>
+    <li>What is the significance of the data encryption standard (DES)?</li>
+    <li>What was the important cryptographic development made by Diffie and Hellman?</li>
+</ul>
+<p>One of the earliest methods of cryptography was substitution ciphers as was seen in the Caesar cipher. When WWI began, there were advancements in computational power such as the breaking of the German Enigma code by Rejewski in Poland. When the Germans
+    changed the way the Enigma was used, more resources were required, and Turing stepped in to build an electronic machine to break code in much less time than what was done previously by hand.</p>
+<p>Modern cryptography began in the late 1940s, and twenty years later a significant development was designed by IBM. The National Bureau of Standards, now known as the National Institute of Technology (NIST), submitted the data encryption standard (DES).
+    The cipher was developed to support secure communication for financial organizations. The DES was the first publicly accessible cipher algorithm that was acknowledged by a crypto agency, the National Security Administration (NSA).</p>
+<p>Diffie and Hellman published a paper on a new method of key distribution. Prior to their publication, symmetric keys were used that had the logistical problem of secret keys being disbursed to both the sender and the receiver. Diffie and Hellman's method
+    of asymmetric keys used a private and public key, and only the private key is kept secret. This method is still in use today.</p>
+<p>To review, read <a href="https://learn.saylor.org/mod/page/view.php?id=29651" target="_blank" rel="noopener">History of Cryptography</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29653" target="_blank" rel="noopener">Classical Cryptosystems</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29666" target="_blank" rel="noopener">Caesar Cipher</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29670" target="_blank" rel="noopener">One-time Pads</a>.</p>
+<p>&nbsp;</p>
+<h3>3b. Discuss the goals of cryptography</h3>
+<ul>
+    <li>What are the four main goals of cryptography?</li>
+    <li>How does cryptography support non-repudiation?</li>
+    <li>How do certificate authorities support authentication?</li>
+</ul>
+<p>The four main goals of cryptography segue with the CIA triad, but are not identical to the three tenets of the CIA triad. Cryptography cannot directly protect for availability but can protect for integrity and confidentiality. Thus, the four goals of
+    cryptography are confidentiality, integrity, authentication, and non-repudiation. Confidentiality and integrity can be reviewed from the discussion in a previous unit. Authentication is proving who you are, and non-repudiation means the sender cannot
+    deny sending the message.</p>
+<p>Non-repudiation can be confirmed using digital signatures. A message is hashed, and then the hashed method is encrypted using asymmetric encryption. The digital signature is the encrypted-hashed data and the sender's public key. The sender encrypts the
+    message using their private key, and the receiver decrypts the message using the sender's public key.</p>
+<p>Certificate authorities (CA) are vital to asymmetric encryption and authentication. The CA is a trusted third party that generates certificates and certifies the ownership of public keys. Without the third-party CA, asymmetric encryption would not be
+    available.</p>
+<p>To review, read <a href="https://learn.saylor.org/mod/page/view.php?id=29680" target="_blank" rel="noopener">Cryptographic Goals</a> and <a href="https://learn.saylor.org/mod/book/view.php?id=29682" target="_blank" rel="noopener">Confidentiality, Integrity, and Authenticity</a>,
+    and watch <a href="https://learn.saylor.org/mod/page/view.php?id=29681" target="_blank" rel="noopener">Confidentiality and Non-Repudiation</a> and <a href="https://learn.saylor.org/mod/page/view.php?id=29683" target="_blank" rel="noopener">Cryptographic Authentication</a>.</p>
+<p>&nbsp;</p>
+<h3>3c. Compare symmetric key and asymmetric key algorithms</h3>
+<ul>
+    <li>What is the main difference between symmetric and asymmetric key encryption?</li>
+    <li>Is symmetric or asymmetric key encryption faster?</li>
+    <li>What are the advantages of each type of encryption?</li>
+</ul>
+<p>Symmetric key encryption uses one secret key. The same key is used by both the sender and the receiver to encrypt and decrypt. In asymmetric key encryption, encryption and decryption are accomplished using two keys: a public and a private key. The public
+    key is used for encryption and the private key is used for decryption.</p>
+<p>Symmetric key encryption is faster than asymmetric key encryption. The key lengths used for symmetric key encryption are shorter than those used for asymmetric key encryption. Asymmetric key encryption uses longer key lengths for a more complex algorithm
+    to make it more difficult for attackers to crack the keys.</p>
+<p>As stated in the previous paragraph, an advantage of symmetric key encryption is that encryption is faster due to the shorter key length. Symmetric keys also provide for confidentiality and authenticity. An advantage of asymmetric keys is that they are
+    easier to distribute than symmetric keys. Asymmetric keys also provide for non-repudiation.</p>
+<p>To review, read <a href="https://learn.saylor.org/mod/page/view.php?id=29684" target="_blank" rel="noopener">Symmetric Key Ciphers</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29686" target="_blank" rel="noopener">Asymmetric Key Ciphers</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29688" target="_blank" rel="noopener">Cryptographic Hash</a>, and watch <a href="https://learn.saylor.org/mod/page/view.php?id=29685" target="_blank" rel="noopener">What is Symmetric Key Encryption?</a>,
+    <a href="https://www.youtube.com/watch?v=zc2dq5XUWYg" target="_blank" rel="noopener">What is Asymmetric Encryption?</a> and <a href="https://learn.saylor.org/mod/page/view.php?id=29689" target="_blank" rel="noopener">Hashing</a>.</p>
+<p>&nbsp;</p>
+<h3>3d. Discuss the different types of symmetric and asymmetric key algorithms</h3>
+<ul>
+    <li>What are the eight types of symmetric encryption and the six types of asymmetric key algorithms that were discussed in the curriculum?</li>
+    <li>What method was used to crack the data encryption standard (DES), and what replaced the DES algorithm?</li>
+    <li>What method was used to exchange cryptographic keys over a non-secure channel?</li>
+</ul>
+<p>In this course, eight types of symmetric and six types of asymmetric key algorithms were discussed. The symmetric algorithms were DES, 3DES, AES, RC4, RC5, RC6, Blowfish, and Twofish. The asymmetric algorithms were RSA, DSA, PGP, GPG, Diffie-Hellman,
+    and Elliptic-curve.</p>
+<p>Data encryption standard was readily cracked by brute force due to the short key length of 56 bits. To make this algorithm cryptographically stronger, the algorithm was used to encrypt each block of data three times with different keys. Due to the number
+    of times the data was encrypted, the algorithm was named 3DES.</p>
+<p>&nbsp;The Diffie-Hellman key exchange was designed by Diffie and Hellman in 1976. The key exchange used public and private keys that were securely exchanged over non-secure communications lines. Diffie-Hellman was the first to introduce the idea of public
+    and private keys.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29691" target="_blank" rel="noopener">Symmetric Key Algorithms</a> and <a href="https://learn.saylor.org/mod/book/view.php?id=29721" target="_blank" rel="noopener">Asymmetric Key Algorithms</a>.</p>
+<p>&nbsp;</p>
+<h3>3e. Identify hashing algorithms and their role in creating digital certificates</h3>
+<ul>
+    <li>What is the purpose of hashing?</li>
+    <li>How does hashing differ from symmetric and asymmetric encryption?</li>
+    <li>What are two ways that a hash is used?</li>
+</ul>
+<p>Hashing is an algorithm that produces a message digest or hash value. This value represents the contents of a message. If the message is altered the hash will not be the same as no two messages will have the same hash value. A receiver will know if a
+    message has been altered because the hash value will be different. Hashing protects data integrity.</p>
+<p>Hashing differs from symmetric and asymmetric encryption in that it is a one-way encryption tool. A hash computes quickly and will always produce the same result on the exact same message. If a message is slightly altered the hash or message digest will
+    change greatly. A hash does not use a public or private key.</p>
+<p>A hash is used in a digital certificate. The message is first hashed, and then the message digest and the public key is encrypted and sent to the receiver. A hash can also be used for patching downloads. The hash for the patch is published, and before
+    downloading the hash of the patch is compared to the patch to be downloaded. This protects from accidentally downloading malware to a system.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29737" target="_blank" rel="noopener">Cryptographic Hash</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29739" target="_blank" rel="noopener">Message Digest History</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29738" target="_blank" rel="noopener">Digital Certificates</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29804" target="_blank" rel="noopener">Message Digest 5 (MD5)</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29741" target="_blank" rel="noopener">Secure Hash Algorithm (SHA-0, SHA-1, and SHA-2)</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29742" target="_blank" rel="noopener">FIPS PUB 202: SHA-3</a>, and<a href="https://learn.saylor.org/mod/book/view.php?id=29743" target="_blank" rel="noopener"> Hashed Message Authentication Code (HMAC)</a>.</p>
+<p>&nbsp;</p>
+<h3>Unit 3 Vocabulary</h3>
+<p>This vocabulary list includes the terms you will need to know to successfully complete the final exam.</p>
+<ul>
+    <li>algorithm</li>
+    <li>asymmetric encryption</li>
+    <li>authentication</li>
+    <li>certificate authority (CA)</li>
+    <li>cipher</li>
+    <li>decrypt</li>
+    <li>digital certificate</li>
+    <li>encrypt</li>
+    <li>enigma</li>
+    <li>hash</li>
+    <li>malware</li>
+    <li>message digest</li>
+    <li>National Institute of Technology (NIST)</li>
+    <li>National Security Administration (NSA)</li>
+    <li>non-repudiation</li>
+    <li>private key</li>
+    <li>public key</li>
+    <li>substitution</li>
+    <li>symmetric encryption</li>
+</ul></div>
+            </div>
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20355"><h2 class="text-center pb-5">Unit 4: Access Control</h2><p></p>
+<h3>4a. Discuss the need for access control in information systems</h3>
+<ul>
+    <li>What are some challenges of access control?</li>
+    <li>What is the role of access control?</li>
+    <li>Describe three main areas of access control to include authentication, authorization, and audit.</li>
+</ul>
+<p>Access control is used to protect the confidentiality of data. The challenge is that not all users require the same level of access or have the same clearance level to view data. An employee's role is always changing, and employees in an organization
+    constantly change as well.</p>
+<p>Access control is controlling what can be done and by whom on a computer. This means restricting access to data on a system. When gaining access to a system, access control requires a user to authenticate and to be allowed authorization to the system.&nbsp;</p>
+<p>Authentication means that the user proves who they are, usually by entering a password. When the system acknowledges the username and password combination as correct, the system authorizes the user's access to the system. Auditing is recording the user's
+    activity on a server, or that the user accessed the system.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29656" target="_blank" rel="noopener">Access Control</a>.</p>
+<p>&nbsp;</p>
+<h3>4b. Describe access control terms such as privilege creep, need-to-know, least privilege, separation of duties, access control matrix, and access control list (ACL)</h3>
+<ul>
+    <li>How are least privilege and need-to-know related?</li>
+    <li>How does separation of duties protect from fraud?</li>
+    <li>What is the relationship between an access control list (ACL) and an access control matrix (ACM)?</li>
+</ul>
+<p>Least privilege means to give a user the least amount of access needed to perform their job. Need-to-know means to give a user access only to the systems and data needed to perform their job. Least privilege and need-to-know are related as both are based
+    on the level of access a user needs to perform their job.</p>
+<p>Separation of duties is when more than one person is required to complete a task. This may mean that the same person that builds a server does not also audit the same server. Separation of duties prevents fraud by requiring the collusion of two or more
+    people to commit fraud.</p>
+<p>An access control list (ACL) is a list of subjects, the objects they are authorized to access, and the level of authorization. An access control matrix is a table that links a subject's permissions to objects in a system. In the columns of the ACM resides
+    the ACL.</p>
+<p>To review, see:</p>
+<ul>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29657" target="_blank" rel="noopener">Least Privilege, Separation of Duties, and Need-to-Know</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29658" target="_blank" rel="noopener">Relationship Between Least Privilege and Need-to-Know</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29661" target="_blank" rel="noopener">Separation of Duties</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29663" target="_blank" rel="noopener">Access Control Matrix and Access Control List (ACL)</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29659" target="_blank" rel="noopener">Least Privilege and Privilege Creep</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29660" target="_blank" rel="noopener">Least Privilege Affect on Attacks</a></li>
+</ul>
+<p>&nbsp;</p>
+<h3>4c. Compare and contrast mandatory access control (MAC) and discretionary access control (DAC), and the advantages and drawbacks of each</h3>
+<ul>
+    <li>What is the main difference between mandatory access control (MAC) and discretionary access control (DAC)?</li>
+    <li>What type of agency typically uses mandatory access control (MAC) and discretionary access control (DAC)?</li>
+    <li>What are the advantages of mandatory access control (MAC) and discretionary access control (DAC)?</li>
+</ul>
+<p>Mandatory access control (MAC) is based on the security clearance level of the user. A user cannot access data that has a higher security level than that of the user. Discretionary access control (DAC) is identity-based access control. The owner of the
+    data controls who is allowed access.</p>
+<p>Mandatory access control (MAC) is typically used by the government and the military. In these organizations, the desire is to own, control, and protect the data. Discretionary access control (DAC) is typically used by most other agencies. In these agencies,
+    users have control over the files they create.</p>
+<p>Mandatory access control (MAC) is more secure than discretionary access control (DAC). MAC is not automatically scalable, and users must request access and cannot configure their own access. Discretionary access control (DAC) is easier to maintain and
+    to implement than MAC, but DAC has a lower level of protection than MAC and there is no central access management control.</p>
+<p>To review, see:</p>
+<ul>
+    <li><a href="https://learn.saylor.org/mod/book/view.php?id=29669" target="_blank" rel="noopener">Mandatory Access Control (MAC) and Discretionary Access Control (DAC)</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29675" target="_blank" rel="noopener">Comparing Bell-LaPadula and Biba Models</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29671" target="_blank" rel="noopener">Comparing MAC and DAC</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29672" target="_blank" rel="noopener">Bell-LaPadula Model</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29673" target="_blank" rel="noopener">Simple Security, Star Property, and Discretionary Security Property</a></li>
+    <li><a href="https://learn.saylor.org/mod/page/view.php?id=29674" target="_blank" rel="noopener">Biba Model</a></li>
+</ul>
+<p>&nbsp;</p>
+<h3>4d. Differentiate between role-based access control (RBAC) and rule-based access control (RB-RBAC)</h3>
+<ul>
+    <li>What is the set of rules used in an RBAC system?</li>
+    <li>When would role-based access control (RBAC) be used?</li>
+    <li>How does the rule-based access control (RB-RBAC) model differ from the role-based access control (RBAC) model?</li>
+</ul>
+<p>Role-based access control (RBAC) is based on the role of a user in a system. The role can be defined by a particular user, a group, a default role, or specially defined roles. Rules are set by policies that define the access needed for roles.</p>
+<p>Role-based access control (RBAC) is used to control access for users based on the role of a user. If an organization has a large turnover of employees RBAC is desired for easier account deletion. When new employees are hired it is also easier to add them
+    and give them permissions based on their job description.</p>
+<p>Rule-based access control (RB-RBAC) is based on rules or policies that are set for everyone. If a company wants to restrict hours that employees can work a policy can be written in an RB-RBAC model. Role-based access control (RBAC) sets policies for users
+    based on their role in the organization.&nbsp;</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29676" target="_blank" rel="noopener">Role-Based Access Control (RBAC)</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29678" target="_blank" rel="noopener">Rule-Based Access Control (RB-RBAC)</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29679" target="_blank" rel="noopener">RB-RBAC versus the RBAC Model</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29677" target="_blank" rel="noopener">RBAC Access Control</a>.</p>
+<p>&nbsp;</p>
+<h3>Unit 4 Vocabulary</h3>
+<p>This vocabulary list includes the terms you will need to know to successfully complete the final exam.</p>
+<ul>
+    <li>access control list</li>
+    <li>access control matrix</li>
+    <li>audit</li>
+    <li>authentication</li>
+    <li>authorization</li>
+    <li>confidentiality</li>
+    <li>discretionary access control</li>
+    <li>least privilege</li>
+    <li>mandatory access control</li>
+    <li>need-to-know</li>
+    <li>role</li>
+    <li>role-based access control</li>
+    <li>rule-based access control</li>
+    <li>separation of duties</li>
+</ul></div>
+            </div>
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20356"><h2 class="text-center pb-5">Unit 5: Identification and Authentication</h2><p></p>
+<h3>5a. Explain identification and authentication, and the methods used for each, such as passwords, tokens, and biometrics</h3>
+<ul>
+    <li>What are the differences between identification, authentication, and authorization?</li>
+    <li>What is the most common form of authentication?</li>
+    <li>What are some drawbacks with tokens and biometrics?</li>
+</ul>
+<p>Identification is evidence of who a subject claims to be. Identification may be provided by a username or an identifying number such as an account number. Authentication means proving that the identification is valid. For example, a user may authenticate
+    using a password or pin number. Authorization is one the subject has identified and authenticated, then access is given or authorized.</p>
+<p>Passwords are the most common form of authentication and are typically characters used to identify a subject. To be secure methods of authentication, passwords should be properly managed. One way to manage passwords is to limit sign-on attempts, and when
+    stored on a system, passwords should be encrypted and hashed. Most importantly, passwords should be kept secret and should not be shared.</p>
+<p>Tokens and biometrics are very secure but are also costly. Tokens require a lot of overhead to manage, the employees must be trained on how to use them, and tokens are often lost and must be replaced. Biometrics cannot be lost like a token but are more
+    costly to maintain. Biometrics also have the issue of privacy as some feel that their privacy is invaded by providing biometric data to be used as a method of authentication.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29840" target="_blank" rel="noopener">Identification, Authentication, and Authorization</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29844" target="_blank" rel="noopener">Password Security</a>,
+    <a href="https://learn.saylor.org/mod/book/view.php?id=29846" target="_blank" rel="noopener">Biometrics</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29843" target="_blank" rel="noopener">Authentication and Authorization Basics</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29845" target="_blank" rel="noopener">Tokens and Biometrics</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29847" target="_blank" rel="noopener">Security and Accuracy of Biometrics</a>.</p>
+<p>&nbsp;</p>
+<h3>5b. Discuss human authentication factors: something you know, something you have, something you are</h3>
+<ul>
+    <li>What are three common methods of authentication?</li>
+    <li>What are some common factors that represent something you are?</li>
+    <li>How can the three authentication factors be made more secure?</li>
+</ul>
+<p>The three methods of authentication are something you know, something you are, and something you have. Something you know can be a password. Something you are can be your fingerprints. Something you have can be a token or smart card.</p>
+<p>Biometric data represents the factor of something you are and is the most secure of the three factors. The most common biometric used today is fingerprints. As technology has developed, some other methods that are becoming more common are DNA, voice recognition,
+    facial recognition, and retinal patterns.</p>
+<p>&nbsp;Using a combination of the factors, or using multifactor authentication is more secure than the use of one factor alone. For instance, using a token and a pin is something you have and something you know. Multifactor authentication is the use of
+    two or more factors and should not be confused with using two of the same factor such as a pin and a password.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29848" target="_blank" rel="noopener">Human Factors Used in Authentication</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29850" target="_blank" rel="noopener">Methods of Authentication</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29849" target="_blank" rel="noopener">Authentication Factor Descriptions</a>.</p>
+<p>&nbsp;</p>
+<h3>5c. Differentiate between single-factor, two-factor, multi-factor, and mutual authentication</h3>
+<ul>
+    <li>What is the purpose of multifactor authentication?</li>
+    <li>What is the weakest level of authentication?</li>
+    <li>What level of authentication is the most secure?</li>
+</ul>
+<p>Multifactor authentication increases the level of security. For instance, if an attacker knows a user's login information, they can log into a system as that user. But if multifactor authentication is in use the system may send a one-time passcode to
+    the user's cell phone. This would prevent the attacker from accessing the system even when the username and password were known.</p>
+<p>Single-factor authentication using a username and password is the weakest level of security. As stated previously, if an attacker knows the username and password they can log in as the user. When the password is unknown an attacker can use methods such
+    as brute force or a dictionary attack to guess the password.</p>
+<p>The most secure authentication method is two-factor or multifactor authentication. Two-factor authentication is authenticating twice using two different human authentication methods. Multifactor authentication is using two or more different authentication
+    methods. For instance, using two passwords or a password and a pin are both something you know and do not qualify as two-factor or multifactor authentication. A password and a token are something you know and something you have, so together they qualify
+    as two-factor or multifactor authentication.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29852" target="_blank" rel="noopener">Multifactor Authentication</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29851" target="_blank" rel="noopener">Authentication Forms</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29876" target="_blank" rel="noopener">Authentication</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29878" target="_blank" rel="noopener">Mutual Authentication</a>.</p>
+<p>&nbsp;</p>
+<h3>5d. Explain the purpose, advantages, and disadvantages of single sign-on (SSO)</h3>
+<ul>
+    <li>Why would a user want to use single sign-on (SSO) technology?</li>
+    <li>What are some limitations of single sign-on (SSO) technology?</li>
+    <li>What is a disadvantage of single sign-on (SSO) technology?</li>
+</ul>
+<p>Users often have many systems to log into with different passwords and password requirements. When this happens and employees cannot remember the passwords, they often bend the rules and write their passwords down. To alleviate trying to remember passwords,
+    single sign-on can be implemented so that users log into one system and access is granted to all authorized systems.</p>
+<p>Single sign-on is a good tool to alleviate the need for remembering passwords and for decreasing the amount of time needed to log into multiple systems, but it has limitations. To log into applications using single sign-on the applications must accept
+    the same credential format and interpret the format the same. Otherwise, the user will log into the application using the credentials provided by the application without the benefit of using a single sign-on.</p>
+<p>Even though there are advantages to using single sign-on technology and users prefer it, there are disadvantages. When using one password to access many systems the vulnerability increases. This means that if an attacker gains access to the single sign-on
+    password the attacker will have access to all the systems that grant access via single sign-on. Another problem can be when a user forgets their single sign-on password access to all systems may be prohibited.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29884" target="_blank" rel="noopener">Kerberos</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29887" target="_blank" rel="noopener">Kerberos History</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29885" target="_blank" rel="noopener">Single Sign-On (SSO)</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29886" target="_blank" rel="noopener">Kerberos Facts</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29888" target="_blank" rel="noopener">Kerberos Weaknesses</a>.</p>
+<p>&nbsp;</p>
+<h3>5e. Explain Kerberos-based authentication and its dependency on the key distribution center (KDC)</h3>
+<ul>
+    <li>What makes the key distribution center an important part of Kerberos?</li>
+    <li>What are the five keys used in Kerberos?</li>
+    <li>What are some weaknesses of Kerberos?</li>
+</ul>
+<p>Every time a user logs into a system by entering a password, that password is sent over the internet. Kerberos uses encryption and the key distribution center to avoid sending the password over the internet. When a user authenticates, Kerberos stores
+    a session ticket on the user's machine that is used for authentication.</p>
+<p>Kerberos uses a principal key, a session key, the ticket-granting service (TGS), the service key, and the service session key. The important keys to understand are the principal key which is the user's password, and the session key that is created by
+    the key distribution center (KDC). One other key that should be understood is the session key used to encrypt communication during the initiated session.</p>
+<p>Kerberos is a tool that can provide more system security, but it also has its weaknesses. If the key distribution center (KDC) fails all users will be prohibited from accessing the system. In addition, Kerberos is not immune to attackers. If a dictionary
+    attack is successful Kerberos will authenticate to the attacker.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29884" target="_blank" rel="noopener">Kerberos</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29887" target="_blank" rel="noopener">Kerberos History</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29886" target="_blank" rel="noopener">Kerberos Facts</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29888" target="_blank" rel="noopener">Kerberos Weaknesses</a>.</p>
+<p>&nbsp;</p>
+<h3>5f. Discuss the use and functionality of Lightweight Directory Access Protocol (LDAP)</h3>
+<ul>
+    <li>What is a directory service?</li>
+    <li>What is the protocol structure of lightweight directory access protocol (LDAP)?</li>
+    <li>What is the purpose of lightweight directory access protocol (LDAP)?</li>
+</ul>
+<p>Directory services store and organize data and can be used for lookups and searches, like an address book. The first directory service program containing information on users' accounts was the X.500 that defined a directory access protocol (DAP) based
+    on the open systems interconnection (OSI) network protocols. The lightweight directory access protocol (LDAP) was developed from DAP and the transmission control protocol/internet protocol (TCP/IP) internet protocols. Some of the features of DAP are
+    included in LDAP, but not all, and there are some new features as well.</p>
+<p>Lightweight directory access protocol (LDAP) has a tree-like structure called a directory information tree (DIT). The top of the tree is the root, representing the owner of the directory. Other entries are called objects and have a designated place in
+    the tree. The path to an entry is called the distinguished name (DN). The tree structure allows for users and applications to interact with the directory.</p>
+<p>The purpose of using lightweight directory access protocol (LDAP) is to store usernames and passwords in one location. Users can be authenticated by using the directory to validate credentials. Do not confuse active directory with LDAP, LDAP is a protocol
+    that communicates with active directory.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29890" target="_blank" rel="noopener">Lightweight Directory Access Protocol (LDAP)</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29891" target="_blank" rel="noopener">Directory Services Overview</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29889" target="_blank" rel="noopener">Kerberos and Lightweight Directory Access Protocol (LDAP)</a>.</p>
+<p>&nbsp;</p>
+<h3>5g. Compare and contrast the characteristics, advantages, and limitations of authentication protocols like Remote Authentication Dial-In User Service (RADIUS), Terminal Access Controller Access Control System (TACACS+), and Diameter</h3>
+<ul>
+    <li>What is the first step in the system authorization process?</li>
+    <li>What services are provided by an authentication service?</li>
+    <li>What does remote authentication dial-in user service (RADIUS), and terminal access controller access control system (TACACS) encrypt?</li>
+    <li>What are some advantages to using Diameter as an authentication protocol?</li>
+</ul>
+<p>The first step in the system authorization process is authentication. Users provide credentials to prove their identity and then the credentials are compared to a database. If the credentials are accepted, either the authorization is granted by the system,
+    or the credentials are sent to an authorization service.</p>
+<p>An authentication service is a protocol that provides authentication, authorization, and accounting services. Authentication is validating a user's identity, authorization is providing authorized access to authenticated users, and accounting is logging
+    usage activity.&nbsp;</p>
+<p>Remote authentication dial-in user service (RADIUS) is an authentication protocol with robust accounting features. RADIUS encrypts the end user's password. Terminal access controller access control system (TACACS+) is an authentication protocol, and the
+    accounting features are less robust than RADIUS. TACACS+ encrypts all transmissions that occur between devices.</p>
+<p>Diameter was designed to overcome the limitations of RADIUS as it provides end-to-end security. Although RADIUS uses encryption, Diameter is more secure because it is protected by the transport layer security (TLS).</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29879" target="_blank" rel="noopener">Authentication Protocols</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29882" target="_blank" rel="noopener">Diameter</a>, and
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29880" target="_blank" rel="noopener">Authentication Services</a>.</p>
+<p>&nbsp;</p>
+<h3>5h. Explain public-key infrastructure (PKI) and the use of digital certificates</h3>
+<ul>
+    <li>What is the role of the certificate authority (CA) in public-key infrastructure?</li>
+    <li>What is a digital certificate?</li>
+    <li>How does a registration authority (RA) differ from a certificate authority (CA)?</li>
+</ul>
+<p>Public-key infrastructure relies on certificate authorities (CA) to issue digital certificates. The private key is used in digital certificates, and the CA verifies the owner of the public key. The CA is the third party that is trusted by both the sender
+    and the receiver.</p>
+<p>A digital signature proves that the message was from the sender, meaning it provides for non-repudiation. A digital certificate is a hashed message encrypted with the sender's private key. The receiver knows that the message was signed by the sender and
+    the message has not been altered.</p>
+<p>The CA verifies and publishes the user's public keys using the CA's private key. A registration authority (RA) is also a trusted third party like the CA. The RA registers and deletes users from the PKI database, and verifies the identity of users to be
+    entered into the database.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29894" target="_blank" rel="noopener">Certificate and Registration Authorities</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29896" target="_blank" rel="noopener">Digital Certificate Defined</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29895" target="_blank" rel="noopener">Certificate Authorities</a>, and&nbsp;<a href="https://learn.saylor.org/mod/page/view.php?id=29897" target="_blank" rel="noopener">Digital Certificate</a>.</p>
+<p>&nbsp;</p>
+<h3>Unit 5 Vocabulary</h3>
+<p>This vocabulary list includes the terms you will need to know to successfully complete the final exam.</p>
+<ul>
+    <li>authentication</li>
+    <li>authorization</li>
+    <li>biometric</li>
+    <li>certificate authority (CA)</li>
+    <li>digital certificate</li>
+    <li>directory access protocol (DAP)</li>
+    <li>directory information tree</li>
+    <li>distinguished name (DN)</li>
+    <li>encrypt</li>
+    <li>facial recognition</li>
+    <li>fingerprint</li>
+    <li>identification</li>
+    <li>internet protocol (IP)</li>
+    <li>Kerberos</li>
+    <li>key distribution center (KDC)</li>
+    <li>lightweight directory access protocol (LDAP)</li>
+    <li>limitation</li>
+    <li>multifactor</li>
+    <li>one-time passcode</li>
+    <li>pin</li>
+    <li>principal key</li>
+    <li>private key</li>
+    <li>public key</li>
+    <li>public-key infrastructure (PKI)</li>
+    <li>registration authority (RA)</li>
+    <li>remote authentication dial-in user service (RADIUS)</li>
+    <li>retinal patterns</li>
+    <li>service key</li>
+    <li>session key</li>
+    <li>sign on</li>
+    <li>single-factor</li>
+    <li>terminal access controller access control system (TACACS+)</li>
+    <li>third-party</li>
+    <li>token</li>
+    <li>transmission control protocol (TCP)</li>
+    <li>two-factor</li>
+    <li>voice recognition</li>
+</ul></div>
+            </div>
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20357"><h2 class="text-center pb-5">Unit 6: Network Security</h2><p></p>
+<h3>6a. Describe how network designs such as segmentation, zoning, and redundancy can protect networks</h3>
+<ul>
+<li>What are the security advantages of demilitarized zones (DMZ), network address translation (NAT), network access control (NAC), virtualization, subnetting, and segmentation?</li>
+<li>What is meant by redundancy and how can it be accomplished in information systems?</li>
+<li>What type of network design could be used to create a honeypot?</li>
+</ul>
+<p>The security advantage of a demilitarized zone (DMZ) is by using two routers, it allows traffic into the DMZ but keeps that traffic from entering the internal network. A network address translation (NAT) router also protects the internal network by hiding the private internet protocol (IP) addresses from untrusted networks. Network access control (NAC) protects networks, and wireless networks, from granting access to devices that meet certain criteria such as type of operating system, or devices that are not patched or do not have current anti-malware versions installed. Virtualization provides security by making it simpler to recover or fix compromised systems and then bring them back online. Subnetting can increase the security of a network by segmenting systems and grouping them by security level. Resource segmentation uses virtual local networks (VLANS) to increase security by segmenting and layering a network based on user groups, resource types, or a combination of the two.</p>
+<p>The primary purpose of redundancy is to ensure system availability and reliability in case of failure. Redundancy is the duplication of critical elements of a system and can be thought of as the backup of a system. In information systems, this can be accomplished using two computer processing units (CPUs), when one fails the other takes over. On the internet, it can be using different paths. If one path fails, for instance, if one cable is cut, there is an alternate path.</p>
+<p>A honeypot is a way to deflect attackers from areas of sensitive system data. Once the attacker has entered this area their methods can be tracked and studied to determine how to make the system more secure. To create a honeypot, network segmentation can be used. Segmentation protects the regular traffic from the attacker.</p>
+<p>To review, see section 6.1: Network Security Design.</p>
+<p>&nbsp;</p>
+<h3>6b. Explain how firewalls filter or block traffic, the appropriate placement of firewalls in networks, and common firewall terminology such as stateless packet filtering, stateful packet inspection, and deep packet inspection</h3>
+<ul>
+<li>How does a firewall block traffic?</li>
+<li>Where would a stateful or stateless firewall be placed?</li>
+<li>Where should firewalls be located around a demilitarized zone?</li>
+<li>Where should firewalls be located around a demilitarized zone?</li>
+<li>What are the three techniques used in deep packet inspection (DPI)?</li>
+</ul>
+<p>Firewalls block traffic according to a predetermined set of rules. The rules are set to accept, reject, or drop packet traffic. The rules are followed in order, from first to last. The placement of firewalls varies according to the way a packet is examined and filtered. For instance, packet filtering views the header of a packet, and deep packet inspection examines the data in the packet.</p>
+<p>Firewall placement in a network is based on the way the firewall examines packets. For instance, stateful firewalls are best placed on the perimeter of a network and they take longer to make the initial connection but with improved performance. Stateless inspection firewalls are placed internally in a network and they connect faster and require less memory.</p>
+<p>A demilitarized zone (DMZ) allows external access to a network while protecting the internal network from outside traffic. To accomplish this, two firewalls are used, and the DMZ lies between the two firewalls. One firewall faces the outside traffic, and one is internal to protect the outside traffic from entering the internal network.</p>
+<p>Deep packet inspection (DPI) allows the network to be analyzed in real time, and examines the internet protocol (IP) packet content, including encrypted data. Deep packet inspection can be used in intrusion detection systems (IDS) and intrusion prevention systems (IPS) to thwart malware from entering the network. The three techniques used by DPI are flow tracking, pattern matching, and statistical analysis.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29815" target="_blank" rel="noopener">What is a Firewall and How Does it Work?</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29817" target="_blank" rel="noopener">Packet Filtering</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29819" target="_blank" rel="noopener">Stateful Packet Inspection</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29820" target="_blank" rel="noopener">Deep Packet Inspection</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29816" target="_blank" rel="noopener">Firewall Basics and Firewall Placement</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29818" target="_blank" rel="noopener">Inbound and Outbound Packet Processing</a>, and&nbsp;<a href="https://learn.saylor.org/mod/page/view.php?id=29823" target="_blank" rel="noopener">Deep Packet Inspection and Routers</a>.</p>
+<p>&nbsp;</p>
+<h3>6c. Analyze wireless networking encryption types, tunneling, and the vulnerabilities associated with bring your own device (BYOD)</h3>
+<ul>
+<li>Why is it important to encrypt wireless networks?</li>
+<li>How close does a wireless eavesdropper have to be to intercept a signal between a computer and a router?</li>
+<li>What do you call a device that both transmits and receives?</li>
+<li>How does BYOD increase the risk to a company's data and information systems?&nbsp;</li>
+</ul>
+<p>When setting up a wireless network, the traffic will travel over an unlicensed band and will be less secure than a wired network. Attackers can easily intercept traffic traveling over an unlicensed band, so it is important to encrypt the data. Wired equivalent privacy (WEP), and Wi-Fi protected access (WPA) have been used to encrypt wireless signals, but both have been broken and should not be used. The current method of wireless encryption is Wi-Fi protected access 2 (WPA2) that uses advanced encryption standard (AES).</p>
+<p>Wireless networking is transmitted by radio waves. An attacker does not have to be between a system and its router to intercept a transmission. Radio waves emanate from 100 to 300 feet in all directions. Radios waves can be intercepted by anyone with a receiver, so it is very important to use a method of encryption that cannot be broken.</p>
+<p>Wireless systems use different types of devices. A transmitter sends signals while a receiver accepts a signal sent by a transmitter. Some devices that can both transmit and receive and are called transceivers. Some commonly used transceivers are routers and cell phones.</p>
+<p>Bring your own device (BYOD) means that users can connect personal devices to a company network, but at an increase in risk to a company's information system. The risk is the result of many different possibilities with devices, but one reason is that collectively employees use so many different types of devices that it is impractical for the employer to examine and approve every device allowed on the system. Another reason is that employee's devices are often not securely locked down to prevent being infected with malware. There is also the issue of lost devices that have company information downloaded to the device.</p>
+<p>To review, read <a href="https://learn.saylor.org/mod/book/view.php?id=29826" target="_blank" rel="noopener">More Wireless Basics</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29842" target="_blank" rel="noopener">Risks Associated with BYOD</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29824" target="_blank" rel="noopener">Introduction to Wireless Networks and Wireless Encryption</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29825" target="_blank" rel="noopener">Wireless Network Basics</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29841" target="_blank" rel="noopener">Virtual Ethernet Tunneling</a>.</p>
+<p>&nbsp;</p>
+<h3>6d. Assess how tools such as honeypots, network sniffers, and packet capturing are used to protect networks</h3>
+<ul>
+<li>When would you prefer to use a honeypot instead of an intrusion detection system (IDS)?</li>
+<li>What is the difference between a honeypot and a honeynet?</li>
+<li>How are network sniffers detected?</li>
+</ul>
+<p>Honeypots are decoys that attract attackers, and then examines the methods the attacker is using and may identify system vulnerabilities. Honeypots do not have legitimate traffic, so any traffic is from an attacker, therefore honeypots do not use a lot of resources and have few false positives. In comparison, intrusion</p>
+<p>detection systems (IDS) use more resources and produce false positives. Honeypots do not detect breaches and cannot identify attackers and must be secure so that attackers cannot enter the production network through the honeypot. Honeypot data can be used to improve the configuration of IDSes to reduce false positives. Honeypots can be used alone or with an IDS and may be the tool of choice when resources are limited.</p>
+<p>Honeypots and honeynets are similar, as honeynets use a collection or network of honeypots. A honeynet could be a network containing honeypots that have different environments such as a Windows and a Linux honeypot server. The purpose of a honeynet is to fake a real network.</p>
+<p>Network sniffers can be hardware or software and are used by attackers or by network administrators to examine the packets on a network. Passive network sniffing is generally impossible to detect because it only collects data, but active sniffing can be identified as it generates traffic. The best way to ensure that there is not a sniffer on the system is to determine if the network interface card is in promiscuous mode. Send requests using the internet protocol (IP) address of the machine with an incorrect media access control (MAC) address. If there is a response there is a sniffer, if not the machine is in non-promiscuous mode and the packet will be dropped.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29853" target="_blank" rel="noopener">Honeypots</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29854" target="_blank" rel="noopener">Honeypots and Honeynets</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29855" target="_blank" rel="noopener">Privacy Issues with Honeypots and Honeynets</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29856" target="_blank" rel="noopener">Network Sniffers</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29858" target="_blank" rel="noopener">Wireless Sniffing</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29859" target="_blank" rel="noopener">Packet Capturing Using tcpdump and Wireshark</a>.</p>
+<p>&nbsp;</p>
+<h3>6e. Describe the methods used to secure the web such as HTTPS, TLS/SSL, and DNS/DNSSEC</h3>
+<ul>
+<li>What makes hypertext transfer protocol secure (HTTPS) more secure than hypertext transfer protocol (HTTP)?</li>
+<li>What is the relationship between secure sockets layer (SSL) and transport layer security (TLS)?</li>
+<li>Why do we use domain names instead of internet protocol (IP) addresses?</li>
+</ul>
+<p>Hypertext transfer protocol (HTTP) is a method of communication in browsers and in web servers. Hypertext transfer protocol secure (HTTPS) is more secure than hypertext transfer protocol (HTTP) because of the mode of transmission. Hypertext transfer protocol (HTTP) transmits data in clear text, while HTTPS transmits encrypted data.</p>
+<p>Transport layer security (TLS) is the improved version of secure sockets layer (SSL). Both TLS and SSL are network protocols used on web servers and web browsers to securely transmit data. Transport layer security uses a handshake process to establish a secure line of communication through a bidirectional tunnel, then the data is encrypted before it is sent.</p>
+<p>Computers use internet protocol (IP) addresses to communicate. Internet protocol addresses are numbers that are long and difficult for humans to remember, so instead, humans use words or domain names. Domain name servers (DNS) maps, or resolves domain names to IP addresses.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29860" target="_blank" rel="noopener">Hypertext Transfer Protocol (HTTP) and Hypertext Transfer Protocol Secure (HTTPS)</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29861" target="_blank" rel="noopener">Secure Sockets Layer (SSL) and Transport Layer Security (TLS)</a>, and&nbsp;<a href="https://learn.saylor.org/mod/page/view.php?id=29862" target="_blank" rel="noopener">Domain Name System (DNS) and Domain Name System Security Extensions (DNSSEC)</a>.</p>
+<p>&nbsp;</p>
+<h3>Unit 6 Vocabulary</h3>
+<p>This vocabulary list includes the terms you will need to know to successfully complete the final exam.</p>
+<ul>
+<li>advanced encryption standard (AES)</li>
+<li>breach</li>
+<li>bring your own device (BYOD)</li>
+<li>communicate</li>
+<li>computer processing unit (CPU)</li>
+<li>decoy</li>
+<li>deep packet inspection (DPI)</li>
+<li>demilitarized zone (DMZ)</li>
+<li>eavesdropper</li>
+<li>encryption</li>
+<li>firewall</li>
+<li>hardware</li>
+<li>honeynet</li>
+<li>honeypot</li>
+<li>hypertext transfer protocol</li>
+<li>hypertext transfer protocol secure</li>
+<li>internet protocol</li>
+<li>intrusion detection system (IDS)</li>
+<li>intrusion prevention system (IPS)</li>
+<li>malware</li>
+<li>media access control</li>
+<li>network address control (NAC)</li>
+<li>network address translation (NAT)</li>
+<li>network sniffer</li>
+<li>packet capturing</li>
+<li>promiscuous</li>
+<li>receive</li>
+<li>receiver</li>
+<li>redundancy</li>
+<li>router</li>
+<li>secure sockets layer</li>
+<li>segmentation</li>
+<li>software</li>
+<li>subnetting</li>
+<li>transmit</li>
+<li>transport layer security</li>
+<li>virtual local networks (VLANS)</li>
+<li>virtualization</li>
+<li>Wi-Fi protected access (WPA)</li>
+<li>wired equivalent privacy (WEP)</li>
+</ul></div>
+            </div>
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20358"><h2 class="text-center pb-5">Unit 7: Operating System (OS) Security</h2><p></p><h3>7a. Describe the methods used to harden an OS and minimize threats</h3>
+<ul>
+<li>What does it mean to harden a system?</li>
+<li>Why is patching often neglected?</li>
+<li>How is system auditing performed?</li>
+</ul>
+<p>System hardening is performing techniques known as best practices to secure a system by reducing vulnerabilities. The techniques used to harden a system can vary by system type, but the basic methods are to remove or disable unnecessary applications, use methods to protect system access such as least privilege, set up and review log files, and patch regularly.</p>
+<p>Although system patching is important to system security, patching is often neglected due to funds or technical expertise. The cost of patching is often viewed as adding no value to a system. Patching requires a qualified technician to install the patches and sometimes the technician is not available in the organization. This is a serious issue within any organization and should be resolved.</p>
+<p>System auditing is done to ensure that policies are followed and are enforced. Auditing is completed by reviewing system logs and system performance. Logs contain information about login attempts, device use and device failure, and application-level events. Audits can be manual or automated.&nbsp;</p>
+<p>To review, see section 7.1: OS Hardening.</p>
+<p>&nbsp;</p>
+<h3>7b. Discuss how antivirus and antimalware tools provide OS protection</h3>
+<ul>
+<li>Why is it important to update antivirus software as updates become available?</li>
+<li>What is the difference between antivirus and antimalware software?</li>
+<li>Are both antivirus and antimalware software needed on a system?</li>
+</ul>
+<p>Antivirus software detects viruses in a system and is specific for each type of operating system. The software has a database of viruses that are compared to files on a system. As new viruses become known, the software database is updated. For a system to recognize newly identified viruses, the software must be updated on a regular basis. Once a virus is detected the infected file is quarantined and the user is prompted to choose whether to repair or delete the file.</p>
+<p>Viruses are code that copies itself to do damage to a system. Malware refers to many types of malicious software such as Trojans, ransomware, viruses, and spyware. Viruses are a type of malware, but malware includes many other types of malicious code as well.</p>
+<p>Antivirus software detects viruses, and antimalware software detects all types of malware. Both antivirus and antimalware software are needed on a system because antivirus software protects against traditional versions of viruses and antimalware protects against new threats. New threats may be polymorphic, or code that changes each time it is run.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29907" target="_blank" rel="noopener">Antivirus Versus Anti-Malware</a> and <a href="https://learn.saylor.org/mod/page/view.php?id=29906" target="_blank" rel="noopener">What is Antivirus Software?</a>.</p>
+<p>&nbsp;</p>
+<h3>7c. Explain the method of protection provided by an OS firewall</h3>
+<ul>
+<li>By what method does a firewall protect a system?</li>
+<li>How are IPtables implemented in a system?</li>
+<li>Why is the order of the rules in IPtables important?</li>
+</ul>
+<p>The first line of defense to protect a system from malicious traffic is using a firewall. Firewalls filter incoming and outgoing traffic to protect against attackers that may be attempting to enter the system. The network administrator can change the rules when needed as the system or the method of attack changes.</p>
+<p>The rules for firewalls in a Linux system are defined in the IPtables. The packet protocol, the origin, and the packet target are examined when entering the system. When a packet meets the requirements of a specific rule in IPtables, the packet is handled by the method as designated in that rule which can be to accept, allow, deny, or drop the packet.</p>
+<p>When traffic is examined by IPtables the rules are examined in the order listed. When there is a match, the packet receives the treatment of that rule and it is not examined for any other rules in the table. This can be important as the last rule in IPtables is port 22 for secure socket shell (SSH). This rule allows for SSH, or remote access to a system and if not configured properly will disallow access to remote users.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/book/view.php?id=29908" target="_blank" rel="noopener">Linux IPtables</a>.</p>
+<p>&nbsp;</p>
+<h3>7d. Describe security tools used to assess the vulnerabilities of an OS</h3>
+<ul>
+<li>What is a vulnerability assessment?</li>
+<li>What are the steps scanners perform before running a vulnerability assessment?</li>
+<li>How does a scanner examine the vulnerabilities in a system?</li>
+</ul>
+<p>A vulnerability assessment is a process that identifies security weaknesses on a system. The weaknesses of all system components are examined to include the network, the software, and the hardware. The weaknesses are prioritized and are items that need attention or remediation to ensure the security of a system.</p>
+<p>The first step a scanner performs before running a vulnerability assessment is to probe the ports to determine if the host is alive. This avoids wasting time trying to scan a host that is offline. The second step is to determine if the host is behind a firewall or filtering device. The third step is to detect all open ports on the host to determine the type of services running on the system. The fourth step is determining the operating system (OS) running on the host. The fifth step is to identify the services running on each open port.</p>
+<p>Once the scanner knows the OS running on the system, it identifies the OS version. The scanner then reviews the vulnerabilities applicable to that OS version that resides on the system. A security content automation protocol (SCAP) tool can be installed and run on a system to evaluate known vulnerabilities.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29909" target="_blank" rel="noopener">How Scanners Work</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29910" target="_blank" rel="noopener">What is a Vulnerability Assessment?</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29911" target="_blank" rel="noopener">Vulnerability Assessment Using SCAP</a>.</p>
+<p>&nbsp;</p>
+<h3>Unit 7 Vocabulary</h3>
+<p>This vocabulary list includes the terms you will need to know to successfully complete the final exam.</p>
+<ul>
+<li>antimalware</li>
+<li>antivirus</li>
+<li>auditing</li>
+<li>automated</li>
+<li>firewall</li>
+<li>host</li>
+<li>IPtables</li>
+<li>least privilege</li>
+<li>Linux</li>
+<li>malicious software</li>
+<li>malware</li>
+<li>manual</li>
+<li>network administrator</li>
+<li>operating system (OS)</li>
+<li>patching</li>
+<li>polymorphic</li>
+<li>protocol</li>
+<li>ransomware</li>
+<li>remediation</li>
+<li>scanner</li>
+<li>secure socket shell (SSH)</li>
+<li>security content automation protocol (SCAP)</li>
+<li>spyware</li>
+<li>system hardening</li>
+<li>trojan</li>
+<li>virus</li>
+</ul></div>
+            </div>
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20359"><h2 class="text-center pb-5">Unit 8: Intrusion Detection and Prevention Systems</h2><p></p>
+<h3>8a. Discuss intrusion detection systems (IDS) and intrusion prevention systems (IPS) the purpose and the need for each system</h3>
+<ul>
+    <li>What is the difference between intrusion detection systems (IDS) and intrusion prevention systems (IPS)?</li>
+    <li>What are four intrusion detection evasion techniques?</li>
+    <li>What are four terms associated with the terminology used to determine if detection is successful?</li>
+</ul>
+<p>Intrusion detection systems (IDS) and intrusion prevention systems (IPS) both detect system intrusions. The main difference is that an IPS will detect and will also attempt to protect against traffic gaining access to the system. Intrusion protection
+    systems perform as preventive and proactive technology, whereas IDSes are more of a detective technology that recognizes an intrusion after it has occurred.</p>
+<p>Four intrusion detection evasion techniques are fragmentation, flooding, obfuscation, and encryption. Fragmentation occurs by sending fragmented packets that must be reassembled but the packets are sent over longer periods of time so that the target computer
+    will time out before the packets can be assembled. Flooding is when so many requests are sent that the IDS is overwhelmed, resulting in all traffic being allowed into the system. Obfuscation is concealing the data in a message so that it is not identified
+    as nefarious code. Encryption is used on malware so that an IDS will not match the code to the signatures in the database, and the code will be allowed into the system.</p>
+<p>The four terms associated with intrusion detection are true positive, false positive, true negative, and false negative. A true positive means that an intrusion has been correctly identified. An IDS indicates the system is being attacked and it is correct
+    in that the system is being attacked. A false positive means that the IDS indicates there is an attack but when there no attack is occurring. A true negative means that the IDS indicates there is no attack in progress and nothing has happened. A false
+    negative means that the IDS is not detecting an attack when an attack has occurred. The false negative is the worst-case scenario because the IDS is not recognizing an attack that has occurred or is in progress.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29753" target="_blank" rel="noopener">The Basics of Intrusion Detection Systems</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29755" target="_blank" rel="noopener">Intrusion Detection Systems</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29754" target="_blank" rel="noopener">Comparison of IDS and IPS</a>.</p>
+<p>&nbsp;</p>
+<h3>8b. Compare and contrast the characteristics of signature-based, anomaly-based, and rule-based IDS technologies</h3>
+<ul>
+    <li>What is the difference between signature and anomaly-based intrusion detection systems (IDS)?</li>
+    <li>Why would an anomaly-based intrusion detection system (IDS) be the best type of IDS to identify zero-day attacks?</li>
+    <li>How is a rule-based intrusion detection system (IDS) similar to a firewall?</li>
+</ul>
+<p>Both signature-based and anomaly-based intrusion detection systems (IDS) identify system intrusions, but in a different way. Signature-based IDS looks for patterns, also known as the intruder's signature. Anomaly-based IDS looks for unusual behaviors.
+    Signature-based IDS works best for known methods of attack, and anomaly-based IDS works best to detect unknown methods of attack.</p>
+<p>Zero-day attacks are methods of attack that are unknown to those who would normally mitigate the attack. A signature-based IDS would not identify a zero-day attack because it compares the signature of known attacks to a database. Rule-based IDS identifies
+    attacks based on a set of rules. An anomaly-based IDS would be the best type of IDS because it detects unknown methods of attack.</p>
+<p>Firewalls use a set of rules, called IPtables in Linux systems, to determine if traffic should be allowed. A rule-based IDS also uses rules but to determine if there is an attack on a system. A subject must meet a specific rule before access to an object
+    is allowed, and the rule can be applied to all subjects without regard to identity. This type of rule is sometimes called if/then; if something happens then something else is allowed.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29757" target="_blank" rel="noopener">Signature-based IDS</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29759" target="_blank" rel="noopener">Anomaly-based IDS</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29761" target="_blank" rel="noopener">Rule-based IDS</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29756" target="_blank" rel="noopener">Signature and Anomaly-based IDS</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29762" target="_blank" rel="noopener">Rule-based IDS Example</a>.</p>
+<p>&nbsp;</p>
+<h3>8c. Compare and contrast network-based intrusion detection system (NIDS) and host-based intrusion detection systems (HIDS)</h3>
+<ul>
+    <li>What type of technology can be used by network-based intrusion detection systems (NIDS) and host-based intrusion detection systems (HIDS)?</li>
+    <li>What are the advantages of intrusion detection systems (NIDS) and host-based intrusion detection systems (HIDS)?</li>
+    <li>What are the disadvantages of intrusion detection systems (IDS)?</li>
+</ul>
+<p>Network-based intrusion detection systems (NIDS) are used on networks, and host-based intrusion detection systems (HIDS) are used with hosts. Both NIDS and HIDS can use knowledge-based, signature-based, statistical anomaly-based, and rule-based intrusion
+    detection systems. When NIDS is used, the network interface card (NIC) is set to promiscuous mode to allow all network traffic to be examined, while HIDS examines activity on a host.</p>
+<p>Using both NIDS and HIDS at the same time is advantageous as what one system may not detect the other may identify. An advantage of NIDS is that the system can detect attacks that were unsuccessful and can identify attacks in real time as they are occurring.
+    HIDS can verify that an attack occurred and can monitor system activities.</p>
+<p>The disadvantages of IDS are that the system can be expensive, and false positives and false negatives are generated. For these reasons, qualified technicians must be on staff to monitor the systems. The disadvantages are attributed to cost and to time
+    and resources.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29764" target="_blank" rel="noopener">Network Intrusion Detection</a>, <a href="https://learn.saylor.org/mod/book/view.php?id=29766" target="_blank" rel="noopener">A Review of Intrusion Detection</a>,
+    and <a href="https://learn.saylor.org/mod/page/view.php?id=29765" target="_blank" rel="noopener">Host-based Intrusion Detection Systems (HIDS)</a>.</p>
+<p>&nbsp;</p>
+<h3>8d. Explain the methodology of common system information and event management (SIEM) systems</h3>
+<ul>
+    <li>What is the purpose of a system information and event management system (SIEM)?</li>
+    <li>When is a SIEM a necessary tool?</li>
+    <li>What is a common vulnerability exposure (CVE)?</li>
+</ul>
+<p>A system information and event management system (SIEM) is a software tool that collects data and log information generated by systems. The information is then compiled into one platform to be viewed and analyzed by technicians. The advantage to using
+    a SIEM is that all the data for the system can be seen at one time which helps to identify the origins of an issue or an attack.</p>
+<p>Often when a system is large or has a lot of activity, many logs and incidents are generated. A lot of time must be spent reviewing each log to look for malicious activity. This is a time-consuming, difficult, and tedious task that takes a lot of manpower.
+    The use of a SIEM tool can make reviewing these logs much more efficient and faster.</p>
+<p>&nbsp;A common vulnerability exposure (CVE) identifies known vulnerabilities. CVE's are numbers assigned to vulnerabilities, and the CVE describes the vulnerability and provides links to important information connected to that vulnerability. The list
+    of CVE's is kept in a freely accessed database and is funded by the Department of Homeland Security (DHS).</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29771" target="_blank" rel="noopener">Security Incident and Event Management (SIEM)</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29772" target="_blank" rel="noopener">Scanners</a>,
+    <a href="https://learn.saylor.org/mod/page/view.php?id=29773" target="_blank" rel="noopener">Network Scans</a>, <a href="https://learn.saylor.org/mod/page/view.php?id=29774" target="_blank" rel="noopener">Web Application Scans</a>, and <a href="https://learn.saylor.org/mod/page/view.php?id=29775" target="_blank" rel="noopener">Splunk for Security</a>.</p>
+<p>&nbsp;</p>
+<h3>Unit 8 Vocabulary</h3>
+<p>This vocabulary list includes the terms you will need to know to successfully complete the final exam.</p>
+<ul>
+    <li>anomaly-based intrusion detection system (IDS)</li>
+    <li>common vulnerability exposure (CVE)</li>
+    <li>evasion</li>
+    <li>false negative</li>
+    <li>false positive</li>
+    <li>firewall</li>
+    <li>flooding</li>
+    <li>fragment</li>
+    <li>host-based intrusion detection system (HIDS)</li>
+    <li>intrusion detection systems</li>
+    <li>intrusion prevention systems</li>
+    <li>Linux</li>
+    <li>malware</li>
+    <li>network-based intrusion detection system (NIDS)</li>
+    <li>preventive</li>
+    <li>proactive</li>
+    <li>rule-based intrusion detection system (IDS)</li>
+    <li>signature-based intrusion detection system (IDS)</li>
+    <li>system information and event management system (SIEM)</li>
+    <li>true negative</li>
+    <li>true positive</li>
+    <li>zero-day</li>
+</ul></div>
+            </div>
+            <div class="pb-5">
+            <div class="book_chapter pt-3" id="ch20360"><h2 class="text-center pb-5">Unit 9: Privacy Laws, Penalties, and Privacy Issues</h2><p></p><h3>9a. Discuss the need for electronic data privacy protection</h3>
+<ul>
+    <li>What type of data is private information?</li>
+    <li>What are some ways that technology has intruded on the privacy of individuals?</li>
+    <li>Why is there a need for electronic data privacy protection?</li>
+</ul>
+<p>Information about an individual may be privacy information if an individual can be identified by the information. Some types of private information are names, social security numbers, address, biometric data, date or place of birth, educational information,
+    and more. Information that cannot be used to identify a person, such as statistical data, is not considered to be private information.</p>
+<p>As technology has advanced to make life easier, technology has also intruded on individual privacy. The use of smartphones can identify the location of the owner, the internet of things (IoT) such as a thermostat can indicate that a homeowner is out of
+    town. Cameras now use facial recognition to track the location of individuals.</p>
+<p>Electronic data privacy protection is needed to prevent harm from coming to a person. Harm can be nefarious such as a burglar entering a home while the owner is away, or it can be to prevent the use of services that can be costly to a company. For instance,
+    if a company insures a person for cancer but then learns from medical data that the individual is prone to have cancer, then the insurance company may elect to cancel the insured's policy.</p>
+<p>To review, see <a href="https://learn.saylor.org/mod/page/view.php?id=29830" target="_blank" rel="noopener">Data and Protecting the Right to Privacy</a> and <a href="https://learn.saylor.org/mod/book/view.php?id=29831" target="_blank" rel="noopener">The Right to Privacy</a>.</p>
+<p>&nbsp;</p>
+<h3>9b. Identify key global laws that protect privacy, such as the US Privacy Act of 1974 and the European General Data Protection Regulation (GDPR)</h3>
+<ul>
+    <li>Who is protected under the European Union's (EU's) General Data Protection Regulation (GDPR)?</li>
+    <li>How does the European Union's (EU's) General Data Protection Regulation (GDPR) compare to the California Consumer Privacy Act (CCPA)?</li>
+    <li>What information is protected by the Health Insurance Portability and Accountability Act of 1996 (HIPAA)?</li>
+</ul>
+<p>The European Union's (EU's) General Data Protection Regulation (GDPR) protects the personal data of all EU citizens and its residents. Whether the business that collects the data resides in the EU or not, the business must adhere to the protection requirements
+    of the GDPR when collecting data from EU citizens and residents.</p>
+<p>The California Consumer Privacy Protection Act (CCPA) was written based on the European Union's General Data Protection Regulation (GDPR). Therefore, the CCPA is very similar to the GDPR. Both the CCPA and the GDPR have monetary punishments, but that
+    imposed by the CCPA is less than the GDPR.</p>
+<p>The Health Insurance Portability and Accountability Act of 1996 (HIPAA) has two sections that include a privacy rule and a security rule. The privacy rule contains the standards for protecting health information and the security rule sets the standards
+    for how electronic health information is protected while being stored or in transit. HIPAA protects the individually identifiable health information collected, held, or transmitted by a business.</p>
+<p>To review, see section 9.2: Global Privacy Laws.</p>
+<p>&nbsp;</p>
+<h3>Unit 9 Vocabulary</h3>
+<p>This vocabulary list includes the terms you will need to know to successfully complete the final exam.</p>
+<ul>
+    <li>artificial intelligence (AI)</li>
+    <li>California Consumer Privacy Act (CCPA)</li>
+    <li>Children's Online Privacy Act (COPPA) of 2000</li>
+    <li>European General Data Protection Regulation (GDPR)</li>
+    <li>European Union (EU)</li>
+    <li>Health Information Technology for Economic and Clinical Health (HITECH) Act</li>
+    <li>Health Insurance Portability and Accountability Act of 1996 (HIPAA)</li>
+    <li>Protected Health Information (PHI)</li>
+    <li>US Privacy Act</li>
+</ul></div>
+            </div>
+    </div>
+</div></div>
+    </div>
+</div>
+<script>
+//<![CDATA[
+var require = {
+    baseUrl : 'https://learn.saylor.org/lib/requirejs.php/1634566938/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://learn.saylor.org/lib/javascript.php/1634566938/lib/jquery/jquery-3.5.1.min',
+        jqueryui: 'https://learn.saylor.org/lib/javascript.php/1634566938/lib/jquery/ui-1.12.1/jquery-ui.min',
+        jqueryprivate: 'https://learn.saylor.org/lib/javascript.php/1634566938/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script src="https://learn.saylor.org/lib/javascript.php/1634566938/lib/requirejs/require.min.js"></script>
+<script>
+//<![CDATA[
+M.util.js_pending("core/first");
+require(['core/first'], function() {
+require(['core/prefetch'])
+;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp('en');
+});;
+
+M.util.js_pending('theme_saylor/loader');
+require(['theme_saylor/loader'], function() {
+  M.util.js_complete('theme_saylor/loader');
+});
+;
+M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(3568365, []); M.util.js_complete('core/notification');});;
+M.util.js_pending('core/log'); require(['core/log'], function(amd) {amd.setConfig({"level":"trace"}); M.util.js_complete('core/log');});;
+M.util.js_pending('core/page_global'); require(['core/page_global'], function(amd) {amd.init(); M.util.js_complete('core/page_global');});
+    M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script src="https://learn.saylor.org/theme/javascript.php/saylor/1634567443/footer"></script>
+<script>
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","yes":"Yes","no":"No","ok":"OK","cancel":"Cancel","confirm":"Confirm","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error","file":"File","url":"URL","collapseall":"Collapse all","expandall":"Expand all"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} links to this file","select":"Select"},"admin":{"confirmdeletecomments":"You are about to delete comments, are you sure?","confirmation":"Confirmation"},"debug":{"debuginfo":"Debug info","line":"Line","stacktrace":"Stack trace"},"langconfig":{"labelsep":":"}};
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() {Y.use("moodle-filter_mathjaxloader-loader",function() {M.filter_mathjaxloader.configure({"mathjaxconfig":"MathJax.Hub.Config({\r\n    config: [\"Accessible.js\", \"Safe.js\"],\r\n    errorSettings: { message: [\"!\"] },\r\n    skipStartupTypeset: true,\r\n    messageStyle: \"none\",\r\n    CommonHTML: { linebreaks: { automatic: true } },\r\n    \"HTML-CSS\": { linebreaks: { automatic: true } },\r\n    SVG: { linebreaks: { automatic: true } }\r\n});\r\n","lang":"en"});
+});
+Y.use("moodle-filter_glossary-autolinker",function() {M.filter_glossary.init_filter_autolinking({"courseid":0});
+});
+M.util.help_popups.setup(Y);
+ M.util.js_pending('random61815b97496872'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random61815b97496872'); });
+})();
+//]]>
+</script>
+
+</body>
+</html>

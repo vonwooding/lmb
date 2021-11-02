@@ -84,3 +84,4 @@
   * [Wyoming Bitcoin Law](bitcoin/wyoming-bitcoin-law.md)
 * [Security and Privacy](security-and-privacy/README.md)
   * [Fraud Examination](security-and-privacy/fraud-examination.md)
+  * [Information Security](security-and-privacy/information-security.md)
