@@ -2,7 +2,9 @@
 
 ## Fiduciary rules and available protections
 
-Several basic fiduciary duty rules govern the conduct of directors of Delaware corporations. If these rules are understood and followed, directors should be able to avoid fiduciary duty breaches and protect themselves from exposure to potential liability. Fiduciary rules and available protections, discussed below, encompass: [**(Source)**](https://corpgov.law.harvard.edu/2020/03/10/directors-fiduciary-duties-back-to-delaware-law-basics/)****
+{% embed url="https://corpgov.law.harvard.edu/2020/03/10/directors-fiduciary-duties-back-to-delaware-law-basics" %}
+
+Several basic fiduciary duty rules govern the conduct of directors of Delaware corporations. If these rules are understood and followed, directors should be able to avoid fiduciary duty breaches and protect themselves from exposure to potential liability. Fiduciary rules and available protections, discussed below, encompass:&#x20;
 
 * the basic fiduciary duties (care and loyalty, including good faith, oversight and disclosure),
 * key director attributes (independence and disinterestedness, and appreciation of “red flags”),
