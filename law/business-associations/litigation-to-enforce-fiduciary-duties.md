@@ -9,6 +9,7 @@
 Several basic fiduciary duty rules govern the conduct of directors of Delaware corporations. If these rules are understood and followed, directors should be able to avoid fiduciary duty breaches and protect themselves from exposure to potential liability. Fiduciary rules and available protections, discussed below, encompass:&#x20;
 
 * the basic fiduciary duties (care and loyalty, including good faith, oversight and disclosure),
+  * there is no private shareholder right of action for a violation of the duty of good faith, its violation may also raise a claim under the duty of loyalty.
 * key director attributes (independence and disinterestedness, and appreciation of “red flags”),
 * the importance of process (asking the right questions and keeping a good record),
 * the core standard for judging director conduct (the business judgment rule), and
