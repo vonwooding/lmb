@@ -36,7 +36,7 @@
     * [Duty of Loyalty](law/business-associations/duty-of-loyalty.md)
     * [Friendly Mergers and Acquisitions](law/business-associations/friendly-mergers-and-acquisitions.md)
     * [Defending Against Hostile Takeovers](law/business-associations/defending-against-hostile-takeovers.md)
-    * [Litigation to Enforce Fiduciary Duties](law/business-associations/litigation-to-enforce-fiduciary-duties.md)
+    * [Fiduciary Duties](law/business-associations/litigation-to-enforce-fiduciary-duties.md)
   * [Secured Transactions](law/secured-transactions/README.md)
     * [1. Introduction](law/secured-transactions/1.-introduction.md)
     * [2. Collateral Description and Classification](law/secured-transactions/2.-collateral-description-and-classification.md)
