@@ -1,20 +1,4 @@
-# The Constitution
-
-## History of the Constitution
-
-
-
-## Methods of Internrpeting the Constitution
-
-
-
-## Judiciability
-
-
-
-## Federal Legislative Power
-
-## Commerce Power
+# Federal Legislative Power
 
 ## 10th Amendment Limitations on Congress's Authority
 
@@ -44,11 +28,11 @@ The federal government already regulates state actions in the administration of 
 
 ### US v Butler
 
-### Chas. C. Steward Machine Company  v Davis
+### Chas. C. Steward Machine Company v Davis
 
 ### Sabri v US
 
-### Conditions on Grants to State Governments&#x20;
+### Conditions on Grants to State Governments
 
 ### South Dakota v Dole
 
