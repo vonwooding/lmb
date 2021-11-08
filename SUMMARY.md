@@ -66,6 +66,7 @@
     * [Character](law/evidence/character.md)
     * [Hearsay](law/evidence/hearsay.md)
     * [Lay Opinions](law/evidence/lay-opinions.md)
+    * [Expert Opinions](law/evidence/expert-opinions.md)
 * [Commerce and Finance](money/README.md)
   * [Banking](money/central-banking.md)
   * [Austrian Economics](money/austrian-economics.md)
