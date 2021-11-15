@@ -12,14 +12,12 @@ Defendant was convicted under N.C. Gen.Stat. § 14-218 (2001), which provides: "
 
 ### US v. Pang
 
-
-
 ## Knowledge
 
 ### Safeway Stores v. Combs
 
 ## Effect on Hearer
 
-### Suggs v. Stanley&#x20;
+### Suggs v. Stanley
 
 ### US v. Herrera

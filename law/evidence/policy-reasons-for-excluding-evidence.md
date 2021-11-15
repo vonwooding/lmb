@@ -2,7 +2,7 @@
 
 ## Offers of Compromise
 
-Purpose:  to further the public policy favoring compromise and the settlement of disputes.
+Purpose: to further the public policy favoring compromise and the settlement of disputes.
 
 ### Fed. R. Evid. 408 (a) Prohibited Uses
 
@@ -12,39 +12,39 @@ Evidence of the following is not admissible to prove or disprove the validity or
 
 **(2)** **Plea Negotiations:** conduct or a statement made during compromise negotiations about the claim — except when offered in a criminal case and when the negotiations related to a claim by a public office in the exercise of its regulatory, investigative, or enforcement authority.
 
-### Fed. R. Evid. 408 **(b) Exceptions**&#x20;
+### Fed. R. Evid. 408 **(b) Exceptions**
 
 The court may admit this evidence for another purpose, such as proving a witness’s bias or prejudice, negating a contention of undue delay, or proving an effort to obstruct a criminal investigation or prosecution.
 
 ### Strout v. Maine Medical Center
 
-A doctor misdiagnosed his patient with a far more lethal form of cancer than the patient actually had.&#x20;
+A doctor misdiagnosed his patient with a far more lethal form of cancer than the patient actually had.
 
 #### The "Apology Statute"
 
-In any civil action for medical professional negligence: any statement, affirmation, gesture or conduct expressing apology, sympathy, commiseration, condolence, compassion or a general sense of benevolence relating to the discomfort, pain, suffering, injury or death of the alleged victim as the result of the unanticipated outcome is inadmissible as evidence of an admission of liability or as evidence of an admission against interest.&#x20;
+In any civil action for medical professional negligence: any statement, affirmation, gesture or conduct expressing apology, sympathy, commiseration, condolence, compassion or a general sense of benevolence relating to the discomfort, pain, suffering, injury or death of the alleged victim as the result of the unanticipated outcome is inadmissible as evidence of an admission of liability or as evidence of an admission against interest.
 
 #### Statements of Fault
 
-However,** statements of fault are admissible**, even when coupled with other statements that may be inadmissible. Here, the letter from the Main medical center revealed that the doctor did not follow protocol, although he was acting in good faith. &#x20;
+However,\*\* statements of fault are admissible\*\*, even when coupled with other statements that may be inadmissible. Here, the letter from the Main medical center revealed that the doctor did not follow protocol, although he was acting in good faith.
 
 There is no evidence of any disputed claim in existence at the time of the admission. The statements contained in the letter were not made as part of a settlement negotiation or mediation.
 
 ### Anderson v. Midland Lutheran
 
-Andersen, a nursing student, was dismissed from Midland Lutheran College. He claims the dismissal was a result of discrimination due to his ADHD.&#x20;
+Andersen, a nursing student, was dismissed from Midland Lutheran College. He claims the dismissal was a result of discrimination due to his ADHD.
 
-The parties' evidentiary dispute surrounds Dr. Sasse's letter to Andersen offering Andersen readmission to complete his nursing degree requirements. In the letter, Dr. Sasse stated, "the offer \[of readmission] is made in recognition of \[Andersen's] previous quality academic record..." Andersen sought to use this letter as evidence to support the notion that he had been improperly dismissed from the school.&#x20;
+The parties' evidentiary dispute surrounds Dr. Sasse's letter to Andersen offering Andersen readmission to complete his nursing degree requirements. In the letter, Dr. Sasse stated, "the offer \[of readmission] is made in recognition of \[Andersen's] previous quality academic record..." Andersen sought to use this letter as evidence to support the notion that he had been improperly dismissed from the school.
 
-Under Rule 408 (a), Midland seeks to preclude Andersen from presenting all evidence of or argument about negotiations and offers to compromise between the parties and all proceedings before the United States Department of Education (DOE). Midland argues the legtter was made in attempt to settle Andersen's claims as part of settlement negotiations and should not be admissible to show pretext for discrimination (an element of Andersen's claim).&#x20;
+Under Rule 408 (a), Midland seeks to preclude Andersen from presenting all evidence of or argument about negotiations and offers to compromise between the parties and all proceedings before the United States Department of Education (DOE). Midland argues the legtter was made in attempt to settle Andersen's claims as part of settlement negotiations and should not be admissible to show pretext for discrimination (an element of Andersen's claim).
 
-#### So, is readmission to Midland sufficient consideration to be protected under Rule 408(a)?&#x20;
+#### So, is readmission to Midland sufficient consideration to be protected under Rule 408(a)?
 
 The court referenced the following cases in the opinion.
 
-#### _Burns: _
+#### \_Burns: \_
 
-Burns was discharged from the railroad retroactively effective the day before he was summoned for the investigation which lead to his dismissal. Burns requested his wages and expenses for the period between the summoning and discharge but the railroad refused.&#x20;
+Burns was discharged from the railroad retroactively effective the day before he was summoned for the investigation which lead to his dismissal. Burns requested his wages and expenses for the period between the summoning and discharge but the railroad refused.
 
 The court held "refusal to pay an undoubted obligation when due \[to a discharged employee] is not a basis for such a dispute as to constitute a consideration for settlement by way of compromise of another claim not included in the obligation. There must have been an actual bona fide difference or dispute between the parties."
 
@@ -54,29 +54,29 @@ A police captain faced termination for exercising First Amendment rights and sig
 
 The court held "consideration for a release requires mutual concessions, and a release is not supported by sufficient consideration unless plaintiff received something of value to which he had no previous right."
 
-#### But the plaintiffs in Burns and Spiering had already signed settlement agreements and the issue there was whether the plaintiffs forfeited their rights to file suit.&#x20;
+#### But the plaintiffs in Burns and Spiering had already signed settlement agreements and the issue there was whether the plaintiffs forfeited their rights to file suit.
 
 Andersen's readmission to Midland is not an "undoubted obligation" or "indisputable right." Andersen's belief that he is entitled to readmission does not render Midland's offer without consideration and is not a proper basis to admit settlement communications under Rule 408.
 
 Andersen has not identified which witnesses have a bias or prejudice against Andersen or how the letter would show bias or prejudice. Andersen is attempting to admit evidence of settlement communication to show Andersen is capable of performing the essential functions of a nurse and Andersen's dismissal was a pretext for discrimination. These are elements of Andersen's claim against Midland and Rule 408 bars admission of settlement communication to prove a claim.
 
-#### To admit Midland's settlement offer would violate Rule 408. Dr. Sasse's June 25, 2010 letter is also inadmissible under the Rule 408(b) exceptions.&#x20;
+#### To admit Midland's settlement offer would violate Rule 408. Dr. Sasse's June 25, 2010 letter is also inadmissible under the Rule 408(b) exceptions.
 
 ## Offers to Pay Medical and Similar Expenses
 
 ### Fed. R. Evid. 409
 
-This is a policy issue. Evidence of furnishing, promising to pay, or offering to pay medical, hospital, or similar expenses resulting from an injury is **not admissible** to prove liability for the injury. The courts do not want to dissuade parties from seeking amicable settlements and thus avoiding litigation.&#x20;
+This is a policy issue. Evidence of furnishing, promising to pay, or offering to pay medical, hospital, or similar expenses resulting from an injury is **not admissible** to prove liability for the injury. The courts do not want to dissuade parties from seeking amicable settlements and thus avoiding litigation.
 
 ### Rhodes v. B.C. Moore & Son, Inc.
 
-Appellant was stung by a bee, yellow jacket or other insect while shopping. Appellant contends that a store employee was present and saw the insect immediately after it stung her. However, Appellant has not shown the presence of insects; nor has Appellant demonstrated the existence of previous bug attacks in the store. Furthermore, the employee witness called upon by the Appellant denied ever seeing an insect in the store and could not recall whether a sting had ever occurred prior.&#x20;
+Appellant was stung by a bee, yellow jacket or other insect while shopping. Appellant contends that a store employee was present and saw the insect immediately after it stung her. However, Appellant has not shown the presence of insects; nor has Appellant demonstrated the existence of previous bug attacks in the store. Furthermore, the employee witness called upon by the Appellant denied ever seeing an insect in the store and could not recall whether a sting had ever occurred prior.
 
-Appellant received medical attention twice for the sting and the store (Appellee) paid for at least one of the visits. Appellant sought to introduce this as evidence to support a claim of negligence against the store. But the court does not want to discourage charity or acts in good faith to avoid litigation.&#x20;
+Appellant received medical attention twice for the sting and the store (Appellee) paid for at least one of the visits. Appellant sought to introduce this as evidence to support a claim of negligence against the store. But the court does not want to discourage charity or acts in good faith to avoid litigation.
 
 #### Holding:
 
-#### "This type of activity constituting a voluntary offer of assistance made on the impulse of benevolence or sympathy should be encouraged and should not be considered as an admission of liability." [Gray v. Delta Air Lines, 127 Ga. App. 45, 53 (192 SE2d 521)](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=104058341783244176\&hl=en\&q=264+SE2d+500) (1972).&#x20;
+#### "This type of activity constituting a voluntary offer of assistance made on the impulse of benevolence or sympathy should be encouraged and should not be considered as an admission of liability." [Gray v. Delta Air Lines, 127 Ga. App. 45, 53 (192 SE2d 521)](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=104058341783244176\&hl=en\&q=264+SE2d+500) (1972).
 
 ## Negotiations in Criminal Trials
 
@@ -118,7 +118,6 @@ Evidence that a person was or was not insured against liability is not admissibl
 
 ### Osborne v. Wenger
 
-Civil case. Wenger was drunk driving and struck Osborne on her way home. The jury was prevented from learning whether Wenger was insured. Given that Wenger admitted liability, there was a strong possibility that the disclosure of the one million dollar coverage limits on Wenger's policy would influence the jury's finding as to compensatory damages. Evidence of insurance coverage is generally not admissible, although there are exceptions. [Duke's GMC, Inc. v. Erskine (1983), Ind. App., 447 N.E.2d 1118](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=17615352030255658282\&hl=en\&q=572+NE.2d+1343).&#x20;
+Civil case. Wenger was drunk driving and struck Osborne on her way home. The jury was prevented from learning whether Wenger was insured. Given that Wenger admitted liability, there was a strong possibility that the disclosure of the one million dollar coverage limits on Wenger's policy would influence the jury's finding as to compensatory damages. Evidence of insurance coverage is generally not admissible, although there are exceptions. [Duke's GMC, Inc. v. Erskine (1983), Ind. App., 447 N.E.2d 1118](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=17615352030255658282\&hl=en\&q=572+NE.2d+1343).
 
 There was also a claim for punitive damages. Punitive damages are linked to the defendant's net worth and will vary based on the defendant's capacity to compensate the counterparty. The financial status of a defendant is admissible for the purpose of determining what amount of punitive damages would be appropriate to punish and deter him. [Archem, Inc. v. Simo (1990), Ind. App., 549 N.E.2d 1054, 1058](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=18331292346068465869\&hl=en\&q=572+NE.2d+1343).
-
