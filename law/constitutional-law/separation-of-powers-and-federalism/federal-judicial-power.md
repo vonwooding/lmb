@@ -1,4 +1,4 @@
-# The Nature of Judicial Review
+# Federal Judicial Power
 
 ## The Supreme Court and the Constitutional System
 
