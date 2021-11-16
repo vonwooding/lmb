@@ -103,13 +103,21 @@ MBCA § 8.60
 
 ### Validating Conflicting-Interest Transactions
 
-MBCA § 8.61(b)
+#### MBCA § 8.61(b)
 
 > "A director may escape liability for a conflicting-interest transaction if (1) the board of directors properly approves it, (2) the shareholders properly approve it, or (3) it is objectively fair to the corporation."
->
-> "A director is not liable for a conflicting-interest transaction if the board has approved the transaction, unless the transaction was fraudulent or misrepresented by the director with the conflicting interest." MBCA§ 8.62(a)
 
-###
+#### MBCA§ 8.62(a)
+
+> "A director is not liable for a conflicting-interest transaction if the board has approved the transaction, unless the transaction was fraudulent or misrepresented by the director with the conflicting interest."&#x20;
+
+#### **MBCA **§ 8.63
+
+> "Voting shareholders must receive notice describing the action to be taken on the conflicting-interest transaction and must be informed of all material facts known to the conflicted director regarding the conflict of interest and the transaction itself."
+
+#### **MBCA §§ 8.90**
+
+> "A conflicting-interest transaction is valid if it produces a net benefit to the corporation, considering whether (1) the conflicted director dealt fairly with the corporation, and (2) the benefit was comparable to what the corporation might have gotten in a similar transaction."
 
 ### Corporate-Opportunity Doctrine
 {% endtab %}
