@@ -11,6 +11,4 @@
 
 ## Third Point, LLC. v. Ruprecht
 
-
-
 ## CA, Inc. v. AFSCME Employees Pension Plan
