@@ -8,15 +8,13 @@ CIT did not submit the emails during discovery. Rather, they claimed attorney-cl
 
 A client who “voluntarily discloses or consents to disclosure of any significant part of the privileged matter” or "shares confidential communications made between him and his attorney with non-client third parties" risks waiving the attorney-client privilege.
 
-#### Common Interest Doctrine
+### Common Interest Doctrine
 
 The Common Interest Doctrine will protect a party that has waived its attorney-client privilege by disclosing privileged communications with a third party.&#x20;
 
 The Common Interest Doctrine applies “when the third person \[which whom the confidential information was shared] is also a client as to the subject matters discussed in the conference **or** has a sufficient common legal interest in the subject matters discussed.”
 
 Here, the court will deny Plaintiff's motion to compel because CIT and Fannie Mae shared a common legal interest in defending their legal rights to the insurance proceeds at issue in this case. The Common Interest Doctrine exception to the waiver of attorney-client privilege applies. Motion to compel production denied.&#x20;
-
-
 
 {% file src="../../../.gitbook/assets/Bennett v. CIT Bank.pdf" %}
 
@@ -36,7 +34,7 @@ In the present case, as discussed _supra,_ Haysville claims that many of the doc
 
 . . . First, Haysville contends that some of the information in its police files, particularly the personnel files, are privileged because of the privacy interests of its police officers. Second, Haysville contends that other information, particularly that in the internal affairs files, is privileged because of public interests in preventing disclosure.
 
-### _Privacy interests of police officers_
+### Privacy interests of police officers
 
 . . . .Rule 501 clearly authorizes federal courts to consult constitutional provisions in making privileges determinations. In [_Denver Policemen's Protective Ass'n v. Lichtenstein,_ 660 F.2d 432 (10th Cir.1981),](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=13018885687236659216\&hl=en\&q=869+F.+Supp.+828) a case not cited by Haysville, the Tenth Circuit considered whether and to what extent police officers had a right to prevent disclosure of personal matters within police personnel and investigative files. _Id._ at 435. Looking primarily to substantive due process decisions of the Supreme Court, [_Whalen v. Roe,_ 429 U.S. 589, 599, 97 S.Ct. 869, 876, 51 L.Ed.2d 64 (1977)](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=8555735987895894452\&hl=en\&q=869+F.+Supp.+828) and [_Nixon v. Administrator of General Services,_ 433 U.S. 425, 457, 97 S.Ct. 2777, 2797, 53 L.Ed.2d 867 (1977),](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=11884364268460571560\&hl=en\&q=869+F.+Supp.+828) the court acknowledged the existence of such privacy interests. The court then adopted the "Colorado test" for determining whether information contained in police and other governmental files is "of such a highly personal or sensitive nature that it falls within the zone of confidentiality." [_Flanagan v. Munger,_ 890 F.2d 1557, 1570 (10th Cir.1989)](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=6811235589687530812\&hl=en\&q=869+F.+Supp.+828) (discussing _Lichtenstein_). Under this test,
 
@@ -50,7 +48,7 @@ It is a "venerable legal axiom that privileges are to be narrowly, not expansive
 
 Construing the privacy interests of the Haysville police officers narrowly in the present case, the court views only one type of item in their personnel files as so highly personal and sensitive in nature that it should be safeguarded as privileged: the psychological evaluations of each of the Haysville police officers, including Officer Stock. _See _[_Lichtenstein,_ 660 F.2d at 435](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=13018885687236659216\&hl=en\&q=869+F.+Supp.+828). All other items concern more official, duty connected types of information, such as payroll and vacation/absence records, official oaths, letters of appreciation, and periodic performance evaluations, and these clearly are not privileged.
 
-### _Public interests in internal affairs files_
+### Public interests in internal affairs files
 
 The second type of privilege asserted is characterized by Haysville as a "self-policing privilege." (Doc. 65, attachments, Haysville's responses to plaintiff's RFPs). It is akin to the "executive privilege," [_Lichtenstein,_ 660 F.2d at 437,](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=13018885687236659216\&hl=en\&q=869+F.+Supp.+828) "official information privilege," [_Kelly,_ 114 F.R.D. 653](https://scholar.google.com/scholar\_case?about=16638255967179683956\&as\_sdt=6%2C39\&hl=en\&q=869+F.+Supp.+828); [_King,_ 121 F.R.D. at 190,](https://scholar.google.com/scholar\_case?about=3629874394467703014\&as\_sdt=6%2C39\&hl=en\&q=869+F.+Supp.+828) and "self-critical analysis privilege," [_Skibo,_ 109 F.R.D. at 63-64,](https://scholar.google.com/scholar\_case?about=16284336798639066811\&as\_sdt=6%2C39\&hl=en\&q=869+F.+Supp.+828) discussed by other federal courts. This privilege focuses on public interests in keeping police files confidential. The "self-policing" or "self-critical analysis" privilege in particular is predicated on the notion that disclosure of officers' observations made during past internal investigations of their co-officer's alleged misconduct could have a chilling effect on their willingness to be candid in criticizing their fellow officers during future investigations. [_Lichtenstein,_ 660 F.2d at 437](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=13018885687236659216\&hl=en\&q=869+F.+Supp.+828); [_Skibo,_ 109 F.R.D. at 63-64](https://scholar.google.com/scholar\_case?about=16284336798639066811\&as\_sdt=6%2C39\&hl=en\&q=869+F.+Supp.+828) (describing "self critical analysis privilege" as aimed at "assur\[ing] that subordinates within an agency will feel free to provide the decision maker with their uninhibited opinions and recommendations"); [_King,_ 121 F.R.D. at 192](https://scholar.google.com/scholar\_case?about=3629874394467703014\&as\_sdt=6%2C39\&hl=en\&q=869+F.+Supp.+828) (discussing this aspect of the "official information" privilege as based on the theory that disclosure will "compromise internal police investigations by inhibiting the candor of police officers contributing information to those files"). Federal courts recognizing this privilege balance the various factors weighing in favor and against disclosure to determine whether police files should be disclosed. [_Lichtenstein,_ 660 F.2d at 437-38](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=13018885687236659216\&hl=en\&q=869+F.+Supp.+828); [_King,_ 121 F.R.D. at 190-97](https://scholar.google.com/scholar\_case?about=3629874394467703014\&as\_sdt=6%2C39\&hl=en\&q=869+F.+Supp.+828).
 
@@ -65,6 +63,12 @@ Third, even if the court was to recognize a so-called "self-policing privilege,"
 {% file src="../../../.gitbook/assets/Mason v. Stock.pdf" %}
 
 ## Trammel v. United States
+
+### Privilege Against Adverse Spousal Testimony
+
+The _Hawkins_ privilege is invoked, not to exclude private marital communications, but rather to exclude evidence of criminal acts and of communications made in the presence of third persons.
+
+No other testimonial privilege sweeps so broadly. The privileges between priest and penitent, attorney and client, and physician and patient limit protection to private communications.&#x20;
 
 {% file src="../../../.gitbook/assets/Trammel v. United States .pdf" %}
 
