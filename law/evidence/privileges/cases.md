@@ -74,4 +74,8 @@ No other testimonial privilege sweeps so broadly. The privileges between priest 
 
 ## Keyes v. Sessions
 
+### Doctor-Patient and Psychiatrist-Patient Privileges
+
+
+
 {% file src="../../../.gitbook/assets/Keyes v. Sessions.pdf" %}
