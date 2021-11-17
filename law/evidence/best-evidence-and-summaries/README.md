@@ -1,14 +1,6 @@
 # Best Evidence and Summaries
 
-### Three kinds of summaries:
-
-(1) Primary-evidence summaries, such as those at issue here, which summarize "voluminous writings, recordings, or photographs" that, because they are so voluminous, "cannot conveniently be examined in court." Fed.R.Evid. 1006.
-
-(2) Pedagogical-device summaries or illustrations, such as chalkboard drawings, graphs, calculations, or listings of data taken from the testimony of witnesses or documents in evidence, which are intended to summarize, clarify, or simplify testimonial or other evidence that has been admitted in the case, but which are not themselves admitted, instead being used only as an aid to the presentation and understanding of the evidence.
-
-(3) Secondary-evidence summaries that are a combination of (1) and (2), in that they are not prepared entirely in compliance with Rule 1006 and yet are more than mere pedagogical devices designed to simplify and clarify other evidence in the case. These secondary-evidence summaries are admitted in evidence not in lieu of the evidence they summarize but in addition thereto, because in the judgment of the trial court such summaries so accurately and reliably summarize complex or difficult evidence that is received in the case as to materially assist the jurors in better understanding the evidence.
-
-## Rule 1001 – Definitions
+## Rule 1001 – Best Evidence Definitions
 
 (a) A “writing” consists of letters, words, numbers, or their equivalent set down in any form.
 
@@ -56,3 +48,11 @@ The proponent may use a summary, chart, or calculation to prove the content of v
 ## Rule 1007 – Testimony or Statement of a Party to Prove Content
 
 The proponent may prove the content of a writing, recording, or photograph by the testimony, deposition, or written statement of the party against whom the evidence is offered. The proponent need not account for the original.
+
+## Three Kinds of Summaries
+
+**(1) Primary-evidence summaries**, such as those at issue here, which summarize "voluminous writings, recordings, or photographs" that, because they are so voluminous, "cannot conveniently be examined in court." Fed.R.Evid. 1006.
+
+**(2) Pedagogical-device summaries or illustrations**, such as chalkboard drawings, graphs, calculations, or listings of data taken from the testimony of witnesses or documents in evidence, which are intended to summarize, clarify, or simplify testimonial or other evidence that has been admitted in the case, but which are not themselves admitted, instead being used only as an aid to the presentation and understanding of the evidence.
+
+**(3) Secondary-evidence summaries **that are a combination of (1) and (2), in that they are not prepared entirely in compliance with Rule 1006 and yet are more than mere pedagogical devices designed to simplify and clarify other evidence in the case. These secondary-evidence summaries are admitted in evidence not in lieu of the evidence they summarize but in addition thereto, because in the judgment of the trial court such summaries so accurately and reliably summarize complex or difficult evidence that is received in the case as to materially assist the jurors in better understanding the evidence.
