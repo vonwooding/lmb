@@ -4,6 +4,28 @@ description: Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvan
 
 # Writing Assignment #4
 
+![](<../../.gitbook/assets/Screen Shot 2021-11-22 at 2.56.55 PM.png>)
+
+Justice Thomas delivered the opinion of the Court.&#x20;
+
+> In these consolidated cases, we decide whether the Government created lawful exemptions from a **regulatory requirement** implementing the Patient Protection and Affordable Care Act of 2010 (ACA).
+>
+>
+>
+> The requirement obligates certain employers to provide contraceptive coverage to their employees through their group health plans. Though contraceptive coverage is not required by (or even mentioned in) the ACA provision at issue, the Government mandated such coverage by promulgating **interim final rules (IFRs)** shortly after the ACA's passage. This requirement is known as the contraceptive mandate.
+>
+>
+>
+> After six years of protracted litigation, the Departments of Health and Human Services, Labor, and the Treasury (together Departments)—which jointly administer the relevant ACA provision—exempted certain employers who have religious and conscientious objections from this **agency-created mandate**. The Third Circuit concluded that the Departments lacked statutory authority to promulgate these exemptions and affirmed the District Court's nationwide preliminary injunction.&#x20;
+>
+>
+>
+> That decision was erroneous. **We hold that the Departments had the authority to provide exemptions from the regulatory contraceptive requirements for employers with religious and conscientious objections.** We accordingly reverse the Third Circuit's judgment and remand with instructions to dissolve the nationwide preliminary injunction.
+
+###
+
+### Supporting Materials
+
 Supreme Court United States opinion syllabus in **Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvania** certiorari to the United States Court of Appeals for the Third Circuit argued May 6 2012.
 
 ACA requires covered employers to provide women with preventive care and screenings without any cost-sharing requirements and relies on preventative care guidelines supported by the health resources and Services Administration HRSA to determine what preventive care and screenings includes.
