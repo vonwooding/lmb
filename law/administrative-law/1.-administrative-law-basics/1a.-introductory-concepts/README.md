@@ -1,3 +1,2 @@
 # 1a. Introductory Concepts
 
-##
