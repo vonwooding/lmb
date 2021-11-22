@@ -10,7 +10,10 @@ description: Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvan
 
 The Patient Protection and Affordable Care Act of 2010 (ACA) requires covered employers to provide women with “preventive care and screenings” without “any cost-sharing requirements,” and relies on Preventive Care Guidelines (Guidelines) “supported by the Health Resources and Services Administration” (HRSA) to determine what “preventive care and screenings” includes.  [42 U. S. C. §300gg–13(a)(4)](https://www.law.cornell.edu/uscode/text/42/300gg-13#a\_4).&#x20;
 
-Those Guidelines mandate that health plans provide coverage for all Food and Drug Administration-approved contraceptive methods. When the Departments of Health and Human Services, Labor, and the Treasury (Departments) incorporated the Guidelines, they also gave HRSA the discretion to exempt religious employers, such as churches, from providing contraceptive coverage. Later, the Departments also promulgated a rule accommodating qualifying religious organizations that allowed them to opt out of coverage by self-certifying that they met certain criteria to their health insurance issuer, which would then exclude contraceptive coverage from the employer’s plan and provide participants with separate payments for contraceptive services without imposing any cost-sharing requirements.
+#### Those Guidelines mandate that health plans provide coverage for all Food and Drug Administration-approved contraceptive methods.&#x20;
+
+1. When the Departments of Health and Human Services, Labor, and the Treasury (Departments) incorporated the Guidelines, they also gave HRSA the discretion to exempt religious employers, such as churches, from providing contraceptive coverage.&#x20;
+2. Later, the Departments also promulgated a rule accommodating qualifying religious organizations that allowed them to opt-out of coverage by self-certifying that they met certain criteria to their health insurance issuer, which would then exclude contraceptive coverage from the employer’s plan and provide participants with separate payments for contraceptive services without imposing any cost-sharing requirements.
 
 #### Religious entities challenged the rules under the Religious Freedom Restoration Act of 1993 (RFRA).
 
