@@ -3,7 +3,7 @@
 * [Home](README.md)
 * [Law](law/README.md)
   * [Administrative Law](law/administrative-law/README.md)
-    * [Getting Started](law/administrative-law/getting-started.md)
+    * [Overview](law/administrative-law/getting-started.md)
     * [1. Administrative Law Basics](law/administrative-law/1.-administrative-law-basics/README.md)
       * [1a. Introductory Concepts](law/administrative-law/1.-administrative-law-basics/1a.-introductory-concepts/README.md)
         * [1a1. Class Exercise](law/administrative-law/1.-administrative-law-basics/1a.-introductory-concepts/national-appeals-division-of-the-us-department-of-agriculture.md)
