@@ -28,19 +28,19 @@ Section 7 of the Endangered Species Act requires federal agencies to ensure that
 
 ### **Holding and Reasoning (Burger, C.J.)**
 
-§ 7 clearly provides that federal agencies must ensure that actions authorized, funded, or carried out by them do not jeopardize the continued existence of an endangered species or result in destruction or modification of habitat of such species.** **
+§ 7 clearly provides that federal agencies must ensure that actions authorized, funded, or carried out by them do not jeopardize the continued existence of an endangered species or result in destruction or modification of habitat of such species.\*\* \*\*
 
-TVA argues that the ESA cannot reasonably be interpreted as applying to a federal project that was well underway when Congress passed the statute. The TVA claims that millions of dollars and substantial work hours have been devoted to completion of the dam and reservoir and halting the project now would be unjust.&#x20;
+TVA argues that the ESA cannot reasonably be interpreted as applying to a federal project that was well underway when Congress passed the statute. The TVA claims that millions of dollars and substantial work hours have been devoted to completion of the dam and reservoir and halting the project now would be unjust.
 
 Although the TVA’s arguments are valid, an examination of the ESA’s legislative history and structure of the law indicates beyond doubt that Congress intended endangered species to be afforded the highest of priorities and that their value is “incalculable.”
 
 ### **Dissent (Powell, J.)**
 
-The Court has a duty to construe statutes in a way that is consistent with common sense and the public good.** **It is not reasonable to interpret § 7 as applying to federal projects that are already completed or substantially completed when the threat to an endangered species is discovered.&#x20;
+The Court has a duty to construe statutes in a way that is consistent with common sense and the public good.\*\* \*\*It is not reasonable to interpret § 7 as applying to federal projects that are already completed or substantially completed when the threat to an endangered species is discovered.
 
 It is possible to construe § 7 in a reasonable way as applicable only to prospective agency actions. That more limited construction is supported by the legislative history of § 7 and is consistent with the presumption against construing statutes to give them retroactive effect.
 
-![](<../../.gitbook/assets/Screen Shot 2021-08-31 at 4.41.02 PM.png>)
+![](<../../../../.gitbook/assets/Screen Shot 2021-08-31 at 4.41.02 PM.png>)
 
 The Court's holding in **Church of the Holy Trinity v. United States** that courts should look beyond the text of a statute to discern its meaning has been controversial.
 
@@ -62,11 +62,11 @@ In extraordinary cases involving questions of deep economic and political signif
 
 Whether sexual-orientation discrimination is a subset of sex discrimination is a question of statutory interpretation. Under Loving v. Virginia, 388 U.S. 1 (1967), a person can be found to be illegally discriminated against based on characteristics of the person with whom she has intimate relations. In Loving, the alleged discrimination was based on the race of the plaintiff’s partner. In this case, the alleged discrimination was based on the sex of the plaintiff’s partner. In both cases, the claim was that changing that one characteristic—race or sex—would have resulted in a different outcome. Thus, under both the comparative and associational theories, Hively’s claim is actionable under Title VII.
 
-## Dictionaries&#x20;
+## Dictionaries
 
 ### Taniguchi v. Kan Pacific Saipan, Ltd.
 
-A term that is undefined in a statute must be given the ordinary meaning of the term.&#x20;
+A term that is undefined in a statute must be given the ordinary meaning of the term.
 
 Here, the meaning of an interpreter is not defined in the Court Interpreters Act or any other relevant statute. The ordinary meaning of an interpreter may be determined by considering the definition of the term in the dictionaries that were in use when the statutory provision was enacted. Many of these dictionaries define an interpreter as a person who translates spoken language.
 
@@ -86,7 +86,7 @@ Principle of contract or statutory interpretation that requires a court to deter
 
 ## Nix v. Hedden
 
-When interpreting a statute, a court should use the ordinary, rather than specialized, meaning of the statute’s words.&#x20;
+When interpreting a statute, a court should use the ordinary, rather than specialized, meaning of the statute’s words.
 
 **Holding and Reasoning (Gray, J.)**
 
@@ -94,7 +94,7 @@ Although words may have different meanings in different communities, a court sho
 
 ## Yates v. United States
 
-The term “tangible object” in § 1519 of the Sarbanes-Oxley Act refers to an object used to record or preserve information and does not include fish.&#x20;
+The term “tangible object” in § 1519 of the Sarbanes-Oxley Act refers to an object used to record or preserve information and does not include fish.
 
 The bill, which contains eleven sections, was enacted as a reaction to a number of major [corporate and accounting scandals](https://en.wikipedia.org/wiki/Accounting\_scandals), including [Enron](https://en.wikipedia.org/wiki/Enron\_scandal) and [WorldCom](https://en.wikipedia.org/wiki/WorldCom\_scandal). The sections of the bill cover responsibilities of a public corporation's board of directors, add criminal penalties for certain misconduct, and require the [Securities and Exchange Commission](https://en.wikipedia.org/wiki/United\_States\_Securities\_and\_Exchange\_Commission) to create regulations to define how public corporations are to comply with the law.
 
@@ -108,7 +108,7 @@ The inclusion of the verb phrase "makes a false entry in" makes clear that § 15
 
 **Dissent (Kagan, J.)**
 
-The ordinary meaning of "tangible object" is something discrete with a physical form. As a fish is a discrete thing with a physical form, a fish is a tangible object.** **A fisherman who dumps undersized fish in order to avoid a fine should be treated the same as a fisherman who shreds his vessel's catch log to avoid a fine, as one is no less blameworthy than the other. In enacting § 1519, Congress understood that destroying tangible evidence falls within the purview of the Act regardless of the form the object takes.
+The ordinary meaning of "tangible object" is something discrete with a physical form. As a fish is a discrete thing with a physical form, a fish is a tangible object.\*\* \*\*A fisherman who dumps undersized fish in order to avoid a fine should be treated the same as a fisherman who shreds his vessel's catch log to avoid a fine, as one is no less blameworthy than the other. In enacting § 1519, Congress understood that destroying tangible evidence falls within the purview of the Act regardless of the form the object takes.
 
 ## Lockhart v. United States
 
@@ -117,8 +117,6 @@ A limiting clause or phrase should be read as modifying only the noun or phrase 
 **Holding and Reasoning (Sotomayor, J.)**
 
 Structural or contextual evidence may rebut the last antecedent inference. In this case, the context of the statute at issue fortifies the interpretation expected under the rule. The language of the statute parallels the pattern of another statute in which sexual abuse of a minor is a distinct offense from aggravated sexual abuse and sexual abuse. If Congress had intended to limit each crime in this statute to conduct involving a minor, it is unlikely that Congress would have so closely followed the language of the other statute.
-
-
 
 ### Cannons of Construction
 
@@ -129,6 +127,3 @@ Common rules:
 3. A general term is interpreted to include things of the same type as the more specific listed examples
 4. Provisions are construed so that others are not rendered superfluous or redundant
 5. The same word used at different places in the statute is presumed to have the same meaning
-
-
-
