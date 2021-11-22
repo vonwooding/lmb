@@ -1,4 +1,8 @@
-# National Appeals Division of the US Department of Agriculture
+---
+description: National Appeals Division of the US Department of Agriculture
+---
+
+# 1a1. Class Exercise
 
 ## What is NAD?
 

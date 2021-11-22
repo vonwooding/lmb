@@ -6,7 +6,7 @@
     * [Getting Started](law/administrative-law/getting-started.md)
     * [1. Administrative Law Basics](law/administrative-law/1.-administrative-law-basics/README.md)
       * [1a. Introductory Concepts](law/administrative-law/1.-administrative-law-basics/1a.-introductory-concepts/README.md)
-        * [National Appeals Division of the US Department of Agriculture](law/administrative-law/1.-administrative-law-basics/1a.-introductory-concepts/national-appeals-division-of-the-us-department-of-agriculture.md)
+        * [1a1. Class Exercise](law/administrative-law/1.-administrative-law-basics/1a.-introductory-concepts/national-appeals-division-of-the-us-department-of-agriculture.md)
       * [1b. Statutory Construction](law/administrative-law/1.-administrative-law-basics/1b.-statutory-construction/README.md)
         * [Statutory Interpretation and Construction](law/administrative-law/1.-administrative-law-basics/1b.-statutory-construction/untitled.md)
         * [Statutory Interpretation Caselaw](law/administrative-law/1.-administrative-law-basics/1b.-statutory-construction/statutory-interpretation-caselaw.md)
