@@ -29,6 +29,7 @@
       * [3c. Relationship With The Courts](law/administrative-law/3.-administrative-agency-relationships/3c.-relationship-with-the-courts/README.md)
         * [Standards of Review](law/administrative-law/3.-administrative-agency-relationships/3c.-relationship-with-the-courts/standards-of-review.md)
         * [Justiciability](law/administrative-law/3.-administrative-agency-relationships/3c.-relationship-with-the-courts/justiciability.md)
+    * [4. Transparency, E-Governance and the Information Age](law/administrative-law/4.-transparency-e-governance-and-the-information-age.md)
     * [Writing Assignment #4](law/administrative-law/writing-assignment-4.md)
   * [Criminal Procedure](law/criminal-procedure.md)
   * [Business Associations](law/business-associations/README.md)
