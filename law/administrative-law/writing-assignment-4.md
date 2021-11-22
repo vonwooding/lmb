@@ -8,7 +8,9 @@ description: Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvan
 
 ## Syllabus
 
-The Patient Protection and Affordable Care Act of 2010 (ACA) requires covered employers to provide women with “preventive care and screenings” without “any cost-sharing requirements,” and relies on Preventive Care Guidelines (Guidelines) “supported by the Health Resources and Services Administration” (HRSA) to determine what “preventive care and screenings” includes.  [42 U. S. C. §300gg–13(a)(4)](https://www.law.cornell.edu/uscode/text/42/300gg-13#a\_4).&#x20;
+**The Patient Protection and Affordable Care Act of 2010 (ACA)** requires covered employers to provide women with “preventive care and screenings” without “any cost-sharing requirements.”
+
+The ACA relies on **Preventive Care Guidelines (Guidelines)** “supported by the **Health Resources and Services Administration” (HRSA)** to determine what “preventive care and screenings” includes. [42 U. S. C. §300gg–13(a)(4)](https://www.law.cornell.edu/uscode/text/42/300gg-13#a\_4).&#x20;
 
 #### Those Guidelines mandate that health plans provide coverage for all Food and Drug Administration-approved contraceptive methods.&#x20;
 
