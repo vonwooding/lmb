@@ -6,7 +6,13 @@ description: Week 1
 
 ## What Are Admin Agencies?
 
-Administrative agencies are all of the authorities and operating units of the government **except for the constitutionally established entities in the first three Articles:** that is, except for Congress, the President and Vice President, and the Supreme Court. Administrative agencies may be established by Congressional act **(organic statute)** or presidential directive (**founding memorandum).**
+Administrative agencies are all of the authorities and operating units of the government, except for Congress, the President and Vice President, and the Supreme Court.&#x20;
+
+Administrative agencies have no independent existence. They are created, enabled, and empowered by the legislature and to a lesser extent by the executive. Sometimes, Congress creates skeletal acts and then passes the statute to the agency to determine how the technical components will be interpreted, applied, and adjudicated. Other times, the President&#x20;
+
+An agency is created to be a repository of expertise and so the Courts tend to defer to agency interpretations and adjudications.&#x20;
+
+We must always look for an admin agency's **source of authority. **Administrative agencies may be established by Congressional act **(organic statute)** or presidential directive **(founding memorandum).**
 
 ## Categories of Admin Agencies
 
@@ -60,7 +66,11 @@ Typically narrow and technical
 
 ### Partially Federal Entities
 
-Public-private entities like government corporations, federal-state organizations like those established under the **Compact Clause**, and federal-foreign institutions like those created by treaties.
+Public-private entities such as
+
+1. **Government corporations**
+2. **Federal-state organizations like those established under the Compact Clause**
+3. **Federal-foreign institutions like those created by treaties**
 
 ## Materials Developed or Issued By Administrative Agencies
 
