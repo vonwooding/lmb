@@ -3,11 +3,7 @@
 ## What is this book about?
 
 {% hint style="info" %}
-LMB is a collection of information about Law, Money, and Bitcoin compiled by Von Wooding.&#x20;
-
-
-
-Von is a J.D. Candidate at Duquesne University School of Law,  concentrating in banking, finance and securities law, and pursuing the Business Essentials for Lawyers Micro-Credential through Duquesne's Palumbo-Donahue School of Business.&#x20;
+LMB is a collection of information about Law, Money, and Bitcoin
 {% endhint %}
 
 ## Von's Work Product
