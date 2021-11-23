@@ -28,7 +28,7 @@ Section 7 of the Endangered Species Act requires federal agencies to ensure that
 
 ### **Holding and Reasoning (Burger, C.J.)**
 
-§ 7 clearly provides that federal agencies must ensure that actions authorized, funded, or carried out by them do not jeopardize the continued existence of an endangered species or result in destruction or modification of habitat of such species.\*\* \*\*
+§ 7 clearly provides that federal agencies must ensure that actions authorized, funded, or carried out by them do not jeopardize the continued existence of an endangered species or result in destruction or modification of habitat of such species.
 
 TVA argues that the ESA cannot reasonably be interpreted as applying to a federal project that was well underway when Congress passed the statute. The TVA claims that millions of dollars and substantial work hours have been devoted to completion of the dam and reservoir and halting the project now would be unjust.
 
