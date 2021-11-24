@@ -78,6 +78,7 @@
       * [Federal Judicial Power](law/constitutional-law/separation-of-powers-and-federalism/federal-judicial-power.md)
     * [Dormant Commerce Clause](law/constitutional-law/dormant-commerce-clause.md)
     * [Privileges and Immunities Clause](law/constitutional-law/privileges-and-immunities-clause.md)
+    * [Chemerinsky Cases](law/constitutional-law/chemerinsky-cases.md)
   * [Evidence](law/evidence/README.md)
     * [Relevance and Its Limits](law/evidence/relevance.md)
     * [Policy Reasons for Excluding Evidence](law/evidence/policy-reasons-for-excluding-evidence.md)
