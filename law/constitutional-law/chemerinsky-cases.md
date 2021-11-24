@@ -48,255 +48,131 @@
 
 ## B <a href="b" id="b"></a>
 
-[Bacchus Imports, Ltd. v. Dias](https://www.quimbee.com/cases/bacchus-imports-ltd-v-dias)
+[Bacchus Imports, Ltd. v. Dias](https://www.quimbee.com/cases/bacchus-imports-ltd-v-dias) **468 U.S. 263, 104 S.Ct. 3049, 82 L.Ed.2d 200 (1984)**
 
-**468 U.S. 263, 104 S.Ct. 3049, 82 L.Ed.2d 200 (1984)**
+[Baker v. Carr ](https://www.quimbee.com/cases/baker-v-carr)**369 U.S. 186 (1962)**
 
-[Baker v. Carr ](https://www.quimbee.com/cases/baker-v-carr)
+[Baldwin v. Fish & Game Commission of Montana ](https://www.quimbee.com/cases/baldwin-v-fish-game-commission-of-montana)**436 U.S. 371 (1978)**
 
-**369 U.S. 186 (1962)**
+[Ball v. James](https://www.quimbee.com/cases/ball-v-james) **451 U.S. 355, 101 S.Ct. 1811, 68 L.Ed.2d 150 (1981)**
 
-[Baldwin v. Fish & Game Commission of Montana ](https://www.quimbee.com/cases/baldwin-v-fish-game-commission-of-montana)
+****[Barron v. Mayor & City Council of Baltimore ](https://www.quimbee.com/cases/barron-v-mayor-city-council-of-baltimore)**32 U.S. (7 Pet.) 243 (1833)**
 
-**436 U.S. 371 (1978)**
+[Bartnicki v. Vopper ](https://www.quimbee.com/cases/bartnicki-v-vopper)**532 U.S. 514 (2001)**
 
-[Ball v. James](https://www.quimbee.com/cases/ball-v-james)
+[Beauharnais v. Illinois ](https://www.quimbee.com/cases/beauharnais-v-illinois)**343 U.S. 250 (1952)**
 
-**451 U.S. 355, 101 S.Ct. 1811, 68 L.Ed.2d 150 (1981)**
+[Bellotti v. Baird ](https://www.quimbee.com/cases/bellotti-v-baird)**443 U.S. 622 (1979)**
 
-[Barron v. Mayor & City Council of Baltimore ](https://www.quimbee.com/cases/barron-v-mayor-city-council-of-baltimore)
+[Bethel School District No. 403 v. Fraser ](https://www.quimbee.com/cases/bethel-school-district-no-403-v-fraser)**478 U.S. 675 (1986)**
 
-**32 U.S. (7 Pet.) 243 (1833)**
+[Bibb, Director, Dept. of Public Safety of Illinois v. Navajo Freight Lines, Inc. ](https://www.quimbee.com/cases/bibb-director-dept-of-public-safety-of-illinois-v-navajo-freight-lines-inc)**359 U.S. 520 (1959)**
 
-[Bartnicki v. Vopper ](https://www.quimbee.com/cases/bartnicki-v-vopper)
+[Blum v. Yaretsky ](https://www.quimbee.com/cases/blum-v-yaretsky)**457 U.S. 991 (1982)**
 
-**532 U.S. 514 (2001)**
+[BMW of North America, Inc. v. Gore ](https://www.quimbee.com/cases/bmw-of-north-america-inc-v-gore)**517 U.S. 559 (1996)**
 
-[Beauharnais v. Illinois ](https://www.quimbee.com/cases/beauharnais-v-illinois)
+[Board of Education of Oklahoma City Public Schools v. Dowell ](https://www.quimbee.com/cases/board-of-education-of-oklahoma-city-public-schools-v-dowell)**498 U.S. 237, 111 S. Ct. 630, 112 L.Ed.2d 715 \[64 Educ. L. Rep. 628] (1991)**
 
-**343 U.S. 250 (1952)**
+[Board of Regents of State Colleges v. Roth ](https://www.quimbee.com/cases/board-of-regents-of-state-colleges-v-roth)**408 U.S. 564 (1972)**
 
-[Bellotti v. Baird ](https://www.quimbee.com/cases/bellotti-v-baird)
+[Board of Regents of the University of Wisconsin System v. Southworth ](https://www.quimbee.com/cases/board-of-regents-of-the-university-of-wisconsin-system-v-southworth)**529 U.S. 217 (2000)**
 
-**443 U.S. 622 (1979)**
+[Boddie v. Connecticut ](https://www.quimbee.com/cases/boddie-v-connecticut)**401 U.S. 371 (1971)**
 
-[Bethel School District No. 403 v. Fraser ](https://www.quimbee.com/cases/bethel-school-district-no-403-v-fraser)
+[Bolger v. Youngs Drug Products Corp. ](https://www.quimbee.com/cases/bolger-v-youngs-drug-products-corp)**463 U.S. 60 (1983)**
 
-**478 U.S. 675 (1986)**
+[Boos v. Barry ](https://www.quimbee.com/cases/boos-v-barry)**485 U.S. 312 (1988)**
 
-[Bibb, Director, Dept. of Public Safety of Illinois v. Navajo Freight Lines, Inc. ](https://www.quimbee.com/cases/bibb-director-dept-of-public-safety-of-illinois-v-navajo-freight-lines-inc)
+****[Boumediene v. Bush ](https://www.quimbee.com/cases/boumediene-v-bush)**553 U.S. 723 (2008)**
 
-**359 U.S. 520 (1959)**
+[Boy Scouts of America v. Dale ](https://www.quimbee.com/cases/boy-scouts-of-america-v-dale)**530 U.S. 640 (2000)**
 
-[Blum v. Yaretsky ](https://www.quimbee.com/cases/blum-v-yaretsky)
+[Brandenburg v. Ohio ](https://www.quimbee.com/cases/brandenburg-v-ohio)**395 U.S. 444 (1969)**
 
-**457 U.S. 991 (1982)**
+[Branzburg v. Hayes ](https://www.quimbee.com/cases/branzburg-v-hayes)**408 U.S. 665 (1972)**
 
-[BMW of North America, Inc. v. Gore ](https://www.quimbee.com/cases/bmw-of-north-america-inc-v-gore)
+[Brentwood Academy v. Tennessee Secondary School Athletic Assn.](https://www.quimbee.com/cases/brentwood-academy-v-tennessee-secondary-school-athletic-assn)**531 U.S. 288 (2001)**
 
-**517 U.S. 559 (1996)**
+[Brown v. Board of Education (Brown I) ](https://www.quimbee.com/cases/brown-v-board-of-education-brown-i)**347 U.S. 483 (1954)**
 
-[Board of Education of Oklahoma City Public Schools v. Dowell ](https://www.quimbee.com/cases/board-of-education-of-oklahoma-city-public-schools-v-dowell)
+[Brown v. Board of Education (Brown II) ](https://www.quimbee.com/cases/brown-v-board-of-education-brown-ii)**349 U.S. 249, 75 S. Ct. 753, 99 L. Ed. 1083 (1955)**
 
-**498 U.S. 237, 111 S. Ct. 630, 112 L.Ed.2d 715 \[64 Educ. L. Rep. 628] (1991)**
+[Brown v. Entertainment Merchants Association ](https://www.quimbee.com/cases/brown-v-entertainment-merchants-association)**564 U.S. 786, 131 S. Ct. 2729 (2011)**
 
-[Board of Regents of State Colleges v. Roth ](https://www.quimbee.com/cases/board-of-regents-of-state-colleges-v-roth)
+[Brown v. Legal Foundation of Washington](https://www.quimbee.com/cases/brown-v-legal-foundation-of-washington) **538 U.S. 216 (2003)**
 
-**408 U.S. 564 (1972)**
+[Buckley v. Valeo ](https://www.quimbee.com/cases/buckley-v-valeo)**424 U.S. 1 (1976)**
 
-[Board of Regents of the University of Wisconsin System v. Southworth ](https://www.quimbee.com/cases/board-of-regents-of-the-university-of-wisconsin-system-v-southworth)
+[Burton v. Wilmington Parking Authority ](https://www.quimbee.com/cases/burton-v-wilmington-parking-authority)**365 U.S. 715 (1961)**
 
-**529 U.S. 217 (2000)**
+[Burwell v. Hobby Lobby Stores, Inc. ](https://www.quimbee.com/cases/burwell-v-hobby-lobby-stores-inc)**134 S.Ct. 2751, 573 U.S. 682 (2014)**
 
-[Boddie v. Connecticut ](https://www.quimbee.com/cases/boddie-v-connecticut)
-
-**401 U.S. 371 (1971)**
-
-[Bolger v. Youngs Drug Products Corp. ](https://www.quimbee.com/cases/bolger-v-youngs-drug-products-corp)
-
-**463 U.S. 60 (1983)**
-
-[Boos v. Barry ](https://www.quimbee.com/cases/boos-v-barry)
-
-**485 U.S. 312 (1988)**
-
-[Boumediene v. Bush ](https://www.quimbee.com/cases/boumediene-v-bush)
-
-**553 U.S. 723 (2008)**
-
-[Boy Scouts of America v. Dale ](https://www.quimbee.com/cases/boy-scouts-of-america-v-dale)
-
-**530 U.S. 640 (2000)**
-
-[Brandenburg v. Ohio ](https://www.quimbee.com/cases/brandenburg-v-ohio)
-
-**395 U.S. 444 (1969)**
-
-[Branzburg v. Hayes ](https://www.quimbee.com/cases/branzburg-v-hayes)
-
-**408 U.S. 665 (1972)**
-
-[Brentwood Academy v. Tennessee Secondary School Athletic Assn. ](https://www.quimbee.com/cases/brentwood-academy-v-tennessee-secondary-school-athletic-assn)
-
-**531 U.S. 288 (2001)**
-
-[Brown v. Board of Education (Brown I) ](https://www.quimbee.com/cases/brown-v-board-of-education-brown-i)
-
-**347 U.S. 483 (1954)**
-
-[Brown v. Board of Education (Brown II) ](https://www.quimbee.com/cases/brown-v-board-of-education-brown-ii)
-
-**349 U.S. 249, 75 S. Ct. 753, 99 L. Ed. 1083 (1955)**
-
-[Brown v. Entertainment Merchants Association ](https://www.quimbee.com/cases/brown-v-entertainment-merchants-association)
-
-**564 U.S. 786, 131 S. Ct. 2729 (2011)**
-
-[Brown v. Legal Foundation of Washington](https://www.quimbee.com/cases/brown-v-legal-foundation-of-washington)
-
-**538 U.S. 216 (2003)**
-
-[Buckley v. Valeo ](https://www.quimbee.com/cases/buckley-v-valeo)
-
-**424 U.S. 1 (1976)**
-
-[Burton v. Wilmington Parking Authority ](https://www.quimbee.com/cases/burton-v-wilmington-parking-authority)
-
-**365 U.S. 715 (1961)**
-
-[Burwell v. Hobby Lobby Stores, Inc. ](https://www.quimbee.com/cases/burwell-v-hobby-lobby-stores-inc)
-
-**134 S.Ct. 2751, 573 U.S. 682 (2014)**
-
-[Bush v. Gore ](https://www.quimbee.com/cases/bush-v-gore)
-
-**531 U.S. 98 (2000)**
+[Bush v. Gore ](https://www.quimbee.com/cases/bush-v-gore)**531 U.S. 98 (2000)**
 
 ## C <a href="c" id="c"></a>
 
-[C & A Carbone, Inc. v. Town of Clarkstown, New York ](https://www.quimbee.com/cases/c-a-carbone-inc-v-town-of-clarkstown-new-york)
+[C & A Carbone, Inc. v. Town of Clarkstown, New York ](https://www.quimbee.com/cases/c-a-carbone-inc-v-town-of-clarkstown-new-york)**511 U.S. 383, 114 S. Ct. 1677, 128 L. Ed. 2d 399 (1994)**
 
-**511 U.S. 383, 114 S. Ct. 1677, 128 L. Ed. 2d 399 (1994)**
+[Califano v. Webster ](https://www.quimbee.com/cases/califano-v-webster)**430 U.S. 313 (1977)**
 
-[Califano v. Webster ](https://www.quimbee.com/cases/califano-v-webster)
+[Carter v. Carter Coal Co. ](https://www.quimbee.com/cases/carter-v-carter-coal-co)**298 U.S. 238 (1936)**
 
-**430 U.S. 313 (1977)**
+[Castle Rock v. Gonzales ](https://www.quimbee.com/cases/castle-rock-v-gonzales)**545 U.S. 748, 125 S.Ct. 2796, 162 L.Ed.2d 658 (2005)**
 
-[Carter v. Carter Coal Co. ](https://www.quimbee.com/cases/carter-v-carter-coal-co)
+[Central Hudson Gas & Electric Corp. v. Public Service Commn. of New York ](https://www.quimbee.com/cases/central-hudson-gas-electric-corp-v-public-service-commn-of-new-york)**447 U.S. 557 (1980)**
 
-**298 U.S. 238 (1936)**
+[Champion v. Ames ](https://www.quimbee.com/cases/champion-v-ames)**188 U.S. 321 (1903)**
 
-[Castle Rock v. Gonzales ](https://www.quimbee.com/cases/castle-rock-v-gonzales)
+[Chaplinsky v. New Hampshire ](https://www.quimbee.com/cases/chaplinsky-v-new-hampshire)**315 U.S. 568 (1942)**
 
-**545 U.S. 748, 125 S.Ct. 2796, 162 L.Ed.2d 658 (2005)**
+[Christian Legal Society Chapter of the University of California, Hastings College of the Law v. Martinez ](https://www.quimbee.com/cases/christian-legal-society-chapter-of-the-university-of-california-hastings-college-of-the-law-v-martinez)**561 U.S. 661 (2010)**
 
-[Central Hudson Gas & Electric Corp. v. Public Service Commn. of New York ](https://www.quimbee.com/cases/central-hudson-gas-electric-corp-v-public-service-commn-of-new-york)
+[Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah ](https://www.quimbee.com/cases/church-of-the-lukumi-babalu-aye-inc-v-city-of-hialeah)**508 U.S. 520 (1993)**
 
-**447 U.S. 557 (1980)**
+[Citizens United v. Federal Election Commission ](https://www.quimbee.com/cases/citizens-united-v-federal-election-commission)**588 U.S. 310, 130 S.Ct. 876, 175 L.Ed.2d 753 (2010)**
 
-[Champion v. Ames ](https://www.quimbee.com/cases/champion-v-ames)
+[City of Boerne v. Flores ](https://www.quimbee.com/cases/city-of-boerne-v-flores)**521 U.S. 507 (1997)**
 
-**188 U.S. 321 (1903)**
+[City of Cleburne, Texas v. Cleburne Living Center, Inc. ](https://www.quimbee.com/cases/city-of-cleburne-texas-v-cleburne-living-center-inc)**473 U.S. 432 (1985)**
 
-[Chaplinsky v. New Hampshire ](https://www.quimbee.com/cases/chaplinsky-v-new-hampshire)
+[City of Erie v. Pap's A.M. ](https://www.quimbee.com/cases/city-of-erie-v-pap-s-a-m)**529 U.S. 277 (2000)**
 
-**315 U.S. 568 (1942)**
+[City of Littleton, Colorado v. Z.J. Gifts D-4, L.L.C.](https://www.quimbee.com/cases/city-of-littleton-colorado-v-z-j-gifts-d-4-l-l-c)**514 U.S. 774 (2004)**
 
-[Christian Legal Society Chapter of the University of California, Hastings College of the Law v. Martinez ](https://www.quimbee.com/cases/christian-legal-society-chapter-of-the-university-of-california-hastings-college-of-the-law-v-martinez)
+[City of Mobile v. Bolden ](https://www.quimbee.com/cases/city-of-mobile-v-bolden)**446 U.S. 55, 100 S.Ct. 1490, 64 L.Ed.2d 27 (1980)**
 
-**561 U.S. 661 (2010)**
+[City of Philadelphia v. New Jersey ](https://www.quimbee.com/cases/city-of-philadelphia-v-new-jersey)**437 U.S. 617 (1978)**
 
-[Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah ](https://www.quimbee.com/cases/church-of-the-lukumi-babalu-aye-inc-v-city-of-hialeah)
+[City of Renton v. Playtime Theatres, Inc. ](https://www.quimbee.com/cases/city-of-renton-v-playtime-theatres-inc)**475 U.S. 41 (1986)**
 
-**508 U.S. 520 (1993)**
+[City of Richmond v. J.A. Croson Co. ](https://www.quimbee.com/cases/city-of-richmond-v-j-a-croson-co)**488 U.S. 469 (1989)**
 
-[Citizens United v. Federal Election Commission ](https://www.quimbee.com/cases/citizens-united-v-federal-election-commission)
+[Clinton v. City of New York ](https://www.quimbee.com/cases/clinton-v-city-of-new-york)**524 U.S. 417 (1998)**
 
-**588 U.S. 310, 130 S.Ct. 876, 175 L.Ed.2d 753 (2010)**
+[Clinton v. Jones ](https://www.quimbee.com/cases/clinton-v-jones)**520 U.S. 681 (1997)**
 
-[City of Boerne v. Flores ](https://www.quimbee.com/cases/city-of-boerne-v-flores)
+[Cohen v. California ](https://www.quimbee.com/cases/cohen-v-california)**403 U.S. 15 (1971)**
 
-**521 U.S. 507 (1997)**
+[Cohen v. Cowles Media Co.](https://www.quimbee.com/cases/cohen-v-cowles-media-co) **501 U.S. 663 (1991)**
 
-[City of Cleburne, Texas v. Cleburne Living Center, Inc. ](https://www.quimbee.com/cases/city-of-cleburne-texas-v-cleburne-living-center-inc)
+[Committee for Public Education & Religious Liberty v. Nyquist, Commissioner of Education of New York](https://www.quimbee.com/cases/committee-for-public-education-amp-religious-liberty-v-nyquist-commissioner-of-education-of-new-york) **413 U.S. 756 (1973)**
 
-**473 U.S. 432 (1985)**
+[Coppage v. Kansas](https://www.quimbee.com/cases/coppage-v-kansas) **236 U.S. 1 (1915)**
 
-[City of Erie v. Pap's A.M. ](https://www.quimbee.com/cases/city-of-erie-v-pap-s-a-m)
+[County of Allegheny v. American Civil Liberties Union, Greater Pittsburgh Chapter ](https://www.quimbee.com/cases/county-of-allegheny-v-american-civil-liberties-union-greater-pittsburgh-chapter)**492 U.S. 573 (1989)**
 
-**529 U.S. 277 (2000)**
+[County of Sacramento v. Lewis ](https://www.quimbee.com/cases/county-of-sacramento-v-lewis)**523 U.S. 833 (1998)**
 
-[City of Littleton, Colorado v. Z.J. Gifts D-4, L.L.C.](https://www.quimbee.com/cases/city-of-littleton-colorado-v-z-j-gifts-d-4-l-l-c)
+[Cox Broadcasting Corp. v. Cohn ](https://www.quimbee.com/cases/cox-broadcasting-corp-v-cohn)**420 U.S. 469 (1975)**
 
-**514 U.S. 774 (2004)**
+[Craig v. Boren ](https://www.quimbee.com/cases/craig-v-boren)**429 U.S. 190, 97 S.Ct. 451, 50 L.Ed.2d 397 (1976)**
 
-[City of Mobile v. Bolden ](https://www.quimbee.com/cases/city-of-mobile-v-bolden)
+[Crawford v. Marion County Election Board](https://www.quimbee.com/cases/crawford-v-marion-county-election-board) **553 U.S. 181 (2008)**
 
-**446 U.S. 55, 100 S.Ct. 1490, 64 L.Ed.2d 27 (1980)**
+[Cruzan v. Director, Missouri Department of Health ](https://www.quimbee.com/cases/cruzan-v-director-missouri-department-of-health)**497 U.S. 261 (1990)**
 
-[City of Philadelphia v. New Jersey ](https://www.quimbee.com/cases/city-of-philadelphia-v-new-jersey)
-
-**437 U.S. 617 (1978)**
-
-[City of Renton v. Playtime Theatres, Inc. ](https://www.quimbee.com/cases/city-of-renton-v-playtime-theatres-inc)
-
-**475 U.S. 41 (1986)**
-
-[City of Richmond v. J.A. Croson Co. ](https://www.quimbee.com/cases/city-of-richmond-v-j-a-croson-co)
-
-**488 U.S. 469 (1989)**
-
-[Clinton v. City of New York ](https://www.quimbee.com/cases/clinton-v-city-of-new-york)
-
-**524 U.S. 417 (1998)**
-
-[Clinton v. Jones ](https://www.quimbee.com/cases/clinton-v-jones)
-
-**520 U.S. 681 (1997)**
-
-[Cohen v. California ](https://www.quimbee.com/cases/cohen-v-california)
-
-**403 U.S. 15 (1971)**
-
-[Cohen v. Cowles Media Co.](https://www.quimbee.com/cases/cohen-v-cowles-media-co)
-
-**501 U.S. 663 (1991)**
-
-[Committee for Public Education & Religious Liberty v. Nyquist, Commissioner of Education of New York](https://www.quimbee.com/cases/committee-for-public-education-amp-religious-liberty-v-nyquist-commissioner-of-education-of-new-york)
-
-**413 U.S. 756 (1973)**
-
-[Coppage v. Kansas](https://www.quimbee.com/cases/coppage-v-kansas)
-
-**236 U.S. 1 (1915)**
-
-[County of Allegheny v. American Civil Liberties Union, Greater Pittsburgh Chapter ](https://www.quimbee.com/cases/county-of-allegheny-v-american-civil-liberties-union-greater-pittsburgh-chapter)
-
-**492 U.S. 573 (1989)**
-
-[County of Sacramento v. Lewis ](https://www.quimbee.com/cases/county-of-sacramento-v-lewis)
-
-**523 U.S. 833 (1998)**
-
-[Cox Broadcasting Corp. v. Cohn ](https://www.quimbee.com/cases/cox-broadcasting-corp-v-cohn)
-
-**420 U.S. 469 (1975)**
-
-[Craig v. Boren ](https://www.quimbee.com/cases/craig-v-boren)
-
-**429 U.S. 190, 97 S.Ct. 451, 50 L.Ed.2d 397 (1976)**
-
-[Crawford v. Marion County Election Board ](https://www.quimbee.com/cases/crawford-v-marion-county-election-board)
-
-**553 U.S. 181 (2008)**
-
-[Cruzan v. Director, Missouri Department of Health ](https://www.quimbee.com/cases/cruzan-v-director-missouri-department-of-health)
-
-**497 U.S. 261 (1990)**
-
-[Cutter v. Wilkinson ](https://www.quimbee.com/cases/cutter-v-wilkinson)
-
-**544 U.S. 709 (2005)**
+[Cutter v. Wilkinson ](https://www.quimbee.com/cases/cutter-v-wilkinson)**544 U.S. 709 (2005)**
 
 *   #### D <a href="d" id="d"></a>
 
