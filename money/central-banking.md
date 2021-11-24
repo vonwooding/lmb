@@ -2,19 +2,7 @@
 
 ## Money With State
 
-{% embed url="https://river.com/learn/terms/f/federal-reserve-system" %}
-
-{% embed url="https://en.wikipedia.org/wiki/Aldrich%E2%80%93Vreeland_Act" %}
-
-{% embed url="https://river.com/learn/terms/f/fractional-reserve-banking" %}
-
-{% embed url="https://en.wikipedia.org/wiki/Money#Commercial_bank" %}
-How Banks Create Money
-{% endembed %}
-
-{% embed url="https://river.com/learn/terms/f/federal-open-market-committee-fomc" %}
-
-## Fractional-Reserve Banking
+### Fractional-Reserve Banking
 
 There are two types of money created in a fractional-reserve banking system operating with a central bank:
 
@@ -62,8 +50,8 @@ As an additional safeguard, banks often maintain a stock of low cost and reliabl
 
 ![](<../.gitbook/assets/Screen Shot 2021-11-02 at 10.41.54 AM.png>)
 
-## Money Without State
+### Money Without State
 
-### Philosophy, politics, and economics of cryptocurrency
+
 
 {% file src="../.gitbook/assets/MoneyWithoutState.pdf" %}
