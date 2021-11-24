@@ -108,6 +108,8 @@
   * [The Securities and Exchange Commission (SEC)](money/the-securities-and-exchange-commission-sec/README.md)
     * [Securities Regulations](money/the-securities-and-exchange-commission-sec/securities-regulations.md)
   * [IPO v. SPAC merger](money/ipo-v.-spac-merger.md)
+  * [Corporate & Commercial Law](money/corporate-and-commercial-law/README.md)
+    * [1. Contracts & Employment Law](money/corporate-and-commercial-law/1.-contracts-and-employment-law.md)
 * [Bitcoin](bitcoin/README.md)
   * [Bitcoin Mining](bitcoin/bitcoin-mining/README.md)
     * [06/10/21](bitcoin/bitcoin-mining/06-10-21.md)
