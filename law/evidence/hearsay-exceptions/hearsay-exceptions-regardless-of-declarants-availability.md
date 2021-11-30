@@ -4,8 +4,6 @@ description: These are not excluded by the rule against hearsay.
 
 # Rule 803: Hearsay Exception Regardless of Whether the Declarant Is Available
 
-
-
 The following statements are **not excluded** by the rule against hearsay, regardless of whether the declarant is available as a witness.
 
 ## 803(1) Present Sense Impression
@@ -38,19 +36,27 @@ This is a contemporaneous description of what the victim was experiencing or see
 
 ## 803(2) Excited Utterance
 
+A statement relating to a startling event or condition, made while the declarant was under the stress of excitement that it caused. This rule is more focused on assurance against fabrication than making sure the statement was accurate. It is presumed that people don't have time to concoct a lie or other deceitful statement with respect to an excited utterance.
+
 ### State v. Sutphin
 
-How long until an excited utterance becomes inadmissible? 5 factor test:
+The daughter told her father her boyfriend said he would kill her if she ever left him again. She was still under the stress of the excitement of the event when she returned to her father’s car after speaking with her boyfriend. But how much time must pass for an excited utterance to become inadmissible?&#x20;
 
-1. the length of time between the event and statement
-2. age of declarant
-3. physical and mental state of declarant
-4. characteristic of the event
-5. subject matter of the statement
+The court used a 5-factor test:
+
+1. The length of time between the event and statement
+2. the age of declarant
+3. the physical and mental state of the declarant
+4. the characteristic of the event
+5. the subject matter of the statement
 
 ### State v. Jeffers
 
 ## 803(3) Then-Existing Mental, Emotional, or Physical Condition
+
+A statement of the declarant’s **then-existing state of mind** (such as motive, intent or plan) **or emotional, sensory, or physical condition** (such as mental feeling, pain, or bodily health).&#x20;
+
+This does not include a statement of memory or belief to prove the fact remembered or believed,unless it relates to the validity or terms of the declarant’s will.
 
 ### State v. Phillips
 
@@ -60,10 +66,10 @@ Under Rule 803(3), hearsay is admissible if it is a statement of the declarant's
 
 **This exception encompasses the following four kinds of extrajudicial statements:**
 
-1. \*\*Statements of present bodily condition; \*\*
-2. \*\*Statements of present state of mind or emotion, offered to prove a state of mind or emotion of the declarant that is \`in issue' in the case; \*\*
-3. \*\*Statements of present state of mind—usually intent, plan, or design—offered to prove subsequent conduct of the declarant in accordance with the state of mind; and \*\*
-4. \*\*Statements of a testator indicating his state of mind offered on certain issues in a will case \*\*
+1. Statements of present bodily condition;&#x20;
+2. Statements of present state of mind or emotion offered to prove a state of mind or emotion of the declarant that is \`in issue' in the case;
+3. Statements of present state of mind—usually intent, plan, or design—offered to prove subsequent conduct of the declarant in accordance with the state of mind; and&#x20;
+4. Statements of a testator indicating his state of mind offered on certain issues in a will case
 
 Although the declarant's state of mind does not have to be directly in issue for the statement to be admissible under Rule 803(3), where a statement is introduced to show the declarant subsequently acted in compliance with this state of mind, the state of mind must be relevant.
 
@@ -77,25 +83,35 @@ The statement was relevant to the issue of specific intent and further supported
 
 ### Mutual Life Ins. Co. v. Hilmon
 
+> “I’ve met a man named Hillmon and I plan to go to Crooked Creek.”
+
+This state of mind is relevant because it shows he actually was in Crooked Creek and that is where the body was found. If we assume the intent to do something is some evidence that the person actually did it, it is relevant.We can offer statements that shows a state of mind regarding future intent to show the person acted later consistently with that state of mind.&#x20;
+
 The rule applicable to this case has been thus stated by this court: "Wherever the bodily or mental feelings of an individual are material to be proved, the usual expressions of such feelings are original and competent evidence. Those expressions are the natural reflexes of what it might be impossible to show by other testimony. If there be such other testimony, this may be necessary to set the facts thus developed in their true light, and to give them their proper effect.
 
 As independent explanatory or corroborative evidence, it is often indispensable to the due administration of justice. Such declarations are regarded as verbal acts, and are as competent as any other testimony, when relevant to the issue. Their truth or falsity is an inquiry for the jury." [Insurance Co. v. Mosley, 8 Wall.](https://scholar.google.com/scholar\_case?as\_sdt=6%2C39\&case=12914585457779444937\&hl=en\&q=145+us+285)
 
 ### Shepard v. United States
 
-Charles A. Shepard, a major in the medical corps of the United States army, has been convicted of the murder of his wife, Zenana Shepard, at Fort Riley, Kansas, a United States military reservation.
+> “Dr. Shepard has poisoned me.”
 
-The government wanted to introduce evidence of a conversation between Zenana and nurse Clara Brown.
+This statement goes to the declarant's state of mind and was being offered to show that she was not suicidal, and therefore did not poison herself.
+
+{% hint style="warning" %}
+This statement was examined under the Rule 403 balancing test.
+{% endhint %}
+
+Charles A. Shepard, a major in the medical corps of the United States army, has been convicted of the murder of his wife, Zenana Shepard, at Fort Riley, Kansas, a United States military reservation. The government wanted to introduce evidence of a conversation between Zenana and nurse Clara Brown.
 
 Zenana asked the nurse to go to the closet in the defendant's room and bring a bottle of whisky that would be found upon a shelf. When the bottle was produced, she said that this was the liquor she had taken just before collapsing. She asked whether enough was left to make a test for the presence of poison, insisting that the smell and taste were strange. And then she added the words "Dr. Shepard has poisoned me."
 
 ### United States v. Houlihan
 
-James Boyden Jr. was found dead; he had been shot in the back of the head. At issue in this case is whether Boyden's statement to his sister -- that he was going "to meet Billy Herd," one of the co-defendants in this case -- is admissible as evidence that he actually met Billy Herd.
+A person’s statement of intent to meet another person is their state of mind and therefore some evidence that the meeting occurred. But some jurisdictions require corroborating evidence that a meeting actually occurred between the two people.
 
 This case presents an issue of first impression in the First Circuit: Whether the out-of-court statement of a victim-declarant of an intention to meet with a defendant on the evening of the victim's murder can be admitted at trial as circumstantial evidence of the meeting.
 
-The court observed a circuit split on this question, observing that the Second and Fourth Circuits permit statements made about activity with third parties only if there's corroborating evidence that the third parties acted consistent with the statement. The Ninth Circuit, by contrast, required no such corroboration to admit statements involving the the activity of third parties under Fed. R. Evid. 803(3).
+James Boyden Jr. was found dead; he had been shot in the back of the head. At issue in this case is whether Boyden's statement to his sister -- that he was going "to meet Billy Herd," one of the co-defendants in this case -- is admissible as evidence that he actually met Billy Herd. The court observed a circuit split on this question, observing that the Second and Fourth Circuits permit statements made about activity with third parties only if there's corroborating evidence that the third parties acted consistent with the statement. The Ninth Circuit, by contrast, required no such corroboration to admit statements involving the the activity of third parties under Fed. R. Evid. 803(3).
 
 James Boyden Jr.'s statement that he was going out "to meet Billy Herd" is admissible against Herd under Fed.R.Evid. 803(3)
 
