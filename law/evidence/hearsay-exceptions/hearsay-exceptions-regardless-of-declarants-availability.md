@@ -107,13 +107,13 @@ Zenana asked the nurse to go to the closet in the defendant's room and bring a b
 
 ### United States v. Houlihan
 
+{% hint style="info" %}
 A person’s statement of intent to meet another person is their state of mind and therefore some evidence that the meeting occurred. But some jurisdictions require corroborating evidence that a meeting actually occurred between the two people.
+{% endhint %}
 
-This case presents an issue of first impression in the First Circuit: Whether the out-of-court statement of a victim-declarant of an intention to meet with a defendant on the evening of the victim's murder can be admitted at trial as circumstantial evidence of the meeting.
+This case presents an issue of first impression in the First Circuit: Whether the out-of-court statement of a victim-declarant of an intention to meet with a defendant on the evening of the victim's murder can be admitted at trial as circumstantial evidence of the meeting. James Boyden Jr.'s statement that he was going out "to meet Billy Herd" was admissible against Herd under Fed.R.Evid. 803(3).
 
-James Boyden Jr. was found dead; he had been shot in the back of the head. At issue in this case is whether Boyden's statement to his sister -- that he was going "to meet Billy Herd," one of the co-defendants in this case -- is admissible as evidence that he actually met Billy Herd. The court observed a circuit split on this question, observing that the Second and Fourth Circuits permit statements made about activity with third parties only if there's corroborating evidence that the third parties acted consistent with the statement. The Ninth Circuit, by contrast, required no such corroboration to admit statements involving the the activity of third parties under Fed. R. Evid. 803(3).
-
-James Boyden Jr.'s statement that he was going out "to meet Billy Herd" is admissible against Herd under Fed.R.Evid. 803(3)
+James Boyden Jr. was found dead; he had been shot in the back of the head. At issue in this case is whether Boyden's statement to his sister -- that he was going "to meet Billy Herd," one of the co-defendants in this case -- is admissible as evidence that he actually met Billy Herd. The court observed a circuit split on this question, observing that the Second and Fourth Circuits permit statements made about activity with third parties only if there's corroborating evidence that the third parties acted consistent with the statement. The Ninth Circuit, by contrast, required no such corroboration to admit statements involving the the activity of third parties under Fed. R. Evid. 803(3).&#x20;
 
 ## Exceptions 1-8
 

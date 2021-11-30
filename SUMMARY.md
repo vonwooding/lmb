@@ -94,6 +94,8 @@
     * [Hearsay Exceptions](law/evidence/hearsay-exceptions/README.md)
       * [Rule 803: Hearsay Exception Regardless of Whether the Declarant Is Available](law/evidence/hearsay-exceptions/hearsay-exceptions-regardless-of-declarants-availability.md)
       * [Rule 804: Require Declarant's Unavailability](law/evidence/hearsay-exceptions/rule-804-require-declarants-unavailability.md)
+      * [Rule 805: Hearsay Within Hearsay](law/evidence/hearsay-exceptions/rule-805-hearsay-within-hearsay.md)
+      * [Confrontation Clause](law/evidence/hearsay-exceptions/confrontation-clause.md)
     * [Impeachment and Rehabilitation](law/evidence/impeachment-and-rehabilitation.md)
     * [Opinion Evidence](law/evidence/opinion-evidence/README.md)
       * [Lay Opinions](law/evidence/lay-opinions.md)
