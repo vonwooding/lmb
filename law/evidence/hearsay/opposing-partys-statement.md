@@ -22,25 +22,32 @@ The Shafer sons (Chase and Arthur) inherited land from their father, Shafer Sr. 
 
 The Sons wished to claw back that document on the grounds that the affidavit is an out of court statement offered to prove the fact of the matter asserted. 801(d)(2)(B) provides that a statement by a party may be admissible when it is one the party manifested that it adopted or believed to be true.&#x20;
 
-## Adoptive Admission
-
-Rule 801(d)(1)(2)(B)
+## Adoptive Admission:  Rule 801(d)(1)(2)(B)
 
 **A statement is not hearsay when offered against an opposing party that manifested that the party adopted or believed the statement to be true.**
 
-When someone else makes a statement and the party affirms the staement, that can be used against the party. Moreover, if someone incriminates another in a manner that would typically illicit a response, and the incriminated party does not actively refute the claim, that silence may be admitted as truth of the matter asserted.
+When someone else makes a statement and the party affirms the statement, that can be used against the party. Moreover, if someone incriminates another in a manner that would typically elicit a response, and the incriminated party does not actively refute the claim, that silence may be admitted.
+
+{% hint style="info" %}
+If someone says something that incriminates another person, and the other says nothing, that silence can also be offered as an adoptive admission. _See_ Matthews.
+{% endhint %}
 
 ### Com. v. Babbitt
 
-Rosado and Babbitt beat a black man to death. Afterwards, Rosado tells David and several others on the bus (he claimed to have informed 100 people), about how he and Babbitt had beat a black man to death. Dolan testified and Hayward testified and Bilsborough even saw the body. All claimed that Rosado bragged while accounts of Babbitt varied. Some reported that Babbitt was silent at times and other times he would also brag.
+Rosado and Babbitt beat a black man to death. Afterward, Rosado tells David and several others on the bus (he claimed to have informed 100 people), about how he and Babbitt had beat a black man to death. Dolan testified and Hayward testified and Bilsborough even saw the body. All claimed that Rosado bragged while accounts of Babbitt varied. Some reported that Babbitt was silent at times and other times he would also brag. Rosado's statements of Babbitt's conduct were so abhorrent that any reasonable person would have attempted to refute.
 
-There are two exceptions to hearsay here. First, the duo admitted to the crime, which is admissible as a prior party statement. Second, although Babbitt was silent at times, his silence was an adoptive admission to the crime. Rosado's statements of Babbitt's conduct were so abhorrent that any reasonable person would have attempted to refute.
+There are two exceptions to hearsay here:
+
+1. The duo admitted to the crime, which is admissible as a prior party statement.&#x20;
+2. Although Babbitt was silent at times, his silence was an adoptive admission to the crime.&#x20;
 
 ### State v. Matthews
 
-Mathews and Long beat and rob a dominoes pizza driver. They returned to Longs house and he began to tell his fiance about the crime. Although Matthews looked perturbed during Long's recountenance, he remained silent.
+Mathews and Long beat and rob a domino's pizza driver. They returned to Long's house and he began to tell his fiance about the crime. Although Matthews looked perturbed during Long's reenactment, he remained silent. Afterward, Matthews and Long demonstrated the chokehold that they used to restrain the pizza delivery driver during the robbery and assault.&#x20;
 
-Afterwards, Matthews and Long demonstrated the choke hold that they used to restrain the pizza delivery driver during the robbery and assault. Matthew's silence and participation in the choke hold demonstration operate as an adoptive admission to the crime and therefore admissible as evidence.
+{% hint style="info" %}
+Matthew's silence and participation in the chokehold demonstration operate as an adoptive admission to the crime and therefore admissible as evidence.
+{% endhint %}
 
 ## Authorized Admissions
 
