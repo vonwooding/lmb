@@ -4,17 +4,37 @@ description: These are not excluded by the rule against hearsay.
 
 # Rule 803: Hearsay Exception Regardless of Whether the Declarant Is Available
 
+
+
 The following statements are **not excluded** by the rule against hearsay, regardless of whether the declarant is available as a witness.
 
 ## 803(1) Present Sense Impression
 
 ### State v. Phillips
 
+> “My husband is having an affair and I am going to divorce him.”
+
+This was not something she was observing as it was happening. A present sense impression must be what you are immediately perceiving and not the preliminary conclusions you are drawing at the present time.&#x20;
+
+#### Three requirements:
+
+1. the statement must happen at the time of the event
+2. the statement must describe the event; and
+3. the event must be something within the declarant’s personal knowledge
+
 ### U.S. v. Murillo
+
+> “I’m with Diana and Rico.”
+
+This is a contemporaneous description of what the victim was experiencing or seeing and thus satisfies the rule.&#x20;
 
 ### U.S. v. Delaphane
 
+\[insert]
+
 ### Hallums v. United States
+
+\[insert]
 
 ## 803(2) Excited Utterance
 
