@@ -30,22 +30,22 @@ When made in a federal proceeding or to a federal office or agency, the disclosu
 2. the holder of the privilege or protection took reasonable steps to prevent disclosure; and
 3. the holder promptly took reasonable steps to rectify the error, including (if applicable) following [Federal Rule of Civil Procedure 26 (b)(5)(B)](https://www.federalrulesofcivilprocedure.org/frcp/title-v-disclosures-and-discovery/rule-26-duty-to-disclose-general-provisions-governing-discovery/).
 
-#### **(c) Disclosure Made in a State Proceeding. **
+#### **(c) Disclosure Made in a State Proceeding.**&#x20;
 
 When the disclosure is made in a state proceeding and is not the subject of a state-court order concerning waiver, the disclosure does not operate as a waiver in a federal proceeding if the disclosure:
 
 1. would not be a waiver under this rule if it had been made in a federal proceeding; or
 2. is not a waiver under the law of the state where the disclosure occurred.
 
-#### **(d) Controlling Effect of a Court Order. **
+#### **(d) Controlling Effect of a Court Order.**&#x20;
 
 A federal court may order that the privilege or protection is not waived by disclosure connected with the litigation pending before the court — in which event the disclosure is also not a waiver in any other federal or state proceeding.
 
-#### **(e) Controlling Effect of a Party Agreement. **
+#### **(e) Controlling Effect of a Party Agreement.**&#x20;
 
 An agreement on the effect of disclosure in a federal proceeding is binding only on the parties to the agreement, unless it is incorporated into a court order.
 
-#### **(f) Controlling Effect of this Rule. **
+#### **(f) Controlling Effect of this Rule.**&#x20;
 
 Notwithstanding [Rules 101](https://www.rulesofevidence.org/article-i/rule-101/) and [1101](https://www.rulesofevidence.org/article-xi/rule-1101/), this rule applies to state proceedings and to federal court-annexed and federal court-mandated arbitration proceedings, in the circumstances set out in the rule. And notwithstanding Rule 501, this rule applies even if state law provides the rule of decision.
 

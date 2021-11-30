@@ -15,7 +15,7 @@
 7. **Evidence About Public Records.** Evidence that: (A) a document was recorded or filed in a public office as authorized by law; or (B) a purported public record or statement is from the office where items of this kind are kept.
 8. **Evidence About Ancient Documents or Data Compilations.** For a document or data compilation, evidence that it: (A) is in a condition that creates no suspicion about its authenticity; (B) was in a place where, if authentic, it would likely be; and (C) is at least 20 years old when offered.
 9. **Evidence About a Process or System.** Evidence describing a process or system and showing that it produces an accurate result.
-10. **Methods Provided By a Statute or Rule. **Any method of authentication or identification allowed by a federal statute or a rule prescribed by the Supreme Court.
+10. **Methods Provided By a Statute or Rule.** Any method of authentication or identification allowed by a federal statute or a rule prescribed by the Supreme Court.
 
 ## Rule 902 – Evidence That Is Self-Authenticating
 

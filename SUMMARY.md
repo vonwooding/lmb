@@ -122,6 +122,7 @@
     * [IPO v. SPAC merger](money/the-securities-and-exchange-commission-sec/ipo-v.-spac-merger.md)
     * [Securities Regulations](money/the-securities-and-exchange-commission-sec/securities-regulations.md)
     * [Investment Products](money/the-securities-and-exchange-commission-sec/investment-products.md)
+  * [Risk Management](money/risk-management.md)
 * [Bitcoin](bitcoin/README.md)
   * [Bitcoin Mining](bitcoin/bitcoin-mining/README.md)
     * [06/10/21](bitcoin/bitcoin-mining/06-10-21.md)

@@ -11,9 +11,9 @@ description: >-
 
 {% tabs %}
 {% tab title="Care " %}
-The duty of care is concerned with the manner in which directors make decisions. It requires directors to (1) make informed decisions and (2) actively attend to oversight of the corporation’s business and affairs. _**MBCA § 8.30  **_
+The duty of care is concerned with the manner in which directors make decisions. It requires directors to (1) make informed decisions and (2) actively attend to oversight of the corporation’s business and affairs. _**MBCA § 8.30**_ &#x20;
 
-The mere fact that a director breached the duty of care is not enough to hold a director liable. A director is liable only if the breach of the duty of care **actually and proximately caused **harm to the corporation or its shareholders.&#x20;
+The mere fact that a director breached the duty of care is not enough to hold a director liable. A director is liable only if the breach of the duty of care **actually and proximately caused** harm to the corporation or its shareholders.&#x20;
 
 ###
 
@@ -111,7 +111,7 @@ MBCA § 8.60
 
 > "A director is not liable for a conflicting-interest transaction if the board has approved the transaction, unless the transaction was fraudulent or misrepresented by the director with the conflicting interest."&#x20;
 
-#### **MBCA **§ 8.63
+#### **MBCA** § 8.63
 
 > "Voting shareholders must receive notice describing the action to be taken on the conflicting-interest transaction and must be informed of all material facts known to the conflicted director regarding the conflict of interest and the transaction itself."
 

@@ -4,7 +4,7 @@
 
 ### Overview
 
-In this module, we continue our discussion of contract law by focusing on the enforcement of agreements. We begin by examining _who_ can enforce contracts, then discuss _when _contracts can be enforced in court, and end by looking into _what types _of awards courts will grant when a party has been the victim of a breach of a contract. Throughout this module, we will call special attention to different rules that apply to contracts for the sale of goods.
+In this module, we continue our discussion of contract law by focusing on the enforcement of agreements. We begin by examining _who_ can enforce contracts, then discuss _when_ contracts can be enforced in court, and end by looking into _what types_ of awards courts will grant when a party has been the victim of a breach of a contract. Throughout this module, we will call special attention to different rules that apply to contracts for the sale of goods.
 
 ### Key Phrases/Concepts
 

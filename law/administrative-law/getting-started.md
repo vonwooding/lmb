@@ -12,7 +12,7 @@ Administrative agencies have no independent existence. They are created, enabled
 
 An agency is created to be a repository of expertise and so the Courts tend to defer to agency interpretations and adjudications.&#x20;
 
-We must always look for an admin agency's **source of authority. **Administrative agencies may be established by Congressional act **(organic statute)** or presidential directive **(founding memorandum).**
+We must always look for an admin agency's **source of authority.** Administrative agencies may be established by Congressional act **(organic statute)** or presidential directive **(founding memorandum).**
 
 ## Categories of Admin Agencies
 
