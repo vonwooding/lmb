@@ -1,14 +1,4 @@
-# Hearsay Exceptions
-
-## Rule 803: Exceptions
-
-The following are not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness:
-
-**(1) \_Present Sense Impression**\_**.** A statement describing or explaining an event or condition, made while or immediately after the declarant perceived it.
-
-**(2) \_Excited Utterance**\_**.** A statement relating to a startling event or condition, made while the declarant was under the stress of excitement that it caused.
-
-**(3) \_Then-Existing Mental, Emotional, or Physical Condition.**\_ A statement of the declarant’s then-existing state of mind (such as motive, intent, or plan) or emotional, sensory, or physical condition (such as mental feeling, pain, or bodily health), but not including a statement of memory or belief to prove the fact remembered or believed unless it relates to the validity or terms of the declarant’s will.
+# Rule 803: Regardless of Declarant's Availability
 
 ## 803(1) Present Sense Impression
 
