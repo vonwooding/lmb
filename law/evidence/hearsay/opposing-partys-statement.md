@@ -8,19 +8,19 @@ description: Rule 801(d)(1)(2)
 
 801(d)(1)(2)(A)
 
+There may be tension between this rule and the Dead Man's Statute.
+
 ### Estate of Shafer v. IRS
 
-Shafer sons (Chase and Arthur) inherited land form their father, Shafer Sr. but the amount of land owned by the estate, and therefore the amount due to the IRS in back taxes, was unclear. The sons claim that the father did not owned the land and they owe no taxes. In order to collect from the sons, the IRS wants to introduce an affidavit that had previously been provided by the sons. That affidavit contained quoted claims of ownership by Shafer Sr.
+The affidavit itself is written by the brothers and they are parties to the suit. Within the affidavit contains the statement of their father, who is also a party o Both the affidavit and its contents must satisfy an exception to hearsay.&#x20;
 
-The Sons now wish to claw back that document on the grounds that the affadavit is an out of court statement offered to prove the fact of the matter asserted.
+{% hint style="warning" %}
+This case involved both Rule 801 (d)(2)(A) and Rule 805.&#x20;
+{% endhint %}
 
-801(d)(2)(B) provides that a statement by a \*\*party \*\*may be admissible when it is one the party manifested that it adopted or believed to be true. The sons of Shafer are parties to this litigation as is Shafer as the estate owner.
+The Shafer sons (Chase and Arthur) inherited land from their father, Shafer Sr. but the amount of land owned by the estate, and therefore the amount due to the IRS in back taxes, was unclear. The sons claim that the father did not own the land and they owe no taxes. In order to collect from the sons, the IRS wants to introduce an affidavit that had previously been provided by the sons. That affidavit contained quoted claims of ownership by Shafer Sr.&#x20;
 
-There are separate hearsay exceptions for the affadavit itself and the purported claims of a third party contained within, as stated by the court: \*\*"In order to be admissible, both levels of statements within the affidavits must be excluded from the hearsay definition." \*\*
-
-There are two levels of evidence in this case. (1) The affadavit itself and (2) the claims of Shafer Sr. which the affadavit purports to represent .
-
-The court explained why Shafer Sr's admissions contained in the son's affadavit are not hearsay: \*\*"No modern court doubts that a decedent, whose rights are transmitted intact to his successor, is a person whose admissions are receivable against a party claiming the decedent's rights as heir, executor, or administrator." \*\*
+The Sons wished to claw back that document on the grounds that the affidavit is an out of court statement offered to prove the fact of the matter asserted. 801(d)(2)(B) provides that a statement by a party may be admissible when it is one the party manifested that it adopted or believed to be true.&#x20;
 
 ## Adoptive Admission
 
@@ -34,7 +34,7 @@ When someone else makes a statement and the party affirms the staement, that can
 
 Rosado and Babbitt beat a black man to death. Afterwards, Rosado tells David and several others on the bus (he claimed to have informed 100 people), about how he and Babbitt had beat a black man to death. Dolan testified and Hayward testified and Bilsborough even saw the body. All claimed that Rosado bragged while accounts of Babbitt varied. Some reported that Babbitt was silent at times and other times he would also brag.
 
-There are two exceptions to hearsay here. First, the duo admitted to the crime, which is admissible as a prior party statement. Second, although Babbitt was silent at times, his silence was an adoptive admission to the crime. Rosado's statements of Babbitt's conduct were so abhorrenet that any reasonable person would have attempted to refute.
+There are two exceptions to hearsay here. First, the duo admitted to the crime, which is admissible as a prior party statement. Second, although Babbitt was silent at times, his silence was an adoptive admission to the crime. Rosado's statements of Babbitt's conduct were so abhorrent that any reasonable person would have attempted to refute.
 
 ### State v. Matthews
 
