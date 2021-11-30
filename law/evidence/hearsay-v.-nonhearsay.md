@@ -14,6 +14,10 @@ The person who made the statement.
 
 > An out of court statement offered for the truth of the matter asserted.&#x20;
 
+{% content-ref url="hearsay/not-offered-for-the-truth-of-the-matter-asserted.md" %}
+[not-offered-for-the-truth-of-the-matter-asserted.md](hearsay/not-offered-for-the-truth-of-the-matter-asserted.md)
+{% endcontent-ref %}
+
 ## 801 (d) **Statements That Are Not Hearsay**
 
 A statement that meets the following conditions is not hearsay:
