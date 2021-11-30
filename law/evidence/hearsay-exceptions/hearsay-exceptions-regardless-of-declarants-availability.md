@@ -1,4 +1,10 @@
-# Rule 803: Regardless of Declarant's Availability
+---
+description: These are not excluded by the rule against hearsay.
+---
+
+# Rule 803: Hearsay Exception Regardless of Whether the Declarant Is Available
+
+The following statements are **not excluded** by the rule against hearsay, regardless of whether the declarant is available as a witness.
 
 ## 803(1) Present Sense Impression
 
