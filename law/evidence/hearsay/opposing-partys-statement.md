@@ -6,11 +6,7 @@ description: Rule 801(d)(1)(2)
 
 ## Made by Party in Individual or Representative Capacity
 
-Rule 801(d)(1)(2)**(A)**
-
-**801(d) Statements That Are Not Hearsay.** A statement that meets the following conditions is not hearsay:
-
-**(2) \_An Opposing Party’s Statement**\_**.** The statement is offered against an opposing party and **(A)** was made by the party in an individual or representative capacity.
+801(d)(1)(2)(A)
 
 ### Estate of Shafer v. IRS
 
