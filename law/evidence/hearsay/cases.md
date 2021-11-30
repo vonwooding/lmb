@@ -1,3 +1,7 @@
+---
+description: Rule 801(d)(1)(A); Rule 801(d)(1)(B)
+---
+
 # Prior Statements
 
 ## Prior Inconsistent Statement: Rule 801(d)(1)(A)

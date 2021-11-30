@@ -1,3 +1,7 @@
+---
+description: Overview of Rules 801(a)-801(d)
+---
+
 # Hearsay v. Non-Hearsay
 
 ## 801 **Definitions**
@@ -12,7 +16,11 @@ The person who made the statement.
 
 #### **(c) Hearsay**
 
-> An out of court statement offered for the truth of the matter asserted.&#x20;
+A statement that: (1) the declarant does not make while testifying at the **current** trial or hearing; and (2) a party offers in evidence to **prove the truth of the matter asserted** in the statement.&#x20;
+
+{% hint style="info" %}
+Testimony from trial one is considered hearsay at trial two. Even if it was taken by a court reporter under oath, if it was not at this proceeding, it will fit the definition of hearsay (and if being offered for truth of the matter asserted).&#x20;
+{% endhint %}
 
 {% content-ref url="hearsay/not-offered-for-the-truth-of-the-matter-asserted.md" %}
 [not-offered-for-the-truth-of-the-matter-asserted.md](hearsay/not-offered-for-the-truth-of-the-matter-asserted.md)

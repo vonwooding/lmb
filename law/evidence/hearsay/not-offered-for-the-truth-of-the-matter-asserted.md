@@ -1,4 +1,12 @@
+---
+description: Rule 801(c)(2)
+---
+
 # Not Offered for the Truth of the Matter Asserted
+
+## Rule 801(c)(2)&#x20;
+
+A statement that is not offered for the truth of the matter asserted is not excluded by the rule against hearsay.
 
 [Silanskas Case](../#commonwealth-v.-silanskas)
 
