@@ -28,7 +28,7 @@ Rule 801(d)(1)(2)(B)
 
 **A statement is not hearsay when offered against an opposing party that manifested that the party adopted or believed the statement to be true.**
 
-When someone else makes a statement and the party affirms the staement, that can be used against the party. Moreover, if someone incriminates another in a manner that would typically illicit a response, and the incriminated party does not actively refute the claim, that silence may be offered as evidence.
+When someone else makes a statement and the party affirms the staement, that can be used against the party. Moreover, if someone incriminates another in a manner that would typically illicit a response, and the incriminated party does not actively refute the claim, that silence may be admitted as truth of the matter asserted.
 
 ### Com. v. Babbitt
 
