@@ -89,7 +89,7 @@
     * [Hearsay](law/evidence/hearsay.md)
       * [Hearsay v. Non-Hearsay](law/evidence/hearsay-v.-nonhearsay.md)
       * [Not Offered for the Truth of the Matter Asserted](law/evidence/hearsay/not-offered-for-the-truth-of-the-matter-asserted.md)
-      * [Cases](law/evidence/hearsay/cases.md)
+      * [Prior Statements](law/evidence/hearsay/prior-statements.md)
       * [Opposing Party's Statement](law/evidence/hearsay/opposing-partys-statement.md)
     * [Hearsay Exceptions](law/evidence/hearsay-exceptions/README.md)
       * [Rule 803: Regardless of Declarant's Availability](law/evidence/hearsay-exceptions/hearsay-exceptions-regardless-of-declarants-availability.md)
