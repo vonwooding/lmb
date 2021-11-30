@@ -1,8 +1,6 @@
 # Prior Statements
 
-## Prior Inconsistent Statements
-
-Rule 801(d)(1)(A)
+## Prior Inconsistent Statement: Rule 801(d)(1)(A)
 
 ### Truman
 
@@ -20,7 +18,7 @@ The inconsistent statements must be signed under oath, under penalty of perjury,
 
 A jury cannot convict a person of a crime if the only evidence they have of the crime comes in as impeachment evidence. Prior inconsistent statements in this case would be used as impeachment evidence.
 
-## Prior Consistent Statements (Rule 801(d)(1)(B))
+## Prior Consistent Statement: Rule 801(d)(1)(B)
 
 A consistent statement offered to rebut a charge of recent fabrication or improper influence or motive must have been made before the alleged fabrication or improper influence or motive arose.
 
