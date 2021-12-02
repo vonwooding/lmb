@@ -108,6 +108,7 @@
       * [Cases](law/evidence/dead-mans-statute/cases.md)
     * [Privileges](law/evidence/privileges/README.md)
       * [Cases](law/evidence/privileges/cases.md)
+    * [Outline](law/evidence/outline.md)
 * [Business and Finance](money/README.md)
   * [Banking](money/central-banking.md)
   * [Business Management](money/business-management/README.md)
