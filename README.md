@@ -6,15 +6,13 @@
 LMB is a collection of information about Law, Money, and Bitcoin
 {% endhint %}
 
-## Von's Work Product
+## Work Product
 
 {% tabs %}
 {% tab title="Publications and Articles" %}
 #### Publications
 
 {% embed url="https://miningstore.com/the-weekly-rehash-report" %}
-A Newsletter About Bitcoin Mining And The Energy Markets
-{% endembed %}
 
 {% embed url="https://cryptocounsel.us" %}
 
