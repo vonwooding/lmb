@@ -28,8 +28,6 @@ LMB is an unfinished book about Law, Money, and Bitcoin
 
 </details>
 
-![allmylinks.com/vonwooding](.gitbook/assets/vonwooding\_business-card.jpeg)
-
 ## Other Work Product
 
 ### Publications
