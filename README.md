@@ -14,15 +14,15 @@ LMB is an unfinished book about Law, Money, and Bitcoin
 
 <summary>cryptocousel.us</summary>
 
-<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Facebook</mark>](https://www.facebook.com/cryptocounsel.us)<mark style="background-color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Facebook</mark>](https://www.facebook.com/cryptocounsel.us/)<mark style="color:blue;"></mark>
 
-<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Instagram</mark>](https://www.instagram.com/cryptocounsel.us/)<mark style="background-color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Instagram</mark>](https://www.instagram.com/cryptocounsel.us/)<mark style="color:blue;"></mark>
 
-<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Twitter</mark>](https://twitter.com/cryptocounselus)<mark style="background-color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Twitter</mark>](https://twitter.com/cryptocounselus)<mark style="color:blue;"></mark>
 
-<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Medium</mark>](https://cryptocounsel.us)<mark style="background-color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Medium</mark>](https://cryptocounsel.us)<mark style="color:blue;"></mark>
 
-<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Calendly</mark>](https://calendly.com/wooding/\_)<mark style="background-color:blue;"></mark>
+<mark style="color:blue;"></mark>[<mark style="color:blue;">Calendly</mark>](https://calendly.com/wooding/\_)<mark style="color:blue;"></mark>
 
 
 
