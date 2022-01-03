@@ -2,7 +2,7 @@
 description: LMB - A cryptocounsel.us production
 ---
 
-# Home
+# 🏠 Home
 
 ## What is this book about?
 
@@ -14,15 +14,15 @@ LMB is an unfinished book about Law, Money, and Bitcoin
 
 <summary>cryptocousel.us</summary>
 
-[Facebook](https://www.facebook.com/cryptocounsel.us)
+<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Facebook</mark>](https://www.facebook.com/cryptocounsel.us)<mark style="background-color:blue;"></mark>
 
-[Instagram](https://www.instagram.com/cryptocounsel.us/)
+<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Instagram</mark>](https://www.instagram.com/cryptocounsel.us/)<mark style="background-color:blue;"></mark>
 
-[Twitter](https://twitter.com/cryptocounselus)
+<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Twitter</mark>](https://twitter.com/cryptocounselus)<mark style="background-color:blue;"></mark>
 
-[Medium](https://cryptocounsel.us)
+<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Medium</mark>](https://cryptocounsel.us)<mark style="background-color:blue;"></mark>
 
-[Calendly](https://calendly.com/wooding/\_)
+<mark style="background-color:blue;"></mark>[<mark style="background-color:blue;">Calendly</mark>](https://calendly.com/wooding/\_)<mark style="background-color:blue;"></mark>
 
 
 
