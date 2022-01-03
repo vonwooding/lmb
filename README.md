@@ -1,20 +1,38 @@
+---
+description: LMB - A cryptocounsel.us production
+---
+
 # Home
 
 ## What is this book about?
 
 {% hint style="info" %}
-LMB is a collection of information about Law, Money, and Bitcoin
+LMB is an unfinished book about Law, Money, and Bitcoin
 {% endhint %}
 
-## Schedule To Learn More
+<details>
 
-{% embed url="https://calendly.com/wooding/_" %}
+<summary>cryptocousel.us</summary>
 
-## My Work Product
+[Facebook](https://www.facebook.com/cryptocounsel.us)
 
-{% tabs %}
-{% tab title="Publications and Articles" %}
-#### Publications
+[Instagram](https://www.instagram.com/cryptocounsel.us/)
+
+[Twitter](https://twitter.com/cryptocounselus)
+
+[Medium](https://cryptocounsel.us)
+
+</details>
+
+## Contact &#x20;
+
+{% embed url="https://www.allmylinks.com/vonwooding" %}
+
+![](.gitbook/assets/810DD352-6EDB-4482-84FF-9442955D8033.jpeg)
+
+## Other Work Product
+
+### Publications
 
 {% embed url="https://cryptocounsel.us" %}
 
@@ -22,7 +40,7 @@ LMB is a collection of information about Law, Money, and Bitcoin
 
 {% embed url="https://vonwooding.substack.com/archive" %}
 
-#### Articles
+### Articles
 
 {% embed url="https://river.com/learn/how-do-i-get-bitcoin" %}
 
@@ -41,52 +59,41 @@ LMB is a collection of information about Law, Money, and Bitcoin
 {% embed url="https://river.com/learn/roth-ira-vs-traditional-ira" %}
 
 {% embed url="https://river.com/learn/investing-bitcoin-in-llc" %}
-{% endtab %}
-
-{% tab title="Glossary Terms" %}
-
 
 {% embed url="https://river.com/learn/terms/b/bitlicense" %}
 
 {% embed url="https://river.com/learn/terms/b/bond" %}
 
 {% embed url="https://river.com/learn/terms/b/bank-secrecy-act-bsa" %}
-\
-
+\\
 {% endembed %}
 
 {% embed url="https://river.com/learn/terms/e/executive-order-6102" %}
-\
-
+\\
 {% endembed %}
 
 {% embed url="https://river.com/learn/terms/f/federal-deposit-insurance-corporation-fdic" %}
-\
-
+\\
 {% endembed %}
 
 {% embed url="https://river.com/learn/terms/f/financial-crimes-enforcement-network-fincen" %}
-\
-
+\\
 {% endembed %}
 
 {% embed url="https://river.com/learn/terms/c/commodity-trading-futures-commission-cftc" %}
 
 {% embed url="https://river.com/learn/terms/f/fiduciary-duty" %}
-\
-
+\\
 {% endembed %}
 
 {% embed url="https://river.com/learn/terms/s/security" %}
 
 {% embed url="https://river.com/learn/terms/p/payment-rail" %}
-\
-
+\\
 {% endembed %}
 
 {% embed url="https://river.com/learn/terms/b/business-continuity-and-disaster-recovery-bcdr" %}
-\
-
+\\
 {% endembed %}
 
 {% embed url="https://river.com/learn/terms/s/securities-and-exchange-commission-sec" %}
@@ -102,8 +109,7 @@ LMB is a collection of information about Law, Money, and Bitcoin
 {% embed url="https://river.com/learn/terms/c/credit" %}
 
 {% embed url="https://river.com/learn/terms/u/uniform-commercial-code-ucc" %}
-\
-
+\\
 {% endembed %}
 
 {% embed url="https://river.com/learn/terms/p/phishing-attack" %}
@@ -183,14 +189,3 @@ LMB is a collection of information about Law, Money, and Bitcoin
 {% embed url="https://river.com/learn/terms/c/cumulative-inflation" %}
 
 {% embed url="https://river.com/learn/terms/f/fractional-reserve-banking" %}
-{% endtab %}
-
-{% tab title="Contact" %}
-{% embed url="https://www.linkedin.com/in/vonwooding" %}
-
-![](<.gitbook/assets/Screen Shot 2021-11-17 at 12.56.28 AM.png>)
-{% endtab %}
-{% endtabs %}
-
-{% embed url="https://calendly.com/wooding/_" %}
-

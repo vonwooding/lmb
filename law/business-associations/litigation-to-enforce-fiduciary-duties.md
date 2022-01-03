@@ -11,13 +11,13 @@ description: >-
 
 {% tabs %}
 {% tab title="Care " %}
-The duty of care is concerned with the manner in which directors make decisions. It requires directors to (1) make informed decisions and (2) actively attend to oversight of the corporation’s business and affairs. _**MBCA § 8.30**_ &#x20;
+The duty of care is concerned with the manner in which directors make decisions. It requires directors to (1) make informed decisions and (2) actively attend to oversight of the corporation’s business and affairs. _**MBCA § 8.30**_
 
-The mere fact that a director breached the duty of care is not enough to hold a director liable. A director is liable only if the breach of the duty of care **actually and proximately caused** harm to the corporation or its shareholders.&#x20;
+The mere fact that a director breached the duty of care is not enough to hold a director liable. A director is liable only if the breach of the duty of care **actually and proximately caused** harm to the corporation or its shareholders.
 
-###
+####
 
-### Duty to Make Informed Decisions
+#### Duty to Make Informed Decisions
 
 MBCA § 8.30
 
@@ -31,9 +31,9 @@ MBCA § 8.30
 >
 > "reviewing industry studies, market research, outside publications, and engaging in private research"
 
-###
+####
 
-### Duty to Exercise Attentive Oversight
+#### Duty to Exercise Attentive Oversight
 
 MBCA § 8.30
 
@@ -43,9 +43,9 @@ MBCA § 8.30
 >
 > "notify the board when something is going wrong"
 
-###
+####
 
-### Prerogative to Rely on Information from Others
+#### Prerogative to Rely on Information from Others
 
 MBCA § 8.30(d)-(f)
 
@@ -55,35 +55,33 @@ MBCA § 8.30(d)-(f)
 >
 > "may rely on information, reports, opinions, and assertions by third-party professionals, such as lawyers and accountants" (unless that reliance is unwarranted)
 
-###
+####
 
-### Business-Judgment Rule
+#### Business-Judgment Rule
 
-The business-judgment rule may insulate a director from liability for some breaches of the duty of care (but not the duty of loyalty).&#x20;
+The business-judgment rule may insulate a director from liability for some breaches of the duty of care (but not the duty of loyalty).
 
 > "The business-judgment rule creates a rebuttable presumption that the corporate directors acted (1) in good faith, (2) upon reasonable information, and (3) in the honest belief that the act was in the corporation's best interests."
 >
 > "a director will not be liable for honest mistakes or simple poor judgment, even if the result is catastrophic for the corporation and its shareholders"
 >
-> "If the plaintiff can prove that the director acted in [gross negligence](https://www.law.cornell.edu/wex/gross\_negligence) or [bad faith](https://www.law.cornell.edu/wex/bad\_faith), then the court will not uphold the business judgment presumption."&#x20;
+> "If the plaintiff can prove that the director acted in [gross negligence](https://www.law.cornell.edu/wex/gross\_negligence) or [bad faith](https://www.law.cornell.edu/wex/bad\_faith), then the court will not uphold the business judgment presumption."
 >
 > "If the plaintiff can prove that the director had a [conflict of interest](https://www.law.cornell.edu/wex/conflict\_of\_interest), then the court will not uphold the business judgment presumption"
 {% endtab %}
 
 {% tab title="Disclosure and Candor" %}
-_**T**_The duty of candor requires directors to disclose all known, material facts when seeking shareholder approval of a transaction. Unless that disclosure would violate a superior legal obligation, such as a professional duty of confidentiality.&#x20;
+\_**T**\_The duty of candor requires directors to disclose all known, material facts when seeking shareholder approval of a transaction. Unless that disclosure would violate a superior legal obligation, such as a professional duty of confidentiality.
 
 _**MBCA § 8.30(c)**_
 
-_****_
+_\*\*\*\*_
 {% endtab %}
 
 {% tab title="Loyalty" %}
-The duty of loyalty requires that corporate directors put the interests of the corporation and its shareholders ahead of their personal interests or those of any single shareholder, group of shareholders, or third party. Directors can fulfill the duty of loyalty by acting honestly and in good faith, and by avoiding conflict of interest transactions.&#x20;
+The duty of loyalty requires that corporate directors put the interests of the corporation and its shareholders ahead of their personal interests or those of any single shareholder, group of shareholders, or third party. Directors can fulfill the duty of loyalty by acting honestly and in good faith, and by avoiding conflict of interest transactions.
 
-
-
-### Conflicting-Interest Transactions
+#### Conflicting-Interest Transactions
 
 MBCA § 8.60
 
@@ -91,35 +89,35 @@ MBCA § 8.60
 >
 > " A material financial interest is (1) a pecuniary interest (as opposed to an emotional or sentimental one) that (2) one could reasonably expect to impair or influence the director’s objective judgment regarding the transaction."
 
-###
+####
 
-### Competing with the Corporation
+#### Competing with the Corporation
 
 > "The director competes with the corporation if the director actively engages in a rival business or seeks to siphon customers or goodwill from the corporation."
 >
 > "Competition may be permitted (1) there is no reasonably foreseeable resulting harm to the corporation, or (2) any reasonably foreseeable resulting harm is outweighed by the reasonably foreseeable benefit to the corporation from allowing the competition."
 
-###
+####
 
-### Validating Conflicting-Interest Transactions
+#### Validating Conflicting-Interest Transactions
 
-#### MBCA § 8.61(b)
+**MBCA § 8.61(b)**
 
 > "A director may escape liability for a conflicting-interest transaction if (1) the board of directors properly approves it, (2) the shareholders properly approve it, or (3) it is objectively fair to the corporation."
 
-#### MBCA§ 8.62(a)
+**MBCA§ 8.62(a)**
 
-> "A director is not liable for a conflicting-interest transaction if the board has approved the transaction, unless the transaction was fraudulent or misrepresented by the director with the conflicting interest."&#x20;
+> "A director is not liable for a conflicting-interest transaction if the board has approved the transaction, unless the transaction was fraudulent or misrepresented by the director with the conflicting interest."
 
-#### **MBCA** § 8.63
+**MBCA § 8.63**
 
 > "Voting shareholders must receive notice describing the action to be taken on the conflicting-interest transaction and must be informed of all material facts known to the conflicted director regarding the conflict of interest and the transaction itself."
 
-#### **MBCA §§ 8.90**
+**MBCA §§ 8.90**
 
 > "A conflicting-interest transaction is valid if it produces a net benefit to the corporation, considering whether (1) the conflicted director dealt fairly with the corporation, and (2) the benefit was comparable to what the corporation might have gotten in a similar transaction."
 
-### Corporate-Opportunity Doctrine
+#### Corporate-Opportunity Doctrine
 {% endtab %}
 
 {% tab title="Indemnification of Directors" %}
@@ -132,14 +130,8 @@ c. Prohibited Indemnification: Proceeding by the Corporation or in Its Name
 d. Prohibited Indemnification: Receipt of Improper Financial Benefit
 
 e. Advancement
-
-
 {% endtab %}
 {% endtabs %}
-
-
-
-
 
 ## Fiduciary rules and available protections
 
@@ -149,7 +141,7 @@ e. Advancement
 
 {% embed url="https://sloanreview.mit.edu/wp-content/uploads/2003/07/b966946aae.pdf" %}
 
-Several basic fiduciary duty rules govern the conduct of directors of Delaware corporations. If these rules are understood and followed, directors should be able to avoid fiduciary duty breaches and protect themselves from exposure to potential liability. Fiduciary rules and available protections, discussed below, encompass:&#x20;
+Several basic fiduciary duty rules govern the conduct of directors of Delaware corporations. If these rules are understood and followed, directors should be able to avoid fiduciary duty breaches and protect themselves from exposure to potential liability. Fiduciary rules and available protections, discussed below, encompass:
 
 * the basic fiduciary duties (care and loyalty, including good faith, oversight and disclosure),
   * there is no private shareholder right of action for a violation of the [duty of good faith](https://www.law.cornell.edu/wex/duty\_of\_good\_faith), its violation may also raise a claim under the[ duty of loyalty.](https://www.law.cornell.edu/wex/duty\_of\_loyalty)
@@ -176,7 +168,7 @@ Several basic fiduciary duty rules govern the conduct of directors of Delaware c
 
 ## Direct v. Derivative Claims
 
-### Tooley v. Donaldson, Lufkin and Jenrette, Inc.&#x20;
+### Tooley v. Donaldson, Lufkin and Jenrette, Inc.
 
 ## Special Litigation Committees
 
