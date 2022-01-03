@@ -6,15 +6,19 @@
 LMB is a collection of information about Law, Money, and Bitcoin
 {% endhint %}
 
-## Work Product
+## Schedule To Learn More
+
+{% embed url="https://calendly.com/wooding/_" %}
+
+## My Work Product
 
 {% tabs %}
 {% tab title="Publications and Articles" %}
 #### Publications
 
-{% embed url="https://miningstore.com/the-weekly-rehash-report" %}
-
 {% embed url="https://cryptocounsel.us" %}
+
+{% embed url="https://miningstore.com/the-weekly-rehash-report" %}
 
 {% embed url="https://vonwooding.substack.com/archive" %}
 
@@ -187,8 +191,6 @@ LMB is a collection of information about Law, Money, and Bitcoin
 ![](<.gitbook/assets/Screen Shot 2021-11-17 at 12.56.28 AM.png>)
 {% endtab %}
 {% endtabs %}
-
-## Schedule To Learn More
 
 {% embed url="https://calendly.com/wooding/_" %}
 
