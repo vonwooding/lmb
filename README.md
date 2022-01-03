@@ -22,11 +22,11 @@ LMB is an unfinished book about Law, Money, and Bitcoin
 
 [Medium](https://cryptocounsel.us)
 
+[Calendly](https://calendly.com/wooding/\_)
+
+
+
 </details>
-
-## Contact &#x20;
-
-{% embed url="https://www.allmylinks.com/vonwooding" %}
 
 ![](.gitbook/assets/810DD352-6EDB-4482-84FF-9442955D8033.jpeg)
 
