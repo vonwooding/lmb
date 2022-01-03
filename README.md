@@ -4,7 +4,7 @@ description: LMB - A cryptocounsel.us production
 
 # 🏠 Home
 
-## What is this book about?
+What is this book about?
 
 {% hint style="info" %}
 LMB is an unfinished book about Law, Money, and Bitcoin
@@ -28,7 +28,7 @@ LMB is an unfinished book about Law, Money, and Bitcoin
 
 </details>
 
-![](.gitbook/assets/810DD352-6EDB-4482-84FF-9442955D8033.jpeg)
+![allmylinks.com/vonwooding](.gitbook/assets/vonwooding\_business-card.jpeg)
 
 ## Other Work Product
 
