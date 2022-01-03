@@ -187,3 +187,8 @@ LMB is a collection of information about Law, Money, and Bitcoin
 ![](<.gitbook/assets/Screen Shot 2021-11-17 at 12.56.28 AM.png>)
 {% endtab %}
 {% endtabs %}
+
+## Schedule To Learn More
+
+{% embed url="https://calendly.com/wooding/_" %}
+
