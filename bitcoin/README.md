@@ -4,5 +4,5 @@ description: >-
   exacerbated  by central financial intermediaries and institutions.
 ---
 
-# Bitcoin
+# 🪙 Bitcoin
 
