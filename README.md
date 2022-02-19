@@ -49,36 +49,22 @@ LMB is an unfinished book about Law, Money, and Bitcoin
 {% embed url="https://river.com/learn/terms/b/bond" %}
 
 {% embed url="https://river.com/learn/terms/b/bank-secrecy-act-bsa" %}
-\\
-{% endembed %}
 
 {% embed url="https://river.com/learn/terms/e/executive-order-6102" %}
-\\
-{% endembed %}
 
 {% embed url="https://river.com/learn/terms/f/federal-deposit-insurance-corporation-fdic" %}
-\\
-{% endembed %}
 
 {% embed url="https://river.com/learn/terms/f/financial-crimes-enforcement-network-fincen" %}
-\\
-{% endembed %}
 
 {% embed url="https://river.com/learn/terms/c/commodity-trading-futures-commission-cftc" %}
 
 {% embed url="https://river.com/learn/terms/f/fiduciary-duty" %}
-\\
-{% endembed %}
 
 {% embed url="https://river.com/learn/terms/s/security" %}
 
 {% embed url="https://river.com/learn/terms/p/payment-rail" %}
-\\
-{% endembed %}
 
 {% embed url="https://river.com/learn/terms/b/business-continuity-and-disaster-recovery-bcdr" %}
-\\
-{% endembed %}
 
 {% embed url="https://river.com/learn/terms/s/securities-and-exchange-commission-sec" %}
 
@@ -93,8 +79,6 @@ LMB is an unfinished book about Law, Money, and Bitcoin
 {% embed url="https://river.com/learn/terms/c/credit" %}
 
 {% embed url="https://river.com/learn/terms/u/uniform-commercial-code-ucc" %}
-\\
-{% endembed %}
 
 {% embed url="https://river.com/learn/terms/p/phishing-attack" %}
 
