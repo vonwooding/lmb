@@ -10,23 +10,9 @@ What is this book about?
 LMB is an unfinished book about Law, Money, and Bitcoin
 {% endhint %}
 
-<details>
+## Website
 
-<summary>cryptocousel.us</summary>
-
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Facebook</mark>](https://www.facebook.com/cryptocounsel.us/)<mark style="color:blue;"></mark>
-
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Instagram</mark>](https://www.instagram.com/cryptocounsel.us/)<mark style="color:blue;"></mark>
-
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Twitter</mark>](https://twitter.com/cryptocounselus)<mark style="color:blue;"></mark>
-
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Medium</mark>](https://cryptocounsel.us)<mark style="color:blue;"></mark>
-
-<mark style="color:blue;"></mark>[<mark style="color:blue;">Calendly</mark>](https://calendly.com/wooding/\_)<mark style="color:blue;"></mark>
-
-
-
-</details>
+{% embed url="http://www.pittsburghjd.com" %}
 
 ## Other Work Product
 
@@ -36,7 +22,7 @@ LMB is an unfinished book about Law, Money, and Bitcoin
 
 {% embed url="https://miningstore.com/the-weekly-rehash-report" %}
 
-{% embed url="https://vonwooding.substack.com/archive" %}
+{% embed url="https://jobsactlawyers.com/blog" %}
 
 ### Articles
 
@@ -187,3 +173,27 @@ LMB is an unfinished book about Law, Money, and Bitcoin
 {% embed url="https://river.com/learn/terms/c/cumulative-inflation" %}
 
 {% embed url="https://river.com/learn/terms/f/fractional-reserve-banking" %}
+
+{% embed url="https://jobsactlawyers.com/bidens-new-executive-order-regarding-future-payment-systems" %}
+
+{% embed url="https://jobsactlawyers.com/bidens-new-executive-order-regarding-future-payment-systems" %}
+
+{% embed url="https://jobsactlawyers.com/bidens-new-executive-order-regarding-future-payment-systems" %}
+
+{% embed url="https://jobsactlawyers.com/travel-rule-universal-solution-technology-trust" %}
+
+{% embed url="https://jobsactlawyers.com/nyse-files-for-crypto-and-nft-patents" %}
+
+{% embed url="https://jobsactlawyers.com/intel-announces-new-blockchain-working-group" %}
+
+{% embed url="https://jobsactlawyers.com/blockfi-settles-with-sec-for-one-million-usd" %}
+
+{% embed url="https://jobsactlawyers.com/binance-invests-in-forbes-to-increase-crypto-awareness" %}
+
+{% embed url="https://jobsactlawyers.com/canada-cracks-down-on-crowdfunding-platforms" %}
+
+{% embed url="https://jobsactlawyers.com/kickstarter-and-the-future-of-decentralized-crowdfunding" %}
+
+{% embed url="https://jobsactlawyers.com/department-of-justice-to-create-fbi-crypto-task-force" %}
+
+{% embed url="https://jobsactlawyers.com/nasdaq-report-highlights-crowdfundings-incredible-takeoff" %}
